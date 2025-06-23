@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1750562426,
-            "filename": "axion-1.6-FINAL-20250622-OFFICIAL-GMS-surya.zip",
-            "id": "470d4b1c030a343014c23d2b082c3e71",
+            "datetime": 1750685033,
+            "filename": "axion-1.6-FINAL-20250623-OFFICIAL-GMS-surya.zip",
+            "id": "ccdb661fe1006ff8205a98839ed93b47",
             "romtype": "OFFICIAL",
-            "size": 2018572050,
-            "url": "https://github.com/HinohArata/dummy_release/releases/download/ax-1.6/axion-1.6-FINAL-20250622-OFFICIAL-GMS-surya.zip",
+            "size": 2018917827,
+            "url": "https://github.com/HinohArata/dummy_release/releases/download/ax-1.6/axion-1.6-FINAL-20250623-OFFICIAL-GMS-surya.zip",
             "version": "1.6"
         }
     ]
