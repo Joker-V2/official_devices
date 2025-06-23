@@ -1,3 +1,10 @@
+AxionAOSP v1.6 Final HotFIX Update
+Build Date: 23/06/2025
+
+- Fixed cpu gov stuck at performance even after closing game 
+
+
+
 Changelogs For AxionAOSP v1.6 Final Update
 Build Date: 22/06/2025
 
@@ -7,7 +14,7 @@ Build Date: 22/06/2025
 
 - Turned off audit config on kernel
 
-- Removed bootlager from device tree
+- Removed Bootlogger from device tree
 
 
 
