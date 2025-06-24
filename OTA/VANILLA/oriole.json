@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1750463306,
-            "filename": "axion-1.6-FINAL-20250620-OFFICIAL-VANILLA-oriole.zip",
-            "id": "067d97aef9145b38d6add82bf7ef7327",
+            "datetime": 1750724309,
+            "filename": "axion-1.6-FINAL-20250624-OFFICIAL-VANILLA-oriole.zip",
+            "id": "7d69977ae5901be62c57c7fcf9bcbc1a",
             "romtype": "OFFICIAL",
-            "size": 1436383761,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6/axion-1.6-FINAL-20250620-OFFICIAL-VANILLA-oriole.zip",
+            "size": 1437014158,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6-FINAL/axion-1.6-FINAL-20250624-OFFICIAL-VANILLA-oriole.zip",
             "version": "1.6"
         }
     ]

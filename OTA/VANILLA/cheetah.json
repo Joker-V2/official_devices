@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1750430734,
-            "filename": "axion-1.6-FINAL-20250620-OFFICIAL-VANILLA-cheetah.zip",
-            "id": "99fce551051c374ae6f62381c26649d5",
+            "datetime": 1750714667,
+            "filename": "axion-1.6-FINAL-20250623-OFFICIAL-VANILLA-cheetah.zip",
+            "id": "a0ae81e33333e00558f9786aa5d19418",
             "romtype": "OFFICIAL",
-            "size": 1593746606,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6/axion-1.6-FINAL-20250620-OFFICIAL-VANILLA-cheetah.zip",
+            "size": 1594692919,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6-FINAL/axion-1.6-FINAL-20250623-OFFICIAL-VANILLA-cheetah.zip",
             "version": "1.6"
         }
     ]
