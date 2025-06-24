@@ -239,6 +239,13 @@
       "image_url": "https://wiki.lineageos.org/images/devices/Mi8937_variant5_6.png"
     },
     {
+      "device_name": "Redmi Note 7/7s",
+      "codename": "lavender",
+      "maintainer": "Sã Śâjjãd؜",
+      "support_group": "https://t.me/snx_supports",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-7.jpg"
+    },
+    {
       "device_name": "Redmi Note 8 Pro",
       "codename": "begonia",
       "maintainer": "Saikrishna",
