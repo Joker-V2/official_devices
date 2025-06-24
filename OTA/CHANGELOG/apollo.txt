@@ -1,0 +1,8 @@
+AxionOS v1.6
+Build Date 22/06/2025
+- Initial Build
+- Dolby Atmos support
+- ViperFX Added
+- Xiaomi Touch Feature Added
+- High Touch Polling Rate Added
+- Vanilla and GMS (Pico) both variants available
