@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1749990288,
-            "filename": "axion-1.5-NIGHTLY-20250615-OFFICIAL-VANILLA-haydn.zip",
-            "id": "3b494ff14d670c5bc4607cca67b5f9a0",
+            "datetime": 1750789683,
+            "filename": "axion-1.6-FINAL-20250624-OFFICIAL-VANILLA-haydn.zip",
+            "id": "34b7ab618a88a43dadc43ff18ef7cc2a",
             "romtype": "OFFICIAL",
-            "size": 2037345410,
-            "url": "https://sourceforge.net/projects/asimbuilds/files/AxionAOSP/axion-1.5-NIGHTLY-20250615-OFFICIAL-VANILLA-haydn.zip/download",
-            "version": "1.5"
+            "size": 2052321821,
+            "url": "https://github.com/Hexdare/releases/releases/download/axion-1.6-FINAL-20250624-OFFICIAL-VANILLA-haydn/axion-1.6-FINAL-20250624-OFFICIAL-VANILLA-haydn.zip",
+            "version": "1.6"
         }
     ]
 }
