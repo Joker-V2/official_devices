@@ -1,0 +1,6 @@
+AxionOS v1.6
+Build Date 25/06/2025
+- Initial Build
+- Dolby Atmos support
+- Vanilla and GMS (Pico) both variants available
+- switch to FBE-V2 encryption
