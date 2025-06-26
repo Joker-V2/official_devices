@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1747192770,
-            "filename": "axion-1.4-NIGHTLY-20250514-OFFICIAL-GMS-kebab.zip",
-            "id": "6d011c74c83b27146b048543924373ce",
+            "datetime": 1750865207,
+            "filename": "axion-1.6-FINAL-20250625-OFFICIAL-GMS-kebab.zip",
+            "id": "af48309576e1c0403e5d94eb40467298",
             "romtype": "OFFICIAL",
-            "size": 1773560620,
-            "url": "https://github.com/manidweep/Releases/releases/download/axion_os_v1.4_kebab/axion-1.4-NIGHTLY-20250514-OFFICIAL-GMS-kebab.zip",
-            "version": "1.4"
+            "size": 1777151344,
+            "url": "https://github.com/manidweep/Releases/releases/download/axion_os_v1.6_kebab/axion-1.6-FINAL-20250625-OFFICIAL-GMS-kebab.zip",
+            "version": "1.6"
         }
     ]
 }

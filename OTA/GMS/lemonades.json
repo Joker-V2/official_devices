@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1747193509,
-            "filename": "axion-1.4-NIGHTLY-20250514-OFFICIAL-GMS-lemonades.zip",
-            "id": "84fcd7a39ff100ad8dffb2ed8ae12c37",
+            "datetime": 1750866744,
+            "filename": "axion-1.6-FINAL-20250625-OFFICIAL-GMS-lemonades.zip",
+            "id": "b051f09c9fbc7f8d0a1499daf853c13a",
             "romtype": "OFFICIAL",
-            "size": 1774246923,
-            "url": "https://github.com/manidweep/Releases/releases/download/axion_os_v1.4_lemonades/axion-1.4-NIGHTLY-20250514-OFFICIAL-GMS-lemonades.zip",
-            "version": "1.4"
+            "size": 1777854723,
+            "url": "https://github.com/manidweep/Releases/releases/download/axion_os_v1.6_lemonades/axion-1.6-FINAL-20250625-OFFICIAL-GMS-lemonades.zip",
+            "version": "1.6"
         }
     ]
 }
