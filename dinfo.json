@@ -92,13 +92,6 @@
       "image_url": "https://wiki.lineageos.org/images/devices/komodo.png"
     },
     {
-      "device_name": "Galaxy A71 4G",
-      "codename": "a71",
-      "maintainer": "rmux",
-      "support_group": "https://t.me/+EIxj3VlCCxA2YmU0",
-      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a71.jpg"
-    },
-    {
       "device_name": "Mi 9T",
       "codename": "davinci",
       "maintainer": "Steven (superxorn)",
@@ -160,13 +153,6 @@
       "maintainer": "Rve",
       "support_group": "https://t.me/rvosuniverse",
       "image_url": "https://wiki.lineageos.org/images/devices/beryllium.png"
-    },
-    {
-      "device_name": "POCO F3/Mi 11X/Redmi K40",
-      "codename": "alioth",
-      "maintainer": "ꜱᴀɴᴊɪ | サンジ",
-      "support_group": "https://t.me/sanjissupport",
-      "image_url": "https://wiki.lineageos.org/images/devices/alioth.png"
     },
     {
       "device_name": "POCO F5",

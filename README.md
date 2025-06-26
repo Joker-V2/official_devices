@@ -15,7 +15,6 @@
 | **Google Pixel 9**         | `tokay`      |
 | **Google Pixel 9 Pro**     | `caiman`     |
 | **Google Pixel 9 Pro XL**  | `komodo`     |
-| **Galaxy A71 4G**          | `a71`        |
 | **Mi 9T**                  | `davinci`    |
 | **Mi 10T/Mi 10T pro**      | `apollo`     |
 | **Mi 11X Pro/Mi 11i/Redmi K40 Pro+**  | `haydn`     |
@@ -25,7 +24,6 @@
 | **Oneplus 8T**             | `kebab`      |
 | **Oneplus 9R**             | `lemonades`  |
 | **POCO F1**                | `beryllium`  |
-| **POCO F3/Mi 11X/Redmi K40**         | `alioth`     |
 | **POCO F5**                | `marble`     |
 | **POCO F6**                | `peridot`    |
 | **POCO F6 PRO**            | `vermeer`    |
@@ -45,7 +43,6 @@
 
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-7 series - Open for Co-Maintainership (Pixel 6 series))
-- **[rmux](https://github.com/rmuxnet)** (Galaxy A71 4G)
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series and Pixel 9 series)
 - **[Rve](https://github.com/Rve27)** (POCO F1 and Redmi 3S/3X/4/4A/4X/5A/Note 5A/Y1)
@@ -59,7 +56,6 @@
 - **[Ryuk](https://github.com/ryukftw)** (Realme GT Neo 3T)
 - **[Sã Śâjjãd؜](https://github.com/Sa-Sajjad)** (Redmi Note 7/7s)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro)
-- **[ꜱᴀɴᴊɪ | サンジ](https://github.com/Sanjivns)** (POCO F3/Mi 11X/Redmi K40)
 - **[eidawon](https://github.com/eidawon)** (Redmi Note 10 Pro/Pro Max)
 - **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro/Pro Max)
 - **[rmux](https://github.com/rmuxnet)** (Xiaomi Pad 6)
