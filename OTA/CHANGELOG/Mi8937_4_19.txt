@@ -1,3 +1,8 @@
+AxionOS v1.6 Final
+Build Date : 27/06/2025
+- Bump to AxionOS v1.6
+- Reconfigure cpusets configuration
+
 AxionOS v1.5 Nightly
 Build Date : 12/06/2025
 - Drop TARGET_RECOVERY_DEVICE_MODULES
