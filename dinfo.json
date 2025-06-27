@@ -253,13 +253,6 @@
       "image_url": "https://wiki.lineageos.org/images/devices/socrates.png"
     },
     {
-      "device_name": "Xiaomi Pad 6",
-      "codename": "pipa",
-      "maintainer": "rmux",
-      "support_group": "https://t.me/+EIxj3VlCCxA2YmU0",
-      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-pad6.jpg"
-    },
-    {
       "device_name": "Xiaomi 11T Pro",
       "codename": "vili",
       "maintainer": "swiitchOFF",

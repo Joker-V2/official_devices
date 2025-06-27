@@ -38,7 +38,6 @@
 | **Redmi Note 10 Pro**      | `sweet`      |
 | **Redmi Note 13 Pro 5G / POCO X6 5G**  | `garnet`     |
 | **Redmi K60 Pro**          | `socrates`   |
-| **Xiaomi Pad 6**           | `pipa`       |
 | **Xiaomi 11T Pro**         | `vili`       |
 
 ## 👤 Maintainers  
