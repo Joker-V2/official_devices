@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1749421413,
-            "filename": "axion-1.5-NIGHTLY-20250608-OFFICIAL-GMS-lynx.zip",
-            "id": "fd5184354a46a6af8eb3755a4c28544b",
+            "datetime": 1750521772,
+            "filename": "axion-1.6-FINAL-20250621-OFFICIAL-GMS-lynx.zip",
+            "id": "60c58264b00dc974fe77cd729797e254",
             "romtype": "OFFICIAL",
-            "size": 1981224289,
-            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/lynx/1.x/gapps/axion-1.5-NIGHTLY-20250608-OFFICIAL-GMS-lynx.zip/download",
-            "version": "1.5"
+            "size": 2168741342,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/lynx/1.x/gapps/axion-1.6-FINAL-20250621-OFFICIAL-GMS-lynx.zip/download",
+            "version": "1.6"
         }
     ]
 }
