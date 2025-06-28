@@ -1,4 +1,11 @@
 Axion v1.6 Final
+Build Date 28/08/2025
+-Updated Blobs
+-Fixed p3
+-Fixed sound cracking issue
+-Dolby vision Added
+
+Axion v1.6 Final
 Build Date 20/06/2025
 -Updated Blobs to OS2.0.4.0.UMSMIXM
 -Added Game bar
