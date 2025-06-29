@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1750424610,
-            "filename": "axion-1.6-FINAL-20250620-OFFICIAL-GMS-begonia.zip",
-            "id": "71c953f4116bae7270bef6a13bff38bb",
+            "datetime": 1751172248,
+            "filename": "axion-1.6-FINAL-20250629-OFFICIAL-GMS-begonia.zip",
+            "id": "8228994d0bd63bcf346413fdee8c427a",
             "romtype": "OFFICIAL",
-            "size": 2042883993,
-            "url": "https://github.com/Saikrishna1504/OTA/releases/download/axion_1.6/axion-1.6-FINAL-20250620-OFFICIAL-GMS-begonia.zip",
+            "size": 2044716799,
+            "url": "https://github.com/Saikrishna1504/OTA/releases/download/axion_1.6-hotfix/axion-1.6-FINAL-20250629-OFFICIAL-GMS-begonia.zip",
             "version": "1.6"
         }
     ]
