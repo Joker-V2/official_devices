@@ -33,10 +33,8 @@
 | **Realme 5 series**        | `r5x`        |
 | **Realme GT Neo 3T**       | `rmx3371`    |
 | **Redmi Mi8937_4_19 Series**    | `Mi8937_4_19`     |
-| **Redmi Note 7/7s**        | `lavender`   |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro**      | `sweet`      |
-| **Redmi Note 13 Pro 5G / POCO X6 5G**  | `garnet`     |
 | **Redmi K60 Pro**          | `socrates`   |
 | **Xiaomi 11T Pro**         | `vili`       |
 
@@ -53,14 +51,12 @@
 - **[zenin1504](https://github.com/zenin1504)** (POCO X6 PRO 5G)
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x)
 - **[Ryuk](https://github.com/ryukftw)** (Realme GT Neo 3T)
-- **[Sã Śâjjãd؜](https://github.com/Sa-Sajjad)** (Redmi Note 7/7s)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro)
 - **[eidawon](https://github.com/eidawon)** (Redmi Note 10 Pro/Pro Max)
 - **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro/Pro Max)
 - **[rmux](https://github.com/rmuxnet)** (Xiaomi Pad 6)
 - **[Steven (superxorn)](https://github.com/superxorn)** (Mi 9T)
 - **[Murtaza Kolachi](https://github.com/MurtazaKolachi)** (Mi 10T/Mi 10T pro)
-- **[Byben](https://github.com/ramaadni)** (Redmi Note 13 Pro 5G / POCO X6 5G)
 - **[Hexdare](https://github.com/Hexdare)** (Mi 11X Pro/Mi 11i/Redmi K40 Pro+)
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel 8 series, Pixel Tablet & Pixel 7a)
 - **[swiitchOFF](https://github.com/swiitchOFF)** (Xiaomi 11T Pro)
