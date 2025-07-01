@@ -1,4 +1,13 @@
-AxionOS v1.4 Changelogs for peridot:
+AxionOS Changelogs for peridot:
+
+Build Date : 01/07/2025
+- Update blobs to OS2.0.105.0.VNPMIXM
+- Switch to Vulkan UI renderer (also fix HDR too)
+- Reduce system server verbosity
+- audio: use QCOM Implementation for Audio Effects
+- audio: hal: set valid and supported channel mask for earpiece
+- Use hybrid prox sensor on keyguard (fix top speaker in LS)
+- ඞ
 
 Build Date : 14/06/2025
 - Update blobs to OS2.0.104.0.VNPMIXM
