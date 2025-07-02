@@ -35,7 +35,6 @@
 | **Redmi Mi8937_4_19 Series**    | `Mi8937_4_19`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro**      | `sweet`      |
-| **Redmi K60 Pro**          | `socrates`   |
 | **Xiaomi 11T Pro**         | `vili`       |
 
 ## 👤 Maintainers  
@@ -53,7 +52,7 @@
 - **[Ryuk](https://github.com/ryukftw)** (Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro)
 - **[eidawon](https://github.com/eidawon)** (Redmi Note 10 Pro/Pro Max)
-- **[donjohanliebert](https://github.com/donjohanliebert)** (Redmi K60 Pro, Redmi Note 10 Pro/Pro Max)
+- **[therealmharc](https://github.com/donjohanliebert)** (Redmi Note 10 Pro/Pro Max)
 - **[rmux](https://github.com/rmuxnet)** (Xiaomi Pad 6)
 - **[Steven (superxorn)](https://github.com/superxorn)** (Mi 9T)
 - **[Murtaza Kolachi](https://github.com/MurtazaKolachi)** (Mi 10T/Mi 10T pro)

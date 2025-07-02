@@ -227,16 +227,9 @@
     {
       "device_name": "Redmi Note 10 Pro/Pro Max",
       "codename": "sweet",
-      "maintainer": "eidawon1402",
+      "maintainer": "eidawon1402 & therealmharc",
       "support_group": "https://t.me/eidawonsg",
       "image_url": "https://wiki.lineageos.org/images/devices/sweet.png"
-    },
-    {
-      "device_name": "Redmi K60 Pro",
-      "codename": "socrates",
-      "maintainer": "donjohanliebert",
-      "support_group": "https://t.me/donjohanliebert_sg",
-      "image_url": "https://wiki.lineageos.org/images/devices/socrates.png"
     },
     {
       "device_name": "Xiaomi 11T Pro",
