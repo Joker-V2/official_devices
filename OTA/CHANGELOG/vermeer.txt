@@ -9,3 +9,18 @@ Build Date : 08/05/2025
 - Include Miui Gallery
 - Includes Firmware 2.0.100.0.VNKMIXM
 - Clean Flash Required!!!
+
+AxionOS v1.6 - FINAL
+Build Date: 27/07/2025
+- June 2025 Security patch.
+- Update blobs from OS2.0.201.0.VNKMIXM
+- Support Wifi 6
+- Nfc Fixed
+- KernelOss Update to 5.15.185
+- Switch AudioOSS and Agm OSS
+- Move media.settings.xml props to system
+- Enable ACS and 11ac for softap operations
+- Include Miui camera and Dolby
+- Include Miui Gallery
+- Includes Firmware 2.0.201.0.VNKMIXM
+- Clean Flash Required!!!
