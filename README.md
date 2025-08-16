@@ -30,7 +30,7 @@
 | **POCO X5 Pro 5G**         | `redwood`    |
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **Realme 5 series**        | `r5x`        |
-| **Realme GT Neo 3T**       | `rmx3371`    |
+| **Realme GT Neo 3T**       | `spartan`    |
 | **Redmi Mi8937_4_19 Series**    | `Mi8937_4_19`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro**      | `sweet`      |
@@ -49,7 +49,7 @@
 - **[Skyy丨アラタ](https://github.com/HinohArata)** (POCO X3 NFC)
 - **[Mayur-U](https://github.com/Mayur-U)** (POCO X5 PRO 5G)
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x)
-- **[Ryuk](https://github.com/ryukftw)** (Realme GT Neo 3T)
+- **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro/POCO X6 PRO 5G)
 - **[eidawon](https://github.com/eidawon)** (Redmi Note 10 Pro/Pro Max)
 - **[therealmharc](https://github.com/donjohanliebert)** (Redmi Note 10 Pro/Pro Max)
