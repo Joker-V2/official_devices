@@ -36,6 +36,7 @@
 | **Redmi Note 10 Pro**      | `sweet`      |
 | **Redmi Note 13 Pro 5G / POCO X6 5G**  | `garnet`     |
 | **Xiaomi 11T Pro**         | `vili`       |
+| **Xiaomi Pad 6**           | `pipa`       |
 
 ## 👤 Maintainers  
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-7 series - Open for Co-Maintainership (Pixel 6 series))
@@ -54,7 +55,7 @@
 - **[eidawon](https://github.com/eidawon)** (Redmi Note 10 Pro/Pro Max)
 - **[therealmharc](https://github.com/donjohanliebert)** (Redmi Note 10 Pro/Pro Max)
 - **[kibria5](https://github.com/kibria5)** (Redmi Note 13 Pro 5G / POCO X6 5G)
-- **[rmux](https://github.com/rmuxnet)** (Xiaomi Pad 6)
+- **[Pranshu Sheoran](https://github.com/sheoranpranshu)** (Xiaomi Pad 6)
 - **[Murtaza Kolachi](https://github.com/MurtazaKolachi)** (Mi 10T/Mi 10T pro)
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel 8 series, Pixel Tablet & Pixel 7a)
 - **[swiitchOFF](https://github.com/swiitchOFF)** (Xiaomi 11T Pro)
