@@ -36,6 +36,7 @@
 | **Redmi Note 10 Pro**      | `sweet`      |
 | **Redmi Note 13 Pro 5G / POCO X6 5G**  | `garnet`     |
 | **Xiaomi 11T Pro**         | `vili`       |
+| **Redmi K20 Pro / Mi 9T Pro**           | `raphael`       |
 | **Xiaomi Pad 6**           | `pipa`       |
 
 ## 👤 Maintainers  
@@ -59,3 +60,4 @@
 - **[Murtaza Kolachi](https://github.com/MurtazaKolachi)** (Mi 10T/Mi 10T pro)
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel 8 series, Pixel Tablet & Pixel 7a)
 - **[swiitchOFF](https://github.com/swiitchOFF)** (Xiaomi 11T Pro)
+- **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)

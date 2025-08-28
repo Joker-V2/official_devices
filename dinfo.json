@@ -246,6 +246,13 @@
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-11t-pro.jpg"
     },
     {
+      "device_name": "Redmi K20 Pro / Mi 9T Pro",
+      "codename": "raphael",
+      "maintainer": "Muhammad Al-Arabi",
+      "support_group": "https://t.me/Al_Arabis_Support",
+      "image_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k20pro-5.jpg"
+    },
+    {
       "device_name": "Xiaomi Pad 6",
       "codename": "pipa",
       "maintainer": "Pranshu Sheoran",
