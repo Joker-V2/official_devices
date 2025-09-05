@@ -148,6 +148,13 @@
       "image_url": "https://wiki.lineageos.org/images/devices/beryllium.png"
     },
     {
+      "device_name": "POCO F3/K40/Mi 11X",
+      "codename": "alioth",
+      "maintainer": "therealmharc",
+      "support_group": "https://t.me/donjohanliebert_sg",
+      "image_url": "https://wiki.lineageos.org/images/devices/alioth.png"
+    },
+    {
       "device_name": "POCO F5",
       "codename": "marble",
       "maintainer": "Ashwani",

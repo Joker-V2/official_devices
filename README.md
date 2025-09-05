@@ -22,6 +22,7 @@
 | **Oneplus 8T**             | `kebab`      |
 | **Oneplus 9R**             | `lemonades`  |
 | **POCO F1**                | `beryllium`  |
+| **POCO F3/K40/Mi 11X**     | `alioth`     |
 | **POCO F5**                | `marble`     |
 | **POCO F5 PRO/K60**            | `mondrian`   |
 | **POCO F6**                | `peridot`    |
@@ -62,3 +63,4 @@
 - **[swiitchOFF](https://github.com/swiitchOFF)** (Xiaomi 11T Pro)
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)
 - **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo 20p/Narzo 304G)
+- **[therealmharc](https://github.com/therealmharc)** (POCO F3/K40/Mi 11X)
