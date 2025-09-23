@@ -36,7 +36,6 @@
 | **Redmi Mi8937_4_19 Series**    | `Mi8937_4_19`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro / Pro Max**      | `sweet`      |
-| **Redmi Note 13 Pro 5G / POCO X6 5G**  | `garnet`     |
 | **Xiaomi 11T Pro**         | `vili`       |
 | **Redmi K20 Pro / Mi 9T Pro**           | `raphael`       |
 | **Xiaomi Pad 6**           | `pipa`       |
@@ -56,7 +55,6 @@
 - **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro/POCO X6 PRO 5G)
 - **[eidawon](https://github.com/eidawon)** (Redmi Note 10 Pro/Pro Max)
-- **[kibria5](https://github.com/kibria5)** (Redmi Note 13 Pro 5G / POCO X6 5G)
 - **[Pranshu Sheoran](https://github.com/sheoranpranshu)** (Xiaomi Pad 6)
 - **[Murtaza Kolachi](https://github.com/MurtazaKolachi)** (Mi 10T/Mi 10T pro)
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel 8 series, Pixel Tablet & Pixel 7a)

@@ -246,13 +246,6 @@
       "image_url": "https://wiki.lineageos.org/images/devices/sweet.png"
     },
     {
-      "device_name": "Redmi Note 13 Pro 5G / POCO X6 5G",
-      "codename": "garnet",
-      "maintainer": "kibria5",
-      "support_group": "https://t.me/Garnet_Discussion",
-      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-x6.jpg"
-    },
-    {
       "device_name": "Xiaomi 11T Pro",
       "codename": "vili",
       "maintainer": "swiitchOFF",
