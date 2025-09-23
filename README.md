@@ -31,7 +31,7 @@
 | **POCO X5 Pro 5G**         | `redwood`    |
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **Realme 5 series**        | `r5x`        |
-| **Realme 6/7/Narzo Unified**    | `RM6785`     |
+| **Realme 6/Narzo Unified**    | `RM6785`     |
 | **Realme GT Neo 3T**       | `spartan`    |
 | **Redmi Mi8937_4_19 Series**    | `Mi8937_4_19`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
@@ -60,5 +60,5 @@
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel 8 series, Pixel Tablet & Pixel 7a)
 - **[swiitchOFF](https://github.com/swiitchOFF)** (Xiaomi 11T Pro)
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)
-- **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo 20p/Narzo 304G)
+- **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/Narzo /Narzo 20p/Narzo 304G)
 - **[therealmharc](https://github.com/therealmharc)** (POCO F3/K40/Mi 11X)
