@@ -33,6 +33,7 @@
 | **Realme 5 series**        | `r5x`        |
 | **Realme 6/Narzo Unified**    | `RM6785`     |
 | **Realme GT Neo 3T**       | `spartan`    |
+| **Redmi Blossom Series**   | `blossom`    |
 | **Redmi Mi8937_4_19 Series**    | `Mi8937_4_19`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro / Pro Max**      | `sweet`      |
@@ -62,3 +63,4 @@
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)
 - **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/Narzo /Narzo 20p/Narzo 304G)
 - **[therealmharc](https://github.com/therealmharc)** (POCO F3/K40/Mi 11X)
+- **[fukiame](https://github.com/fukiame)** (Redmi 9A/9i/9C/10A / POCO C3/C31)
