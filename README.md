@@ -26,12 +26,11 @@
 | **POCO F5**                | `marble`     |
 | **POCO F5 PRO/K60**            | `mondrian`   |
 | **POCO F6**                | `peridot`    |
-| **POCO F6 PRO**            | `vermeer`    |
 | **POCO X3 NFC**            | `surya`      |
 | **POCO X5 Pro 5G**         | `redwood`    |
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **Realme 5 series**        | `r5x`        |
-| **Realme 6/Narzo Unified**    | `RM6785`     |
+| **Realme 6/7/Narzo Unified**    | `RM6785`     |
 | **Realme GT Neo 3T**       | `spartan`    |
 | **Redmi Blossom Series**   | `blossom`    |
 | **Redmi Mi8937_4_19 Series**    | `Mi8937_4_19`     |
@@ -49,7 +48,6 @@
 - **[beingashwani](https://github.com/beingashwani)** (POCO F5)
 - **[Keosh](https://github.com/keosh1)** (POCO F5 Pro/K60)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
-- **[Lunark](https://github.com/ByteWave1014)** (POCO F6 PRO)
 - **[Skyy丨アラタ](https://github.com/HinohArata)** (POCO X3 NFC)
 - **[Mayur-U](https://github.com/Mayur-U)** (POCO X5 PRO 5G)
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x)
@@ -61,6 +59,6 @@
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel 8 series, Pixel Tablet & Pixel 7a)
 - **[swiitchOFF](https://github.com/swiitchOFF)** (Xiaomi 11T Pro)
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)
-- **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/Narzo /Narzo 20p/Narzo 304G)
+- **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo 20p/Narzo 304G)
 - **[therealmharc](https://github.com/therealmharc)** (POCO F3/K40/Mi 11X)
 - **[fukiame](https://github.com/fukiame)** (Redmi 9A/9i/9C/10A / POCO C3/C31)

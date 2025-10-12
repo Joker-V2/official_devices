@@ -176,13 +176,6 @@
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f6.jpg"
     },
     {
-      "device_name": "POCO F6 PRO",
-      "codename": "vermeer",
-      "maintainer": "Lunark",
-      "support_group": "https://t.me/PocoF6ProSupport",
-      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f6-pro.jpg"
-    },
-    {
       "device_name": "POCO X3 NFC",
       "codename": "surya",
       "maintainer": "Skyy丨アラタ",
@@ -211,10 +204,10 @@
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/realme-5i.jpg"
     },
     {
-      "device_name": "Realme 6/Narzo Unified",
+      "device_name": "Realme 6/7/Narzo Unified",
       "codename": "RM6785",
       "maintainer": "𝙴𝙻𝙾𝙷𝙸𝙼",
-      "support_group": "https://t.me/RM6785_Chat",
+      "support_group": "https://t.me/https://t.me/RM6785_Chat",
       "image_url": "https://fdn2.gsmarena.com/vv/pics/realme/realme-6-1.jpg"
     },
     {
