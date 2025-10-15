@@ -1,6 +1,7 @@
 AxionAOSP v2.1 Nightly
 Build Date : 15/10/2025
 - Initial android 16 release
+- Switch to dynamic partitions
 - Adapt tree to AxionAOSP v2.1 changes
 - Rebase kernel source to lineage_qcom_sd845
 - Remove dolby (temporary)
