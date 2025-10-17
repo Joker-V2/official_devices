@@ -1,0 +1,6 @@
+AxionOS v2.1
+Build Date : 17/10/2025
+- Synced with latest source
+- Leica and Dolby included
+- Disable vulkan ui renderer
+- some minor changes
