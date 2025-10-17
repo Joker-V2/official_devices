@@ -1,3 +1,7 @@
+AxionAOSP v2.1 Nightly
+Build Date : 17/10/2025
+- Bump to AxionAOSP v2.1
+
 AxionOS v1.6 Final
 Build Date : 27/06/2025
 - Bump to AxionOS v1.6
