@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1751963148,
-            "filename": "axion-1.6-FINAL-20250708-OFFICIAL-GMS-cancunf.zip",
-            "id": "26933c1b3077fbec51096d2e5e455a91",
+            "datetime": 1760581233,
+            "filename": "axion-2.1-NIGHTLY-20251016-OFFICIAL-GMS-cancunf.zip",
+            "id": "4511eb3f23187e06834aa5e0a12edbc5",
             "romtype": "OFFICIAL",
-            "size": 2073115539,
-            "url": "https://vzf6c-my.sharepoint.com/personal/notayan_vzf6c_onmicrosoft_com/_layouts/15/download.aspx?share=EU1igNfXBW5Gh76HkFFUZ0wBVLNRle52shU5WVi3C9d9oQ",
-            "version": "1.6"
+            "size": 2238651586,
+            "url": "https://drive.google.com/uc?id=1zjdqorvEcYyiUpMmNPJZlgCPocI3n-QE&export=download",
+            "version": "2.1"
         }
     ]
 }
