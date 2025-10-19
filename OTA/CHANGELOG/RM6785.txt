@@ -1,0 +1,6 @@
+AxionOS v2.1
+Build Date : 19/10/2025
+- Synced with latest source
+- Dolby included
+- Fixed random screen blinking
+- Enabled wireguard
