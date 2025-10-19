@@ -59,6 +59,6 @@
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel 8 series, Pixel Tablet & Pixel 7a)
 - **[swiitchOFF](https://github.com/swiitchOFF)** (Xiaomi 11T Pro)
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)
-- **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo 20p/Narzo 304G)
+- **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo/Narzo 20p/Narzo 304G)
 - **[therealmharc](https://github.com/therealmharc)** (POCO F3/K40/Mi 11X)
 - **[fukiame](https://github.com/fukiame)** (Redmi 9A/9i/9C/10A / POCO C3/C31)
