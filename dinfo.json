@@ -169,6 +169,14 @@
       "image_url": "https://wiki.lineageos.org/images/devices/alioth.png"
     },
     {
+      "device_name": "POCO F4/K40S",
+      "codename": "munch",
+      "maintainer": "SENX|センクス",
+      "github_username": "SenseiiX",
+      "support_group": "https://t.me/senseixhub",
+      "image_url": "https://wiki.lineageos.org/images/devices/munch.png"
+    },
+    {
       "device_name": "POCO F5",
       "codename": "marble",
       "maintainer": "Ashwani",
