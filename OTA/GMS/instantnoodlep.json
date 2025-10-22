@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1750862585,
-            "filename": "axion-1.6-FINAL-20250625-OFFICIAL-GMS-instantnoodlep.zip",
-            "id": "e7f8d09929515dffb1934366cb2d97e0",
+            "datetime": 1761105025,
+            "filename": "axion-2.1-NIGHTLY-20251022-OFFICIAL-GMS-instantnoodlep.zip",
+            "id": "293cdf4d52794d3f294bb7dea05f97ea",
             "romtype": "OFFICIAL",
-            "size": 1874131906,
-            "url": "https://github.com/manidweep/Releases/releases/download/axion_os_v1.6_instantnoodlep/axion-1.6-FINAL-20250625-OFFICIAL-GMS-instantnoodlep.zip",
-            "version": "1.6"
+            "size": 2208355446,
+            "url": "https://sourceforge.net/projects/testingop8series/files/Axion/2.1/instantnoodlep/axion-2.1-NIGHTLY-20251022-OFFICIAL-GMS-instantnoodlep.zip/download",
+            "version": "2.1"
         }
     ]
 }
