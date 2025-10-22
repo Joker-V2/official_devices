@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1750571517,
-            "filename": "axion-1.6-FINAL-20250622-OFFICIAL-GMS-apollo.zip",
-            "id": "510e387f84ad57b0f2220b4ffe9ebf1c",
+            "datetime": 1761144307,
+            "filename": "axion-2.1-NIGHTLY-20251022-OFFICIAL-GMS-apollo.zip",
+            "id": "d2bcbb5db70a362deb70f706fbbb8869",
             "romtype": "OFFICIAL",
-            "size": 2067444207,
-            "url": "https://sourceforge.net/projects/murtaza-apollo/files/Apollo/AxionAOSP/axion-1.6-FINAL-20250622-OFFICIAL-GMS-apollo.zip/download",
-            "version": "1.6"
+            "size": 1990514750,
+            "url": "https://github.com/AxionAOSP-devices/android_device_xiaomi_apollo/releases/download/v2.1/axion-2.1-NIGHTLY-20251022-OFFICIAL-GMS-apollo.zip",
+            "version": "2.1"
         }
     ]
 }
