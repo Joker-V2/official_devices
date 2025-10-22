@@ -23,6 +23,7 @@
 | **Oneplus 9R**             | `lemonades`  |
 | **POCO F1**                | `beryllium`  |
 | **POCO F3/K40/Mi 11X**     | `alioth`     |
+| **POCO F4**                | `munch`  |
 | **POCO F5**                | `marble`     |
 | **POCO F5 PRO/K60**            | `mondrian`   |
 | **POCO F6**                | `peridot`    |
@@ -62,3 +63,4 @@
 - **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo/Narzo 20p/Narzo 304G)
 - **[therealmharc](https://github.com/therealmharc)** (POCO F3/K40/Mi 11X)
 - **[fukiame](https://github.com/fukiame)** (Redmi 9A/9i/9C/10A / POCO C3/C31)
+- **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S)
