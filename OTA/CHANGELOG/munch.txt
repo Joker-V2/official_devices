@@ -1,0 +1,7 @@
+AxionOS v2.1
+Build Date: 24/10/2025
+- Initial Build
+- Dolby Atmos support
+- Leica Cam Included
+- Ship with FusionX Kernel
+- Vanilla and GMS (Pico) both variants available
