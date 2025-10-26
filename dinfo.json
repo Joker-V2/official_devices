@@ -153,14 +153,6 @@
       "image_url": "https://wiki.lineageos.org/images/devices/lemonades.png"
     },
     {
-      "device_name": "POCO F1",
-      "codename": "beryllium",
-      "maintainer": "Rve",
-      "github_username": "Rve27",
-      "support_group": "https://t.me/rve_enterprises",
-      "image_url": "https://wiki.lineageos.org/images/devices/beryllium.png"
-    },
-    {
       "device_name": "POCO F3/K40/Mi 11X",
       "codename": "alioth",
       "maintainer": "therealmharc",
@@ -255,14 +247,6 @@
       "github_username": "fukiame",
       "support_group": "https://t.me/t25_discussions",
       "image_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/redmi-9a-01.jpg"
-    },
-    {
-      "device_name": "Redmi Mi8937 Series",
-      "codename": "Mi8937_4_19",
-      "maintainer": "Rve",
-      "github_username": "Rve27",
-      "support_group": "https://t.me/rve_enterprises",
-      "image_url": "https://wiki.lineageos.org/images/devices/Mi8937_variant5_6.png"
     },
     {
       "device_name": "Redmi Note 8 Pro",

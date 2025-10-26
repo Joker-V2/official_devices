@@ -21,7 +21,6 @@
 | **Oneplus 8 Pro**          | `instantnoodlep`|
 | **Oneplus 8T**             | `kebab`      |
 | **Oneplus 9R**             | `lemonades`  |
-| **POCO F1**                | `beryllium`  |
 | **POCO F3/K40/Mi 11X**     | `alioth`     |
 | **POCO F4**                | `munch`  |
 | **POCO F5**                | `marble`     |
@@ -34,7 +33,6 @@
 | **Realme 6/7/Narzo Unified**    | `RM6785`     |
 | **Realme GT Neo 3T**       | `spartan`    |
 | **Redmi Blossom Series**   | `blossom`    |
-| **Redmi Mi8937_4_19 Series**    | `Mi8937_4_19`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro / Pro Max**      | `sweet`      |
 | **Xiaomi 11T Pro**         | `vili`       |
@@ -45,7 +43,6 @@
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-7 series - Open for Co-Maintainership (Pixel 6 series))
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series and Pixel 9 series)
-- **[Rve](https://github.com/Rve27)** (POCO F1 and Redmi 3S/3X/4/4A/4X/5A/Note 5A/Y1)
 - **[beingashwani](https://github.com/beingashwani)** (POCO F5)
 - **[Keosh](https://github.com/keosh1)** (POCO F5 Pro/K60)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
