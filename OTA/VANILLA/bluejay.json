@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1750726654,
-            "filename": "axion-1.6-FINAL-20250624-OFFICIAL-VANILLA-bluejay.zip",
-            "id": "944256aedd171ccb7a29b6a3ae6f0e0f",
+            "datetime": 1761467796,
+            "filename": "axion-2.1-NIGHTLY-20251026-OFFICIAL-VANILLA-bluejay.zip",
+            "id": "595e3b43df242d918a1b3b81a2529314",
             "romtype": "OFFICIAL",
-            "size": 1437139279,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6-FINAL/axion-1.6-FINAL-20250624-OFFICIAL-VANILLA-bluejay.zip",
-            "version": "1.6"
+            "size": 1872946598,
+            "url": "https://drive.google.com/file/d/1Gibcqslbi4CsOqSjsLxPjuX7nqIU81ji/view?usp=drive_link",
+            "version": "2.1"
         }
     ]
 }
