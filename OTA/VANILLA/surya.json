@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1750693093,
-            "filename": "axion-1.6-FINAL-20250623-OFFICIAL-VANILLA-surya.zip",
-            "id": "c3fe0eaff856eadf2bb2a90d98009c75",
+            "datetime": 1761493877,
+            "filename": "axion-2.1-NIGHTLY-20251026-OFFICIAL-VANILLA-surya.zip",
+            "id": "93549ea7daffe1377d506221ca433fd9",
             "romtype": "OFFICIAL",
-            "size": 1585466868,
-            "url": "https://github.com/HinohArata/dummy_release/releases/download/ax-1.6/axion-1.6-FINAL-20250623-OFFICIAL-VANILLA-surya.zip",
-            "version": "1.6"
+            "size": 1679962531,
+            "url": "https://github.com/Arata-Labs/ROMs/releases/download/Axion/axion-2.1-NIGHTLY-20251026-OFFICIAL-VANILLA-surya.zip",
+            "version": "2.1"
         }
     ]
 }
