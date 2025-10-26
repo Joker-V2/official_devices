@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1750715719,
-            "filename": "axion-1.6-FINAL-20250623-OFFICIAL-GMS-cheetah.zip",
-            "id": "eca216e577a6ec7b37f0bb46af5a6db4",
+            "datetime": 1761443798,
+            "filename": "axion-2.1-NIGHTLY-20251026-OFFICIAL-GMS-cheetah.zip",
+            "id": "4190477ee0ab2070239dfd1efebcffda",
             "romtype": "OFFICIAL",
-            "size": 1980385192,
-            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/1.6-FINAL/axion-1.6-FINAL-20250623-OFFICIAL-GMS-cheetah.zip",
-            "version": "1.6"
+            "size": 2422200737,
+            "url": "https://drive.google.com/file/d/1RYge8-ibMbxHK2G6_bSZU7ah7qabo93K/view?usp=drive_link",
+            "version": "2.1"
         }
     ]
 }
