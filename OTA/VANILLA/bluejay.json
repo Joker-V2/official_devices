@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1761467796,
-            "filename": "axion-2.1-NIGHTLY-20251026-OFFICIAL-VANILLA-bluejay.zip",
-            "id": "595e3b43df242d918a1b3b81a2529314",
+            "datetime": 1761633004,
+            "filename": "axion-2.1-NIGHTLY-20251028-OFFICIAL-VANILLA-bluejay.zip",
+            "id": "24e05d474cdba53aa423c6d601287266",
             "romtype": "OFFICIAL",
-            "size": 1872946598,
-            "url": "https://drive.google.com/file/d/1Gibcqslbi4CsOqSjsLxPjuX7nqIU81ji/view?usp=drive_link",
+            "size": 1977308959,
+            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.X/axion-2.1-NIGHTLY-20251028-OFFICIAL-VANILLA-bluejay.zip/download",
             "version": "2.1"
         }
     ]
