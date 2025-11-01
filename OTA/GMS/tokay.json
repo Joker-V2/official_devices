@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1750913541,
-            "filename": "axion-1.6-FINAL-20250626-OFFICIAL-GMS-tokay.zip",
-            "id": "05b013ea763f68d550d26de0acb4ce7a",
+            "datetime": 1762930433,
+            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-tokay.zip",
+            "id": "655b107e2a5e80711ed1f62908dc5209",
             "romtype": "OFFICIAL",
-            "size": 2152461224,
-            "url": "https://sourceforge.net/projects/pixel-9-series-releases/files/1.6/tokay/gapps/axion-1.6-FINAL-20250626-OFFICIAL-GMS-tokay.zip/download",
-            "version": "1.6"
+            "size": 3270050303,
+            "url": "https://sourceforge.net/projects/axionaosp/files/2.x/GMS/tokay/axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-tokay.zip/download",
+            "version": "2.2"
         }
     ]
 }
