@@ -105,14 +105,6 @@
       "image_url": "https://wiki.lineageos.org/images/devices/komodo.png"
     },
     {
-      "device_name": "Mi 10T/Mi 10T pro",
-      "codename": "apollo",
-      "maintainer": "Murtaza Kolachi",
-      "github_username": "MurtazaKolachi",
-      "support_group": "https://t.me/Murtazasapollocommunity",
-      "image_url": "https://www.bug.hr/img/xiaomi-mi-10t-serija-telefona-za-kreativce_oFqltN.png"
-    },
-    {
       "device_name": "Motorola G54",
       "codename": "cancunf",
       "maintainer": "Ayan",
