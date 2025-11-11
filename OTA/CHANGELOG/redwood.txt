@@ -1,3 +1,10 @@
+Axion v2.2
+Build Date 09/11/2025
+-updated blobs
+-fixed cam issues(gallery not opening)
+-updated kernel to scarlet latest(non ksu)
+-bring back sony dolby(moto ui)
+
 Axion v2.1
 Build Date 16/10/2025
 -Updated Blobs
