@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1761265631,
-            "filename": "axion-2.1-NIGHTLY-20251024-OFFICIAL-GMS-munch.zip",
-            "id": "8afa0ea7b5b4ebf1152862c5ce80f99c",
+            "datetime": 1762869117,
+            "filename": "axion-2.2-NIGHTLY-20251111-OFFICIAL-GMS-munch.zip",
+            "id": "7e625b8736add65539116a411bd03f4b",
             "romtype": "OFFICIAL",
-            "size": 1998889266,
-            "url": "https://sourceforge.net/projects/senx-files/files/AxionAOSP/GAPPS/axion-2.1-NIGHTLY-20251024-OFFICIAL-GMS-munch.zip/download",
-            "version": "2.1"
+            "size": 1991972013,
+            "url": "https://sourceforge.net/projects/senx-files/files/AxionAOSP/GAPPS/axion-2.2-NIGHTLY-20251111-OFFICIAL-GMS-munch.zip/download",
+            "version": "2.2"
         }
     ]
 }

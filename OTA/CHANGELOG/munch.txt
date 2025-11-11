@@ -1,3 +1,27 @@
+AxionOS v2.2
+Build Date : 11/11/2025
+- Introduced torch light control (with proper selinux fix)
+- Removed quad mic (fixes in-game mic for various games)
+- Switched wfd system blobs to from dada 
+- Tune audio for better sound quality 
+- Import display config from HyperOS
+- Disable phantom process killing 
+- Disable verbose camera logs
+- Removed deprecated configs
+- Enable QTI memory Opt
+- Enable system wide scroll optimizer
+- Import pocket detection service the same usage as stock miui
+- Disable slow blur sluggish effect 
+- Dropped oem fast charge
+- Clean up unused manifest entries and more unused flags
+- Removed obsolete sf properties 
+- Set dex2oat thread count and cpuset
+- Enable support for wifi 6 hotspot 
+- Add PUBGM, BGMI and CODM GLOBAL & GARENA to sched_lib_name (fixes full gpu utilization) 
+- Nuked Gamebar (causes mem leak)
+- Added some patches from lineage 
+- More minor improvements
+
 AxionOS v2.1
 Build Date: 24/10/2025
 - Initial Build
