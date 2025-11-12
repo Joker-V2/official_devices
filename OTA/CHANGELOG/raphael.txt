@@ -1,3 +1,19 @@
+AxionOS v2.2
+Build Date : 13/11/2025
+- Add scroll optimization 
+- Switch to QCOM perfd
+- Drop lmkd props
+- Switch to slmk
+- improved zram behavior 
+- Enable config_supportDoubleTapWake
+- Switch to aosp telephony packages for Gapps build as well 
+- Switch to OSS audio 
+- Match audio configs/blobs with los common tree
+- Drop Dolby 
+- Drop Kprofile 
+- Update GPU drivers to 797 from mozoid
+- Sort proprietary-files list
+
 AxionOS v2.1
 Build Date : 17/10/2025
 - Synced with latest source
