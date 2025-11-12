@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1761627693,
-            "filename": "axion-2.1-NIGHTLY-20251028-OFFICIAL-GMS-raven.zip",
-            "id": "f601d6c705eb21c4395d71bcb1ad9c15",
+            "datetime": 1762963792,
+            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-raven.zip",
+            "id": "328a7be511106c2d19bc844f0dea0a6f",
             "romtype": "OFFICIAL",
-            "size": 2376091534,
-            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.X/axion-2.1-NIGHTLY-20251028-OFFICIAL-GMS-raven.zip/download",
-            "version": "2.1"
+            "size": 2265662312,
+            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.2/axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-raven.zip/download",
+            "version": "2.2"
         }
     ]
 }

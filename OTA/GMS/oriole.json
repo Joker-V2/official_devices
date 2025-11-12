@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1761630907,
-            "filename": "axion-2.1-NIGHTLY-20251028-OFFICIAL-GMS-oriole.zip",
-            "id": "d4c3383da077dc42500ddf998a40b5d8",
+            "datetime": 1762965674,
+            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-oriole.zip",
+            "id": "4db234d68554164937355afae408da49",
             "romtype": "OFFICIAL",
-            "size": 2374936031,
-            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.X/axion-2.1-NIGHTLY-20251028-OFFICIAL-GMS-oriole.zip/download",
-            "version": "2.1"
+            "size": 2264466445,
+            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.2/axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-oriole.zip/download",
+            "version": "2.2"
         }
     ]
 }

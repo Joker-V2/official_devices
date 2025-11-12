@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1761626475,
-            "filename": "axion-2.1-NIGHTLY-20251028-OFFICIAL-VANILLA-raven.zip",
-            "id": "68f5e77b7a1715429122e1a1c30e5df5",
+            "datetime": 1762962751,
+            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-VANILLA-raven.zip",
+            "id": "d05be9e148893bd1449ddf615155db0a",
             "romtype": "OFFICIAL",
-            "size": 1983995293,
-            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.X/axion-2.1-NIGHTLY-20251028-OFFICIAL-VANILLA-raven.zip/download",
-            "version": "2.1"
+            "size": 1873440242,
+            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.2/axion-2.2-NIGHTLY-20251112-OFFICIAL-VANILLA-raven.zip/download",
+            "version": "2.2"
         }
     ]
 }

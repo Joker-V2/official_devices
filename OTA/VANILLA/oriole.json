@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1761628983,
-            "filename": "axion-2.1-NIGHTLY-20251028-OFFICIAL-VANILLA-oriole.zip",
-            "id": "4b318eb02c286a44ed7156838389fd9b",
+            "datetime": 1762964706,
+            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-VANILLA-oriole.zip",
+            "id": "c590d0c5b6cb4e4b7d35858304a307d1",
             "romtype": "OFFICIAL",
-            "size": 1983069923,
-            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.X/axion-2.1-NIGHTLY-20251028-OFFICIAL-VANILLA-oriole.zip/download",
-            "version": "2.1"
+            "size": 1872594822,
+            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.2/axion-2.2-NIGHTLY-20251112-OFFICIAL-VANILLA-oriole.zip/download",
+            "version": "2.2"
         }
     ]
 }

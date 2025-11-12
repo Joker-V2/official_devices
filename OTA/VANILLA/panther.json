@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1761449177,
-            "filename": "axion-2.1-NIGHTLY-20251026-OFFICIAL-VANILLA-panther.zip",
-            "id": "f982c990f6ccfc43402e83e48be04be6",
+            "datetime": 1762960550,
+            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-VANILLA-panther.zip",
+            "id": "97e5cfd93af3a52f9c2ebfa216aceb02",
             "romtype": "OFFICIAL",
-            "size": 2033198275,
-            "url": "https://drive.google.com/file/d/1CR24wVCVEiikURRilamDbBoWWLSCsRa9/view?usp=drive_link",
-            "version": "2.1"
+            "size": 2026589769,
+            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.2/axion-2.2-NIGHTLY-20251112-OFFICIAL-VANILLA-panther.zip/download",
+            "version": "2.2"
         }
     ]
 }

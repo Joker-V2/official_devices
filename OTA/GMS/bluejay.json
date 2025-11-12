@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1761635745,
-            "filename": "axion-2.1-NIGHTLY-20251028-OFFICIAL-GMS-bluejay.zip",
-            "id": "b2b52aeb0d0a6c0f8702e60885c3725b",
+            "datetime": 1762967903,
+            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-bluejay.zip",
+            "id": "882a929dc412b77cee905cfe8f668da7",
             "romtype": "OFFICIAL",
-            "size": 2369796792,
-            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.X/axion-2.1-NIGHTLY-20251028-OFFICIAL-GMS-bluejay.zip/download",
-            "version": "2.1"
+            "size": 2259390161,
+            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.2/axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-bluejay.zip/download",
+            "version": "2.2"
         }
     ]
 }
