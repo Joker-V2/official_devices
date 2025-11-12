@@ -1,4 +1,4 @@
-# 📱 Supported Devices  
+# 📱 Supported Devices
 
 | Device Name                | Codename     |
 |----------------------------|--------------|
@@ -38,10 +38,10 @@
 | **Redmi K20 Pro / Mi 9T Pro**           | `raphael`       |
 | **Xiaomi Pad 6**           | `pipa`       |
 
-## 👤 Maintainers  
+## 👤 Maintainers
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-7 series - Open for Co-Maintainership (Pixel 6 series))
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
-- **[Itachi](https://github.com/manidweep)** (Oneplus 8 series and Pixel 9 series)
+- **[Itachi](https://github.com/manidweep)** (Oneplus 8 series)
 - **[beingashwani](https://github.com/beingashwani)** (POCO F5)
 - **[Keosh](https://github.com/keosh1)** (POCO F5 Pro/K60)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
@@ -59,3 +59,4 @@
 - **[therealmharc](https://github.com/therealmharc)** (POCO F3/K40/Mi 11X)
 - **[fukiame](https://github.com/fukiame)** (Redmi 9A/9i/9C/10A / POCO C3/C31)
 - **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S)
+- **[Niv](https://github.com/nivlafx)** (Pixel 9 series)

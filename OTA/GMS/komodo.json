@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1750916390,
-            "filename": "axion-1.6-FINAL-20250626-OFFICIAL-GMS-komodo.zip",
-            "id": "d3f70f506d9b9cd7116d9ee217cef78e",
+            "datetime": 1762932619,
+            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-komodo.zip",
+            "id": "99cd15eba7578831094ef4be6c1b5c9d",
             "romtype": "OFFICIAL",
-            "size": 2161119204,
-            "url": "https://sourceforge.net/projects/pixel-9-series-releases/files/1.6/komodo/gapps/axion-1.6-FINAL-20250626-OFFICIAL-GMS-komodo.zip/download",
-            "version": "1.6"
+            "size": 3281762948,
+            "url": "https://sourceforge.net/projects/axionaosp/files/2.x/GMS/komodo/axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-komodo.zip/download",
+            "version": "2.2"
         }
     ]
 }
