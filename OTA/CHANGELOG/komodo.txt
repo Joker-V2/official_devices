@@ -1,0 +1,25 @@
+AxionOS v2.2
+Build Date : 11/14/2025
+Source Changes
+- Removed WIP columbus service causing SystemUI crash
+  (Version from TheParasiteProject already included)
+
+Build Date : 11/12/2025
+- Updated vendor blobs to include more prebuilts
+- Disable paranoid face unlock in favour of googles
+- IMS overrides
+- Add pixel overlays from stock
+- Adjusted UDFPS animation to properly center on caiman
+- Add pixel system service sepolicies
+- Added over 100 missing sepolicies from stock
+  (face, dcservice, repair_mode, gmscore, bluetooth, audio etc)
+
+Source Changes
+ - Added SystemUIGoogle and SettingsGoogle (selective activations)
+ - Fix Launcher3 crash on dark/light theme change
+ - Added QuickSwitch for Pixel Launcher integration
+ - Added 80% full stock GMS
+ - Added Restart System dialog in Personalizations for spoof changes
+ - Added option to download and auto apply keybox.xml
+ - Added Restart SystemUI dialog on display resolution change
+ - Fixed Power menu showing incorrect for light/dark mode
