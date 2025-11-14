@@ -1,5 +1,13 @@
 AxionOS Changelogs for peridot:
 
+Build Date : 14/11/2025
+- Updated blobs from peridot OS2.0.206.0.VNPMIXM
+- Remove QTI perfd
+- Migrate to common libqti-perfd-client and power-libperfmgr
+- init: Kill WALT CPU boosting
+- init: Configure sane uclamp defaults
+- powerhint: add TOUCH_UP/TOUCH_DOWN boosts
+
 Build Date : 24/10/2025
 - Updated blobs from peridot OS2.0.206.0.VNPMIXM
 - Fixed audio for fs19xx driver

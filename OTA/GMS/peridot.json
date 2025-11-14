@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1761268174,
-            "filename": "axion-2.1-NIGHTLY-20251024-OFFICIAL-GMS-peridot.zip",
-            "id": "d5b9f0968557d7dfc20d7123c7d7960e",
+            "datetime": 1763124117,
+            "filename": "axion-2.2-NIGHTLY-20251114-OFFICIAL-GMS-peridot.zip",
+            "id": "a7afb7768ad91822f3a97d9723e0feed",
             "romtype": "OFFICIAL",
-            "size": 2881853829,
-            "url": "https://sourceforge.net/projects/drenzzzproject/files/peridot/axion/axion-2.1-NIGHTLY-20251024-OFFICIAL-GMS-peridot.zip",
-            "version": "2.1"
+            "size": 2886279893,
+            "url": "https://sourceforge.net/projects/drenzzzproject/files/peridot/axion/axion-2.2-NIGHTLY-20251114-OFFICIAL-GMS-peridot.zip",
+            "version": "2.2"
         }
     ]
 }
