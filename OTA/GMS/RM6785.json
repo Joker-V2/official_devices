@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1760852280,
-            "filename": "axion-2.1-NIGHTLY-20251019-OFFICIAL-GMS-RM6785.zip",
-            "id": "b007e72faff3829050a41afe5445788e",
+            "datetime": 1763189931,
+            "filename": "axion-2.2-NIGHTLY-20251115-OFFICIAL-GMS-RM6785.zip",
+            "id": "c75e81b3cb9a8653758748ac6b0628ee",
             "romtype": "OFFICIAL",
-            "size": 1936789313,
-            "url": "https://sourceforge.net/projects/elohim-projects/files/ROMS/AxionAOSP/axion-2.1-NIGHTLY-20251019-OFFICIAL-GMS-RM6785.zip/download",
-            "version": "2.1"
+            "size": 1923964337,
+            "url": "https://sourceforge.net/projects/elohim-projects/files/ROMS/AxionAOSP/axion-2.2-NIGHTLY-20251115-OFFICIAL-GMS-RM6785.zip/download",
+            "version": "2.2"
         }
     ]
 }
