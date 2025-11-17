@@ -1,3 +1,20 @@
+AxionOS v2.2
+Build Date : 16/10/2025
+
+- Checkout wifi overlay from caf
+- wifi: Configure correct overlay configuration.
+- audio: Drop 24 and 32 bit recording support (fixes low mic volume on meta app)
+- Remove some deprecated telephony overlays
+- Drop msm_irqbalance and config (as we switched to sbalance)
+- Disable zram writeback
+- wifi: Update WCNSS_qcom_cfg.ini from sm8150
+- Migrate to QTI USB Gadget AIDL HAL
+- Build Lineage Health HAL (charging control feature)
+- correct fs inlinecrypt in fstab
+
+Kernel side.
+- Switch back to zram again
+
 AxionOS v2.1
 Build Date : 16/10/2025
 
