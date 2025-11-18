@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1761478035,
-            "filename": "axion-2.1-NIGHTLY-20251026-OFFICIAL-GMS-surya.zip",
-            "id": "d71aee318e7e01bb85d5489ddf958b85",
+            "datetime": 1763416160,
+            "filename": "axion-2.2-NIGHTLY-20251117-OFFICIAL-GMS-surya.zip",
+            "id": "9d1c57dbfd487fd752a1baa6d2560152",
             "romtype": "OFFICIAL",
-            "size": 2097807993,
-            "url": "https://github.com/Arata-Labs/ROMs/releases/download/Axion/axion-2.1-NIGHTLY-20251026-OFFICIAL-GMS-surya.zip",
-            "version": "2.1"
+            "size": 2066269579,
+            "url": "https://github.com/Arata-Labs/ROMs/releases/download/Axion/axion-2.2-NIGHTLY-20251117-OFFICIAL-GMS-surya.zip",
+            "version": "2.2"
         }
     ]
 }
