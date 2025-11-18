@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1761104426,
-            "filename": "axion-2.1-NIGHTLY-20251022-OFFICIAL-GMS-instantnoodle.zip",
-            "id": "35dd45595b6896b1437c9eaf3df82e06",
+            "datetime": 1763412907,
+            "filename": "axion-2.2-NIGHTLY-20251117-OFFICIAL-GMS-instantnoodle.zip",
+            "id": "96d0cd03c4450c453c31e3b3ee4811d3",
             "romtype": "OFFICIAL",
-            "size": 2195101070,
-            "url": "https://sourceforge.net/projects/testingop8series/files/Axion/2.1/instantnoodle/axion-2.1-NIGHTLY-20251022-OFFICIAL-GMS-instantnoodle.zip/download",
-            "version": "2.1"
+            "size": 2180055755,
+            "url": "https://sourceforge.net/projects/testingop8series/files/Axion/2.2/instantnoodle/axion-2.2-NIGHTLY-20251117-OFFICIAL-GMS-instantnoodle.zip/download",
+            "version": "2.2"
         }
     ]
 }
