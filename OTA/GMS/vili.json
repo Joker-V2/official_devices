@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1760604334,
-            "filename": "axion-2.1-NIGHTLY-20251016-OFFICIAL-GMS-vili.zip",
-            "id": "528bbd3ff369e43e1518dc5d54df4a0f",
+            "datetime": 1763452466,
+            "filename": "axion-2.2-NIGHTLY-20251118-OFFICIAL-GMS-vili.zip",
+            "id": "8660fc2f76a3ebf6103b6a58089add65",
             "romtype": "OFFICIAL",
-            "size": 2232643991,
-            "url": "https://sourceforge.net/projects/axionaosp-by-swiitchoff/files/A16/axion-2.1-NIGHTLY-20251016-OFFICIAL-GMS-vili.zip/download",
-            "version": "2.1"
+            "size": 2391084181,
+            "url": "https://sourceforge.net/projects/axionaosp-by-swiitchoff/files/A16/axion-2.2-NIGHTLY-20251118-OFFICIAL-GMS-vili.zip/download",
+            "version": "2.2"
         }
     ]
 }
