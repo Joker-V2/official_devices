@@ -2,6 +2,29 @@ Note:
     * Can be flashed via recovery like TWRP/OFOX
     * Ensure you are on latest available firmware for your device.
 
+AxionOS v2.2
+Build Date : 17/11/2025
+Device side:
+• Implemented DeviceAsWebcam Feature
+• sm8350-common: Migrate to QTI USB Gadget AIDL HAL
+• sm8350-common: Pull appropriate USB props from vendor_product.mk
+• sm8350-common: Set sys.usb.mtp.batchcancel for MTP over FFS
+• sm8350-common: Configure USB Diag over FFS
+• sm8350-common: Pick up USB configurations from QCOM
+• Revert "sm8350-common: rootdir: import diag related usb entries"
+• sm8350-common: Implement torch light control
+• sm8350-common: Use MIUI poweroff charging animation
+• sm8350-common: Update blobs from V816.0.26.0.UKDEUXM
+• vili: Update blobs from V816.0.22.0.UKDMIXM
+• vili-firmware: from V816.0.26.0.UKDEUXM
+• Fixed stereo audio
+
+Kernel side:
+• ANDROID: gki_defconfig: enable CONFIG_USB_CONFIGFS_F_UVC
+• usb: gadget: function: Import uvc from android13-5.10
+• BACKPORT: media: uvcvideo: move uvc_format_desc to common header
+• BACKPORT: media: v4l: move helper functions for fractions from uvc to v4l2-common
+
 AxionAOSP v2.1
 Date - 16/10/2025
 =================
