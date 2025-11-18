@@ -4,3 +4,11 @@ Build Date : 10/22/2025
 - Dolby included
 - OOS Cam Included
 
+AxionOS v2.2
+Build Date : 11/17/2025
+- Synced with latest source
+- Upstreamed kernel
+- Replaced Dolby with viper
+- OOS Cam Included
+- Torch Light Control Added in device side
+
