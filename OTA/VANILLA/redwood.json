@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1762675950,
-            "filename": "axion-2.2-NIGHTLY-20251109-OFFICIAL-VANILLA-redwood.zip",
-            "id": "7b1e73c40611de275f639c05f7c0a984",
+            "datetime": 1763909319,
+            "filename": "axion-2.2.1-NIGHTLY-20251123-OFFICIAL-VANILLA-redwood.zip",
+            "id": "47b5431a19d905d526f47a95586bb3ab",
             "romtype": "OFFICIAL",
-            "size": 1663184930,
-            "url": "https://github.com/Mayur-U/Releases/releases/download/axion-2.2-NIGHTLY-20251109-OFFICIAL-GMS-redwood.zipaxion-2.2-NIGHTLY-20251109-OFFICIAL-VANILLA-redwood.zip/axion-2.2-NIGHTLY-20251109-OFFICIAL-VANILLA-redwood.zip",
-            "version": "2.2"
+            "size": 1652526285,
+            "url": "https://github.com/Mayur-U/Releases/releases/download/axion/axion-2.2.1-NIGHTLY-20251123-OFFICIAL-VANILLA-redwood.zip",
+            "version": "2.2.1"
         }
     ]
 }
