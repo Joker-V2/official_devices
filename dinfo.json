@@ -145,14 +145,6 @@
       "image_url": "https://wiki.lineageos.org/images/devices/lemonades.png"
     },
     {
-      "device_name": "POCO F3/K40/Mi 11X",
-      "codename": "alioth",
-      "maintainer": "therealmharc",
-      "github_username": "therealmharc",
-      "support_group": "https://t.me/donjohanliebert_sg",
-      "image_url": "https://wiki.lineageos.org/images/devices/alioth.png"
-    },
-    {
       "device_name": "POCO F4/K40S",
       "codename": "munch",
       "maintainer": "SENX|センクス",
