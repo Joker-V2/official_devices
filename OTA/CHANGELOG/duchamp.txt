@@ -1,3 +1,11 @@
+AxionOS v2.2.1
+Build Date : 23/11/2025
+- Added HTSR(enable touch boost in gamespace for 500hz)
+- Added modified thermals(fixes half ded gpu)
+- Fixed low antutu scores
+- Enabled zram writeback
+- Many More MISC Changes
+
 AxionOS v2.2
 Build Date : 13/11/2025
 - Added Dolby Atoms support
