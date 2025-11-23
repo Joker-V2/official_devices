@@ -2,6 +2,17 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: Ashwani
 
+Date - 23/11/2025
+=================
+- Signed the build, OTA might fail (dirty flash from recovery).
+- Fixed the loudspeaker issue in calling.
+- Added custom GPU Boost for better performance.
+- Update blobs and firmware from OS2.0.210.0.VMRMIXM.
+- Refined the custom boosts for better efficiency and effective outcome.
+- Fixed the unnecessary cpu bump during touch.
+- Fixed the fingerprint issue with fpc sensor.
+
+
 Date - 14/10/2025
 =================
 - initial stable release.
