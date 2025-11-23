@@ -8,6 +8,16 @@ Notes:
 - Credits to Arian16k, ph12nex, MIUI_users_r_GAY, Chaitanya, flakeforever, Adrianyyyy.
 - Report issues with logs.
 
+===== 23/11/2025 =====
+- mondrian: Update blobs and firmware from OS2.0.208.0.VMNMIXM.
+- mondrian: pal: stream concurrency and custom key optimization.
+- mondrian: Add scroll optimizer props.
+- sm8450-common: sepolicy: Label wakeup_enable for FPC fingerprint sysfs node.
+- sm8450-common : import device fcm from lineageos.
+- sm8450-common: add gpu boost (axion sdk boost).
+- sm8450-common: Enable high touch sampling rate for AX game space.
+- sm8450-common: parts: Fix EINVAL error on write-only touch sampling sysfs node.
+
 ===== 13/11/2025 =====
 DT:-
 - miuicamera: Import miuiscanner from cupid OS2.0.204.0.VLCMIXM
