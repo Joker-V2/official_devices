@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1763099206,
-            "filename": "axion-2.2-NIGHTLY-20251114054855-OFFICIAL-VANILLA-blossom.zip",
-            "id": "18c296f99f539d8610bdb311cefc9021",
+            "datetime": 1763917740,
+            "filename": "axion-2.2.1-NIGHTLY-20251123171237-OFFICIAL-VANILLA-blossom.zip",
+            "id": "035a021a84ede3489b1590f2b3746847",
             "romtype": "OFFICIAL",
-            "size": 1253314210,
-            "url": "https://sourceforge.net/projects/fukiame-builds/files/axion/251114/axion-2.2-NIGHTLY-20251114054855-OFFICIAL-VANILLA-blossom.zip/download",
-            "version": "2.2"
+            "size": 1255324460,
+            "url": "https://sourceforge.net/projects/fukiame-builds/files/axion/251124/axion-2.2.1-NIGHTLY-20251123171237-OFFICIAL-VANILLA-blossom.zip/download",
+            "version": "2.2.1"
         }
     ]
 }
