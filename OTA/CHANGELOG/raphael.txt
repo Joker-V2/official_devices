@@ -1,3 +1,12 @@
+AxionOS v2.2.1
+Build Date : 24/11/2025
+- Switch back to libperfmgr and powerhint changes
+- Rework powerhint for efficiency 
+- Move CarrierConfig to RRO
+- Update CarrierConfig from nabu OS1.0.6.0.TKXMIXM
+- CarrierConfigOverlay: Enable editable_enhanced_4g_lte_bool globally
+- Some minor changes
+
 AxionOS v2.2
 Build Date : 13/11/2025
 - Add scroll optimization 
