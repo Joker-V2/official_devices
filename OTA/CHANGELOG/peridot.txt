@@ -1,5 +1,9 @@
 AxionOS Changelogs for peridot:
 
+Build Date : 25/11/2025
+- Updated blobs from peridot OS2.0.207.0.VNPMIXM
+- Switch to HTSR XiaomiParts with per-app configuration
+
 Build Date : 14/11/2025
 - Updated blobs from peridot OS2.0.206.0.VNPMIXM
 - Remove QTI perfd
