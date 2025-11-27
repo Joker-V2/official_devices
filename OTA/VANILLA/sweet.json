@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1760547379,
-            "filename": "axion-2.1-NIGHTLY-20251015-OFFICIAL-VANILLA-sweet.zip",
-            "id": "1497cefaee5937ccccb70f488c1c2338",
+            "datetime": 1764240847,
+            "filename": "axion-2.2.1-NIGHTLY-20251127-OFFICIAL-VANILLA-sweet.zip",
+            "id": "b4454af724f3404cc9f9d0e9d0d465a6",
             "romtype": "OFFICIAL",
-            "size": 1571043802,
-            "url": "https://sourceforge.net/projects/galadriel-releases/files/CustomROMS-sweet/AxionAOSP/Android-16/VANILLA/axion-2.1-NIGHTLY-20251015-OFFICIAL-VANILLA-sweet.zip/download",
-            "version": "2.1"
+            "size": 1564972475,
+            "url": "https://github.com/Lothlorien-playground/roms_releases/releases/download/v2.2.1-axionaosp/axion-2.2.1-NIGHTLY-20251127-OFFICIAL-VANILLA-sweet.zip",
+            "version": "2.2.1"
         }
     ]
 }
