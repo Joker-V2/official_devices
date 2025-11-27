@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1763878408,
-            "filename": "axion-2.2.1-NIGHTLY-20251123-OFFICIAL-GMS-duchamp.zip",
-            "id": "d22d0d41a4f153a684ad0512808ce664",
+            "datetime": 1764215550,
+            "filename": "axion-2.2.1-NIGHTLY-20251127-OFFICIAL-GMS-duchamp.zip",
+            "id": "f9ed4f7994c16340e677aa42664a186a",
             "romtype": "OFFICIAL",
-            "size": 2527823207,
-            "url": "https://sourceforge.net/projects/axionosduchamp/files/axion-2.2.1-NIGHTLY-20251123-OFFICIAL-GMS-duchamp.zip/download",
+            "size": 2538224032,
+            "url": "https://sourceforge.net/projects/axionosduchamp/files/axion-2.2.1-NIGHTLY-20251127-OFFICIAL-GMS-duchamp.zip/download",
             "version": "2.2.1"
         }
     ]
