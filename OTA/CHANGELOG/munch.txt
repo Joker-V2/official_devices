@@ -1,3 +1,9 @@
+AxionOS v2.2.1-HOTFIX
+- Fixed Random crash issues
+- Fixed Leica crash issue
+- Fixed some injection detections
+- Import display config from HyperOS to improve HDR content appearance (again)
+
 AxionOS v2.2.1
 Build Date : 23/11/2025
 - Sync updates/fixes from source
