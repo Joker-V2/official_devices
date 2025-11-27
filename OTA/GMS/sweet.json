@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1760545934,
-            "filename": "axion-2.1-NIGHTLY-20251015-OFFICIAL-GMS-sweet.zip",
-            "id": "9516293c8df9461b75eb050a7bc8956a",
+            "datetime": 1764238538,
+            "filename": "axion-2.2.1-NIGHTLY-20251127-OFFICIAL-GMS-sweet.zip",
+            "id": "54056efa0980629bef798798934b421",
             "romtype": "OFFICIAL",
-            "size": 2230767743,
-            "url": "https://sourceforge.net/projects/galadriel-releases/files/CustomROMS-sweet/AxionAOSP/Android-16/GAPPS/axion-2.1-NIGHTLY-20251015-OFFICIAL-GMS-sweet.zip/download",
-            "version": "2.1"
+            "size": 2083059446,
+            "url": "https://github.com/Lothlorien-playground/roms_releases/releases/download/v2.2.1-axionaosp/axion-2.2.1-NIGHTLY-20251127-OFFICIAL-GMS-sweet.zip",
+            "version": "2.2.1"
         }
     ]
 }

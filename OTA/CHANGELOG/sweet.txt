@@ -1,3 +1,32 @@
+AxionAOSP v2.2.1
+Build Date: 27/11/2025
+- Synced latest AxionAOSP sources
+- Switch to LOS-perf Kernel src a.k.a Maiar Kernel
+- Remove deprecated vibration patterns in overlay
+- overlay: Downscale task snapshots to 70%
+- overlay: Set config_network_type_tcp_buffers
+- overlay: Use the new auto network selection UI
+- overlay: Enable USB and skin temperature warnings
+- overlay: Disable NL80211_REG_CHANGED event
+- Remove unused libswvdec blob
+- Drop 64-bit soundtrigger blobs
+- Add a script to reorder blobs list
+- qdcm: Remove unused 0e_0b DSI panel
+- rootdir: Remove wigig components leftovers
+- Remove tetheroffload config HIDL entry
+- Do not boost schedtune while screen is off
+- Do not build UdfpsHandler
+- Convert gps to blueprints
+- Set readahead_size_kb=128 for userdata and dynamic partitions
+- Disable thumbnail_block_model in libstagefright
+- Do not prefer hw codecs in thumbnail previews
+- Silence hwcomposer and HWUI logspam
+- Suppress CamX/CHIUSECASE logspam
+- Switch to NCM USB tethering
+- Opt out of speaker_layout_channel_mask field
+- Optimize native executables for Cortex-A76
+- sepolicy: Allow vendor_hal_usb_qti to read UDC sysfs
+
 AxionAOSP v2.1
 Build Date: 15/10/2025
 - Drop so many non-sense commits
