@@ -2,6 +2,14 @@ Note:
     * Can be flashed via recovery like TWRP/OFOX
     * Ensure you are on latest available firmware for your device.
 
+AxionOS v2.2.1
+Build Date : 27/11/2025
+• sm8350-common: prop: Expose aux cameras for Aperture
+• sm8350-common: Update display stack from sunstone
+• sm8350-common: Disable redir_party_num
+• sm8350-common: audio: Switch to source volumes
+• sm8350-common: Enabling sound trigger V2_3
+
 AxionOS v2.2
 Build Date : 17/11/2025
 Device side:
