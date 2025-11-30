@@ -2,6 +2,13 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: Ashwani
 
+Date - 30/11/2025
+=================
+- Hotfix update.
+- Fixed the issue with gpu boost creating jitter and lags.
+- Removal of AxBurst engine (postponed) (source).
+- Some misc changes and further improvements.
+
 Date - 23/11/2025
 =================
 - Signed the build, OTA might fail (dirty flash from recovery).
