@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1763903198,
-            "filename": "axion-2.2.1-NIGHTLY-20251123-OFFICIAL-GMS-redwood.zip",
-            "id": "911cdfc49ef79760e1b9e80b76a332a2",
+            "datetime": 1764675303,
+            "filename": "axion-2.2.1-NIGHTLY-20251202-OFFICIAL-GMS-redwood.zip",
+            "id": "fe372c7e1b7c13c4d2e98dc11c990a8e",
             "romtype": "OFFICIAL",
-            "size": 2042634334,
-            "url": "https://github.com/Mayur-U/Releases/releases/download/axion/axion-2.2.1-NIGHTLY-20251123-OFFICIAL-GMS-redwood.zip",
+            "size": 2049803640,
+            "url": "https://github.com/Mayur-U/Releases/releases/download/axion_hotfix/axion-2.2.1-NIGHTLY-20251202-OFFICIAL-GMS-redwood.zip",
             "version": "2.2.1"
         }
     ]

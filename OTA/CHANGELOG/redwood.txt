@@ -1,3 +1,8 @@
+Axion v2.2.1 hotfix
+Build Date 02/12/2025
+-fixed apps crashing
+-added blur
+
 Axion v2.2.1
 Build Date 23/11/2025
 -updated blobs
