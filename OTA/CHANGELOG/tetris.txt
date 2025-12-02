@@ -1,0 +1,11 @@
+Device: Nothing CMF Phone 1
+Device code name : tetris
+Device maintainer: Ashwani
+
+Date - 02/12/2025
+=================
+- Initial official release.
+- Tuned/Refined the powerhint for balance perf. (fixed heating/battery drain)
+- Added Performance mode support (available in battery settings)
+- Added scroll-optimizer with dynamic profile.
+- Added misc changes for better experience.
