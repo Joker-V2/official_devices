@@ -16,6 +16,7 @@
 | **Google Pixel 9 Pro**     | `caiman`     |
 | **Google Pixel 9 Pro XL**  | `komodo`     |
 | **Motorola G54**           | `cancunf`    |
+| **Nothing CMF Phone 1**    | `tetris`     |
 | **Oneplus 8**              | `instantnoodle`|
 | **Oneplus 8 Pro**          | `instantnoodlep`|
 | **Oneplus 8T**             | `kebab`      |
@@ -41,7 +42,7 @@
 - **[rmp22](https://github.com/rmp22)** (Pixel 6-7/7pro/8 series - Open for Co-Maintainership (Pixel 6 series))
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series)
-- **[beingashwani](https://github.com/beingashwani)** (POCO F5)
+- **[beingashwani](https://github.com/beingashwani)** (POCO F5/Nothing CMF Phone 1)
 - **[Keosh](https://github.com/keosh1)** (POCO F5 Pro/K60)
 - **[Drenzzz.](https://github.com/Drenzzz)** (POCO F6)
 - **[Mayur-U](https://github.com/Mayur-U)** (POCO X5 PRO 5G)
