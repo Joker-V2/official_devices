@@ -2,6 +2,14 @@ Device: Nothing CMF Phone 1
 Device code name : tetris
 Device maintainer: Ashwani
 
+Date - 04/12/2025
+=================
+- Fixed the fingerprint flashbang issue.
+- Fixed the Dim lockscreen issue.
+- Improved the overall smoothness.
+- Introduced the custom boost for better efficiency.
+
+
 Date - 02/12/2025
 =================
 - Initial official release.
