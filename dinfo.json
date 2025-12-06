@@ -172,6 +172,15 @@
       "status": "Active"
     },
     {
+      "device_name": "POCO F1",
+      "codename": "beryllium",
+      "maintainer": "Akshat",
+      "github_username": "Legendleo90",
+      "support_group": "https://t.me/ak_builds_discussion",
+      "image_url": "https://wiki.lineageos.org/images/devices/beryllium.png",
+      "status": "Active"
+    },
+    {
       "device_name": "POCO F3/Mi 11X/K40",
       "codename": "alioth",
       "maintainer": "Rve",
