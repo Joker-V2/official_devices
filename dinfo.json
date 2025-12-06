@@ -280,6 +280,15 @@
       "status": "Active"
     },
     {
+      "device_name": "Redmi 3S/3X/4/4A/4X/5A/Note 5A",
+      "codename": "Mi8937_4_19",
+      "maintainer": "Rve",
+      "github_username": "Rve27",
+      "support_group": "https://t.me/rve_enterprises",
+      "image_url": "https://wiki.lineageos.org/images/devices/land.png",
+      "status": "Active"
+    },
+    {
       "device_name": "Redmi Blossom Series",
       "codename": "blossom",
       "maintainer": "fukiame",
