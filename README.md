@@ -21,6 +21,7 @@
 | **Oneplus 8 Pro**          | `instantnoodlep`|
 | **Oneplus 8T**             | `kebab`      |
 | **Oneplus 9R**             | `lemonades`  |
+| **POCO F1**                | `beryllium`  |
 | **POCO F3/Mi 11X/K40**       | `alioth`     |
 | **POCO F4**                | `munch`  |
 | **POCO F5**                | `marble`     |
@@ -59,3 +60,4 @@
 - **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S)
 - **[Niv](https://github.com/nivlafx)** (Pixel 9 series)
 - **[Rve](https://github.com/Rve27)** (POCO F3/Mi 11X/K40)
+- **[Akshat](https://github.com/Legendleo90)** (POCO F1)
