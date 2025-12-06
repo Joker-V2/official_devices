@@ -32,6 +32,7 @@
 | **Realme 5 series**        | `r5x`        |
 | **Realme 6/7/Narzo Unified**    | `RM6785`     |
 | **Realme GT Neo 3T**       | `spartan`    |
+| **Redmi 3S/3X/4/4A/4X/5A/Note 5A** | `Mi8937_4_19` |
 | **Redmi Blossom Series**   | `blossom`    |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro / Pro Max**      | `sweet`      |
@@ -59,5 +60,5 @@
 - **[fukiame](https://github.com/fukiame)** (Redmi 9A/9i/9C/10A / POCO C3/C31)
 - **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S)
 - **[Niv](https://github.com/nivlafx)** (Pixel 9 series)
-- **[Rve](https://github.com/Rve27)** (POCO F3/Mi 11X/K40)
+- **[Rve](https://github.com/Rve27)** (POCO F3/Mi 11X/K40, Redmi 3S/3X/4/4A/4X/5A/Note 5A)
 - **[Akshat](https://github.com/Legendleo90)** (POCO F1)
