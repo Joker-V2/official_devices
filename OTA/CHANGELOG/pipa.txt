@@ -1,15 +1,10 @@
-AxionOS v1.6
-Build Date : 2025/06/22
+Device: Xiaomi Pad 6
+Device code name : pipa
+Device maintainer: Pranshu Sheoran
 
-- [XiaomiParts] Removed support for stylus function customization (expected to be added back in Android 16)
-- Fixed loading of firmware which resolves audio inconsistency issues (thanks to @JaxTheWolf)
-- Minor cleanups in kernel
+Changelog:
+https://t.me/changelog_glitch
 
+Official Build
 -----------------------------
-
-AxionOS v1.4
-Build Date : 2025/05/29
-
-- [XiaomiParts] Added initial support for stylus function customization -
-- Minor cleanups in the Nanosic module (for the official Xiaomi keyboard) -
-- Adjusted lid sensor logic to use threshold-based detection for improved precision -
+05 December 2025 - A16 (QPR0)
