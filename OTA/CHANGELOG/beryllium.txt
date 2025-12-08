@@ -1,0 +1,7 @@
+AxionOS v2.2.1
+Build Date : 07/12/2025
+- Initial 4.19 official release
+- Fixed 4k 60fps video recording
+- Fixed qr code scanner being crashed
+- Switched to system_ext partitioning
+- Added Xiaomi Dolby
