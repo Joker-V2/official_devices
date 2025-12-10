@@ -3,6 +3,16 @@ Note:
     * Ensure you are on latest available firmware for your device.
 
 AxionOS v2.2.1
+Build Date : 10/12/2025
+Device side:
+• sm8350-common: audio: Use AOSP USB v2 audio HAL
+• sm8350-common: audio: Enable AOSP bluetooth audio HAL v2
+• sm8350-common: audio: Switch to source volumes
+
+Source Side:
+• Fixed TikTok crash
+
+AxionOS v2.2.1
 Build Date : 27/11/2025
 • sm8350-common: prop: Expose aux cameras for Aperture
 • sm8350-common: Update display stack from sunstone
