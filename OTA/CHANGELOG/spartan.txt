@@ -10,3 +10,9 @@ AxionOS v2.2.1
 Build Date : 23/11/2025
 - Switched to AIDL thermal hal
 - Kernel improvements
+
+AxionOS v2.2.1
+
+Build Date : 11/12/2025
+- Random Reboots should be fixed
+- spartan: Don't pin camera app in memory
