@@ -1,4 +1,12 @@
 AxionOS v2.2.1
+Build Date : 18/12/2025
+
+- Fixed Facebook reels laggy video
+- Update graphics blobs from sweet_k6a
+- Update media blobs from sweet_k6a
+- audio: Fix mic volume
+
+AxionOS v2.2.1
 Build Date : 29/11/2025
 
 - Improves system performance
