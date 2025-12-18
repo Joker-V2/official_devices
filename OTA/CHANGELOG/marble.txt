@@ -2,6 +2,12 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: Ashwani
 
+Date - 18/12/2025
+=================
+- Updated blobs and firmware from HyperOs 2.0.211.0 global.
+- Disabled EGL image tracking.
+- Cleanup in the powerhint for more efficient perf.
+
 Date - 30/11/2025
 =================
 - Hotfix update.
