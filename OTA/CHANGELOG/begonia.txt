@@ -1,3 +1,9 @@
+AxionOS v2.2.1 - DEC
+Build Date : 19/12/2025
+- December Security patch 
+- Tiktok crash fixed
+- use https://t.me/sai_hub/410 for playback fix
+
 AxionOS v2.2.1
 Build Date : 24/11/2025
 - Fixed Lockscreen status bar 
