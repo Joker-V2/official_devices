@@ -1,4 +1,24 @@
 AxionOS v2.2.1
+Build date: 25/12/2025
+Device changelogs:
+- Increase SurfaceFlinger idle and touch timers to 2000ms
+- Enable touch boost support
+- Configure high touch sampling rate nodes
+- sepolicy: Resolve rild denials
+- Define OEM fast charge sysfs node
+- Mirgrate to lineagehealth IFastCharge
+- Disable NL80211_REG_CHANGED event
+
+Kernel changelogs:
+- RvKernel 1.4
+- treewide: Merge LineageOS/qcom_sm8250
+- drivers: input: touchscreen: fts_spi: Fix high polling rate after suspend & resume
+- Enable CONFIG_USB_RTL8150
+- Enable XDP_SOCKETS
+- Add sysctl knobs for protecting the working set
+- Configure memory protection le9ec
+
+AxionOS v2.2.1
 Build date: 09/12/2025
 Device changelogs:
 - Configure burn-in protection for statusbar and navbar
