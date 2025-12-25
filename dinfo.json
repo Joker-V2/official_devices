@@ -226,6 +226,15 @@
       "status": "Inactive"
     },
     {
+      "device_name": "POCO F7",
+      "codename": "onyx",
+      "maintainer": "Mayur_U",
+      "github_username": "Mayur-U",
+      "support_group": "https://t.me/Mayurbuilds",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f7.jpg",
+      "status": "Active"
+    },
+    {
       "device_name": "POCO X3 NFC",
       "codename": "surya",
       "maintainer": "Skyy丨アラタ",

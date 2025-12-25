@@ -26,6 +26,7 @@
 | **POCO F4**                | `munch`  |
 | **POCO F5**                | `marble`     |
 | **POCO F5 PRO/K60**            | `mondrian`   |
+| **POCO F7**                | `onyx`     |
 | **POCO X5 Pro 5G**         | `redwood`    |
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **Realme 5 series**        | `r5x`        |
@@ -45,7 +46,7 @@
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series)
 - **[beingashwani](https://github.com/beingashwani)** (POCO F5/Nothing CMF Phone 1)
 - **[Keosh](https://github.com/keosh1)** (POCO F5 Pro/K60)
-- **[Mayur-U](https://github.com/Mayur-U)** (POCO X5 PRO 5G)
+- **[Mayur-U](https://github.com/Mayur-U)** (POCO X5 PRO 5G/POCO F7)
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x)
 - **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro/POCO X6 PRO 5G)
