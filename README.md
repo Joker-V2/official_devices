@@ -26,6 +26,7 @@
 | **POCO F4**                | `munch`  |
 | **POCO F5**                | `marble`     |
 | **POCO F5 PRO/K60**            | `mondrian`   |
+| **POCO F6**                | `peridot`    |
 | **POCO F7**                | `onyx`     |
 | **POCO X5 Pro 5G**         | `redwood`    |
 | **POCO X6 Pro 5G**         | `duchamp`    |
@@ -61,3 +62,4 @@
 - **[Niv](https://github.com/nivlafx)** (Pixel 9 series)
 - **[Rve](https://github.com/Rve27)** (POCO F3/Mi 11X/K40, Redmi 3S/3X/4/4A/4X/5A/Note 5A)
 - **[Akshat](https://github.com/Legendleo90)** (POCO F1)
+- **[Devansh P.](https://github.com/NotBlazeee28)** (POCO F6)
