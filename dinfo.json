@@ -172,6 +172,15 @@
       "status": "Active"
     },
     {
+      "device_name": "Oneplus Nord CE2 Lite 5G",
+      "codename": "oscaro",
+      "maintainer": "Chethan",
+      "github_username": "NoCache-69",
+      "support_group": "https://t.me/oscaro_aosp",
+      "image_url": "https://wiki.lineageos.org/images/devices/oscaro.png",
+      "status": "Active"
+    },
+    {
       "device_name": "POCO F1",
       "codename": "beryllium",
       "maintainer": "Akshat",
