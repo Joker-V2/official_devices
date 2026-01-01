@@ -32,6 +32,7 @@
 | **POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite**                | `miatoll`     |
 | **POCO X5 Pro 5G**         | `redwood`    |
 | **POCO X6 Pro 5G**         | `duchamp`    |
+| **POCO X7 Pro 5G**         |   `rodin`    |
 | **Realme 5 series**        | `r5x`        |
 | **Realme 6/7/Narzo Unified**    | `RM6785`     |
 | **Realme GT Neo 3T**       | `spartan`    |
