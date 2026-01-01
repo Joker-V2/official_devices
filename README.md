@@ -21,6 +21,7 @@
 | **Oneplus 8 Pro**          | `instantnoodlep`|
 | **Oneplus 8T**             | `kebab`      |
 | **Oneplus 9R**             | `lemonades`  |
+| **Oneplus Nord CE2 Lite 5G** | `oscaro`     |
 | **POCO F1**                | `beryllium`  |
 | **POCO F3/Mi 11X/K40**       | `alioth`     |
 | **POCO F4**                | `munch`  |
@@ -66,3 +67,4 @@
 - **[Akshat](https://github.com/Legendleo90)** (POCO F1)
 - **[Devansh P.](https://github.com/NotBlazeee28)** (POCO F6)
 - **[RiteshSahany](https://github.com/RiteshSahany)** (POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite)
+- **[Chethan](https://github.com/NoCache-69)** (Oneplus Nord CE2 Lite 5G)
