@@ -41,6 +41,7 @@
 | **Redmi Note 7/7s**        | `lavender`   |
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro / Pro Max**      | `sweet`      |
+| **TECNO POVA 4 Pro**         | `LG8n` |
 | **Xiaomi 11T Pro**         | `vili`       |
 | **Redmi K20 Pro / Mi 9T Pro**           | `raphael`       |
 | **Xiaomi Pad 6**           | `pipa`       |
@@ -69,3 +70,4 @@
 - **[Devansh P.](https://github.com/NotBlazeee28)** (POCO F6)
 - **[RiteshSahany](https://github.com/RiteshSahany)** (POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite)
 - **[Chethan](https://github.com/NoCache-69)** (Oneplus Nord CE2 Lite 5G)
+- **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 Pro)
