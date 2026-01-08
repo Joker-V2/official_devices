@@ -2,6 +2,12 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: Ashwani
 
+Date - 08/01/2026
+=================
+- Initial update based on Android 16-QPR1.
+- Fixed auto brightness issue with white background.
+- Added New Dolby UI integration with more refinement.
+
 Date - 18/12/2025
 =================
 - Updated blobs and firmware from HyperOs 2.0.211.0 global.
