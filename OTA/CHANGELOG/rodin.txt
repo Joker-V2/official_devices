@@ -1,0 +1,14 @@
+Device: POCO X7 Pro
+Device code name: rodin
+Device maintainer: ido@rexprjkt°
+
+Date - 09/01/2026
+=================
+- Initial official release
+- Resolved NPU issues on SuperImage app
+- Switch to AOSP Health AIDL
+- Enable WPA3-SAE softap
+- Shipped ViPER4AndroidFX
+- Switch architecture to armv9-a
+- Tune out the powerhint and surfaceflinger configuration
+
