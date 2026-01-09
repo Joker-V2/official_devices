@@ -1,3 +1,7 @@
+AxionOS v2.3
+Build Date: 09/01/2026
+- Initial Android 16 QPR1 Release
+
 AxionOS v1.4
 Build Date : 08/05/2025
 - Upstream Kernel to 5.10.237
