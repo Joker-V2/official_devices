@@ -1,3 +1,12 @@
+Device: Poco F4/ Redmi K40s
+Device code name : munch
+Device maintainer: SenX
+
+AxionOS v2.3-TELOS
+- Initial update based on Android 16-QPR1
+- Massive device trees rebase to commonize
+- More misc improvements and fixes 
+
 AxionOS v2.2.1-HOTFIX
 - Fixed Random crash issues
 - Fixed Leica crash issue
