@@ -1,0 +1,7 @@
+Device: Redmi Note 7 Pro
+Device code name : violet
+Device maintainer: Joker-V2
+
+Date - 08/01/2026
+=================
+- Initial official release
