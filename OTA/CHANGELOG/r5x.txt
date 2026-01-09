@@ -1,3 +1,10 @@
+AxionOS v2.3
+Build Date : 9/01/2026
+
+- Disable high performance transitions
+- Reduce blur radius
+- Syned Kernel with Lineage sm8150
+
 AxionOS v2.2.1
 Build Date : 18/12/2025
 
