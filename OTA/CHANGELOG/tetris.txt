@@ -2,6 +2,15 @@ Device: Nothing CMF Phone 1
 Device code name : tetris
 Device maintainer: Ashwani
 
+Date - 10/01/2026
+=================
+- Initial Android 16-QPR1 update.
+- Fixed fingerprint flashbang completely.
+- Fixed the app closing lag/animations.
+- Fixed the saturation issues completely.
+- Improved the powerhint for better experience.
+
+
 Date - 04/12/2025
 =================
 - Fixed the fingerprint flashbang issue.
