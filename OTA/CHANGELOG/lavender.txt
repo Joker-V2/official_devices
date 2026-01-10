@@ -1,3 +1,9 @@
+AxionOS v2.3
+Build Date : 10/01/2026
+
+- Initial a16 qpr1 release
+- Syned Kernel with Lineage sdm660
+
 AxionOS v1.6
 Build Date 25/06/2025
 - Initial Build
