@@ -343,6 +343,15 @@
       "status": "Active"
     },
     {
+      "device_name": "Redmi Note 7 Pro",
+      "codename": "violet",
+      "maintainer": "Joker-V2",
+      "github_username": "Joker-V2",
+      "support_group": "https://t.me/Joker_viomeme",
+      "image_url": "https://wiki.lineageos.org/images/devices/violet.png",
+      "status": "Active"
+    },
+    {
       "device_name": "Redmi Note 8 Pro",
       "codename": "begonia",
       "maintainer": "Saikrishna",
@@ -406,12 +415,12 @@
       "status": "Active"
     },
     {
-      "device_name": "Redmi Note 7 Pro",
-      "codename": "violet",
-      "maintainer": "Joker-V2",
-      "github_username": "Joker-V2",
-      "support_group": "https://t.me/Joker_viomeme",
-      "image_url": "https://wiki.lineageos.org/images/devices/violet.png",
+      "device_name": "TECNO POVA 5",
+      "codename": "LH7n",
+      "maintainer": "Shirayuki39",
+      "github_username": "Shirayuki39",
+      "support_group": "https://t.me/millenniumdiscussion",
+      "image_url": "https://d13pvy8xd75yde.cloudfront.net/global/phones/pova5/gold.png",
       "status": "Active"
     }
   ]

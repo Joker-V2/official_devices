@@ -44,6 +44,7 @@
 | **Redmi Note 10 Pro / Pro Max**      | `sweet`      |
 | **Redmi Note 12 Pro / Plus / Discovery 5G**     |  `rubyx`  |
 | **TECNO POVA 4 Pro**         | `LG8n` |
+| **TECNO POVA 5**         | `LH7n` |
 | **Xiaomi 11T Pro**         | `vili`       |
 | **Redmi K20 Pro / Mi 9T Pro**           | `raphael`       |
 | **Xiaomi Pad 6**           | `pipa`       |
