@@ -1,3 +1,13 @@
+AxionOS v2.3
+Build Date : 11/01/2026
+- Initial QPR1 release 
+- Switch to IR AIDL HAL
+- Disable gl backpressure
+- Import SF work durations from OP59F7
+- Reworked DT2W Services 
+- Dropped multiple useless blobs
+- use https://t.me/sai_hub/541 for playback fix
+
 AxionOS v2.2.1 - DEC
 Build Date : 19/12/2025
 - December Security patch 
