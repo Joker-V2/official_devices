@@ -50,7 +50,7 @@
 | **Xiaomi Pad 6**           | `pipa`       |
 
 ## 👤 Maintainers
-- **[rmp22](https://github.com/rmp22)** (Pixel 6-7/7pro/8 series - Open for Co-Maintainership (Pixel 6 series))
+- **[rmp22](https://github.com/rmp22)** (Pixel 6-7/7pro - Open for Co-Maintainership (Pixel 6 series))
 - **[Ayan](https://github.com/not-ayan)** (Motorola G54)
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series)
 - **[beingashwani](https://github.com/beingashwani)** (POCO F5/Nothing CMF Phone 1)
@@ -61,7 +61,7 @@
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro/POCO X6 PRO 5G)
 - **[therealmharc](https://github.com/therealmharc)** (Redmi Note 10 Pro/Pro Max)
 - **[Pranshu Sheoran](https://github.com/sheoranpranshu)** (Xiaomi Pad 6)
-- **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel Tablet & Pixel 7a)
+- **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel Tablet & Pixel 8 series)
 - **[swiitchOFF](https://github.com/swiitchOFF)** (Xiaomi 11T Pro)
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)
 - **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo/Narzo 20p/Narzo 304G)
