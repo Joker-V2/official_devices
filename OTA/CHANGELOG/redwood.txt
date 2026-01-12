@@ -1,3 +1,8 @@
+Axion v2.3
+Build Date : 11/01/2026
+-Initial QPR1 release 
+-tunned powerhint
+
 Axion v2.2.1 hotfix
 Build Date 02/12/2025
 -fixed apps crashing

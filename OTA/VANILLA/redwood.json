@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1764678774,
-            "filename": "axion-2.2.1-NIGHTLY-20251202-OFFICIAL-VANILLA-redwood.zip",
-            "id": "a41007ec0aed1bfcfe11c310b6da5cd9",
+            "datetime": 1768155594,
+            "filename": "axion-2.3-TELOS-20260111-OFFICIAL-VANILLA-redwood.zip",
+            "id": "4e33634cf71b3c5cfb613578335c3585",
             "romtype": "OFFICIAL",
-            "size": 1659727404,
-            "url": "https://github.com/Mayur-U/Releases/releases/download/axion_hotfix/axion-2.2.1-NIGHTLY-20251202-OFFICIAL-VANILLA-redwood.zip",
-            "version": "2.2.1"
+            "size": 1790332339,
+            "url": "https://sourceforge.net/projects/axionos-redwood/files/11-01.2026/axion-2.3-TELOS-20260111-OFFICIAL-VANILLA-redwood.zip/download",
+            "version": "2.3"
         }
     ]
 }
