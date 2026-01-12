@@ -16,3 +16,10 @@ AxionOS v2.2.1
 Build Date : 11/12/2025
 - Random Reboots should be fixed
 - spartan: Don't pin camera app in memory
+
+AxionOS v2.3
+
+Build Date : 12/01/2026
+- Added RealmeAddons
+- New DolbyUI
+- Unlocked 2160p recording on supported cameras

@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1765425513,
-            "filename": "axion-2.2.1-NIGHTLY-20251211-OFFICIAL-GMS-spartan.zip",
-            "id": "dff4e866a9cf7369f8c79e06d757e272",
+            "datetime": 1768196149,
+            "filename": "axion-2.3-TELOS-20260112-OFFICIAL-GMS-spartan.zip",
+            "id": "6151f7137c63e428dcb2e703e82e1364",
             "romtype": "OFFICIAL",
-            "size": 2311001669,
-            "url": "https://sourceforge.net/projects/axionxspartan/files/axion-2.2.1-NIGHTLY-20251211-OFFICIAL-GMS-spartan.zip/download",
-            "version": "2.2.1"
+            "size": 2457714294,
+            "url": "https://sourceforge.net/projects/axionxspartan/files/axion-2.3-TELOS-20260112-OFFICIAL-GMS-spartan.zip/download",
+            "version": "2.3"
         }
     ]
 }
