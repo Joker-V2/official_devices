@@ -1,0 +1,10 @@
+Device: POCO F7
+Device code name: onyx
+Device maintainer: Mayur_U
+
+Axion v2.3
+Date - 12/01/2026
+- initial official release
+- Tune out the powerhint and surfaceflinger configuration
+- No KSU support
+
