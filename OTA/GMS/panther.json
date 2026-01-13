@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1762961516,
-            "filename": "axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-panther.zip",
-            "id": "658826e59b30f83a58de069d59aeb462",
+            "datetime": 1768258953,
+            "filename": "axion-2.3-TELOS-20260112-OFFICIAL-GMS-panther.zip",
+            "id": "3e400dbc790792b77d2717579c5ee173",
             "romtype": "OFFICIAL",
-            "size": 2418508655,
-            "url": "https://sourceforge.net/projects/axionaosp/files/PIXELS/2.2/axion-2.2-NIGHTLY-20251112-OFFICIAL-GMS-panther.zip/download",
-            "version": "2.2"
+            "size": 2498265230,
+            "url": "https://1drv.ms/f/c/88f2d06dfca76168/IgANXOBJVMjtTLzsY0znvA7QAfwkq_b7a7jRVCusbNZ4STg?e=vBFoO1",
+            "version": "2.3"
         }
     ]
 }
