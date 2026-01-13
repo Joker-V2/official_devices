@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1763123991,
-            "filename": "axion-2.2-NIGHTLY-20251114-OFFICIAL-GMS-komodo.zip",
-            "id": "1f30b860cf341c04d7d27d77aa8ef1fb",
+            "datetime": 1768239947,
+            "filename": "axion-2.3-TELOS-20260112-OFFICIAL-GMS-komodo.zip",
+            "id": "ba8e64c1ca6fe79319db8239a65911ea",
             "romtype": "OFFICIAL",
-            "size": 3281597157,
-            "url": "https://sourceforge.net/projects/axionaosp/files/2.x/GMS/komodo/axion-2.2-NIGHTLY-20251114-OFFICIAL-GMS-komodo.zip/download",
-            "version": "2.2"
+            "size": 3373694499,
+            "url": "https://sourceforge.net/projects/axionaosp/files/2.x/GMS/komodo/axion-2.3-TELOS-20260112-OFFICIAL-GMS-komodo.zip/download",
+            "version": "2.3"
         }
     ]
 }

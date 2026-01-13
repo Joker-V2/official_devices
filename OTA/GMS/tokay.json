@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1763131756,
-            "filename": "axion-2.2-NIGHTLY-20251114-OFFICIAL-GMS-tokay.zip",
-            "id": "a84cb461b4624298bc27715c70f05b24",
+            "datetime": 1768247665,
+            "filename": "axion-2.3-TELOS-20260112-OFFICIAL-GMS-tokay.zip",
+            "id": "a1e10b6047e61b8b642d9aa95619048b",
             "romtype": "OFFICIAL",
-            "size": 3269872165,
-            "url": "https://sourceforge.net/projects/axionaosp/files/2.x/GMS/tokay/axion-2.2-NIGHTLY-20251114-OFFICIAL-GMS-tokay.zip/download",
-            "version": "2.2"
+            "size": 3356875188,
+            "url": "https://sourceforge.net/projects/axionaosp/files/2.x/GMS/tokay/axion-2.3-TELOS-20260112-OFFICIAL-GMS-tokay.zip/download",
+            "version": "2.3"
         }
     ]
 }
