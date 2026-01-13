@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1763118178,
-            "filename": "axion-2.2-NIGHTLY-20251114-OFFICIAL-GMS-caiman.zip",
-            "id": "aeaf9e9b0d25530046ef350d0948f3a5",
+            "datetime": 1768236987,
+            "filename": "axion-2.3-TELOS-20260112-OFFICIAL-GMS-caiman.zip",
+            "id": "3511797c7411384a5e6e91cd0d815a1d",
             "romtype": "OFFICIAL",
-            "size": 3276168218,
-            "url": "https://sourceforge.net/projects/axionaosp/files/2.x/GMS/caiman/axion-2.2-NIGHTLY-20251114-OFFICIAL-GMS-caiman.zip/download",
-            "version": "2.2"
+            "size": 3368100067,
+            "url": "https://sourceforge.net/projects/axionaosp/files/2.x/GMS/caiman/axion-2.3-TELOS-20260112-OFFICIAL-GMS-caiman.zip/download",
+            "version": "2.3"
         }
     ]
 }
