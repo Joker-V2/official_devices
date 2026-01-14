@@ -23,3 +23,9 @@ Build Date : 12/01/2026
 - Added RealmeAddons
 - New DolbyUI
 - Unlocked 2160p recording on supported cameras
+
+AxionOS v2.3
+
+Build Date : 14/01/2026
+- Aperture Camera is not with us anymore
+- Added sepolicy for TextScanner mode (oplus camera)
