@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1768196149,
-            "filename": "axion-2.3-TELOS-20260112-OFFICIAL-GMS-spartan.zip",
-            "id": "6151f7137c63e428dcb2e703e82e1364",
+            "datetime": 1768384105,
+            "filename": "axion-2.3-TELOS-20260114-OFFICIAL-GMS-spartan.zip",
+            "id": "db6c9e074ebd69eebcc5dd297f849e83",
             "romtype": "OFFICIAL",
-            "size": 2457714294,
-            "url": "https://sourceforge.net/projects/axionxspartan/files/axion-2.3-TELOS-20260112-OFFICIAL-GMS-spartan.zip/download",
+            "size": 2458721344,
+            "url": "https://sourceforge.net/projects/axionxspartan/files/axion-2.3-TELOS-20260114-OFFICIAL-GMS-spartan.zip/download",
             "version": "2.3"
         }
     ]
