@@ -1,0 +1,10 @@
+Device: Redmi Note 12 Pro / Plus / Discovery 5G
+Device code name : rubyx
+Device maintainer: Casanova.
+
+Date - 14.01.2026
+=================
+- Initial official A16 QPR1 release
+- Tuned powerhint for smooth blur
+- WPA3 Wi-Fi and Hotspot fixed
+- Added Viper4AndroidFX
