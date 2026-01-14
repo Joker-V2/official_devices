@@ -1,0 +1,8 @@
+AxionOS v2.3
+Build Date : 14/01/2026
+- Initial official release based on A16(QPR1)
+- Synced with latest source
+- New DolbyUI implementation
+- Upstream kernel version to v5.4.302
+- Reduce LZ4 memory usage to 1KB
+- Picked some media configs from moto-sm6375
