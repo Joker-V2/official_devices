@@ -1,3 +1,18 @@
+AxionOS v2.3
+Build date: 16/01/2026
+Device changelogs:
+- Update some soong config variables to bool type
+- Set default Settings.Global.DEVICE_NAME according to MIUI
+- Always use LZ4 for ZRAM
+- Add overlay to improve signal reception
+
+Kernel changelogs:
+- RvKernel 1.5
+- treewide: Merge LineageOS/qcom_sm8250
+- arm64: configs: alioth: Enable CONFIG_ZRAM_WRITEBACK
+- arm64: configs: alioth: Disable CONFIG_SCHED_AUTOGROUP
+- input: misc: aw8697_haptic: Cast 'effect->pattern' to smaller integer type
+
 AxionOS v2.2.1
 Build date: 25/12/2025
 Device changelogs:
