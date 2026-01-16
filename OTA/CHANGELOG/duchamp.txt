@@ -1,3 +1,10 @@
+AxionOS v2.3
+Build Date : 16/01/2026
+- Updated Dolby UI
+- Fixed C2 crashes
+- Fixed GameSpace touch boost re-toggling
+- More Misc changes
+
 AxionOS v2.2.1
 Build Date : 17/12/2025
 - Dec security patch
