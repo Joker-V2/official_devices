@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1749425511,
-            "filename": "axion-1.5-NIGHTLY-20250608-OFFICIAL-GMS-tangorpro.zip",
-            "id": "b681865e7ef6d9316472b07fe6615894",
+            "datetime": 1768760366,
+            "filename": "axion-2.3-TELOS-20260118-OFFICIAL-GMS-tangorpro.zip",
+            "id": "8afa8a952094f67b83cf1f0bcc0ad49d",
             "romtype": "OFFICIAL",
-            "size": 1963778998,
-            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/tangorpro/1.x/gapps/axion-1.5-NIGHTLY-20250608-OFFICIAL-GMS-tangorpro.zip/download",
-            "version": "1.5"
+            "size": 2096845631,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/tangorpro/2.x/GMS/axion-2.3-TELOS-20260118-OFFICIAL-GMS-tangorpro.zip/download",
+            "version": "2.3"
         }
     ]
 }
