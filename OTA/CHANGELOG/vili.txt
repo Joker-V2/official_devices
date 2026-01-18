@@ -2,6 +2,14 @@ Note:
     * Can be flashed via recovery like TWRP/OFOX
     * Ensure you are on latest available firmware for your device.
 
+AxionOS v2.3
+Build date: 18/01/2026
+Source side:
+• https://github.com/AxionAOSP
+
+Device side:
+• https://github.com/Spanish-or-Vanish
+
 AxionOS v2.2.1
 Build Date : 10/12/2025
 Device side:
