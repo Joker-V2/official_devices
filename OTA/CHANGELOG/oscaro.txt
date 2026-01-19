@@ -1,4 +1,9 @@
 AxionOS v2.3
+Build Date : 19/01/2026
+- Synced with latest source
+- Included OOS camera
+- App drawer delay fixed (source side)
+
 Build Date : 14/01/2026
 - Initial official release based on A16(QPR1)
 - Synced with latest source
