@@ -1,4 +1,14 @@
 AxionOS v2.3
+Build Date: 2026/01/19
+- Switch to Yuuka Kernel(MGLRU-enabled variant of Mahiru Kernel)
+- Switch to redesigned dolby manager
+- Kang compressions and garbage collection options from zumapro fstab
+- fstab: use metadata_csum for /metadata
+- Add option to use fscompress for F2FS
+- Set the correct parameter for A2DP suspend
+- Stop patching audio hw module with lib{binder,utils,hidlbase}-v32
+- Properly patch blobs related to Stagefright
+
 Build Date: 09/01/2026
 - Initial Android 16 QPR1 Release
 
