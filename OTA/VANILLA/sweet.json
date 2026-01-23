@@ -1,14 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1764240847,
-            "filename": "axion-2.2.1-NIGHTLY-20251127-OFFICIAL-VANILLA-sweet.zip",
-            "id": "b4454af724f3404cc9f9d0e9d0d465a6",
+            "datetime": 1769198345,
+            "filename": "axion-2.3-TELOS-20260123-OFFICIAL-VANILLA-sweet.zip",
+            "id": "f6782d6c038910a079226f2ef3cc416c",
             "romtype": "OFFICIAL",
-            "size": 1564972475,
-            "url": "https://github.com/Lothlorien-playground/roms_releases/releases/download/v2.2.1-axionaosp/axion-2.2.1-NIGHTLY-20251127-OFFICIAL-VANILLA-sweet.zip",
-            "version": "2.2.1"
+            "size": 1716289413,
+            "url": "https://oneportal-ecv.pages.dev/api/raw?path=/trm/axion/20260123/VANILLA/axion-2.3-TELOS-20260123-OFFICIAL-VANILLA-sweet.zip",
+            "version": "2.3"
         }
     ]
 }
-

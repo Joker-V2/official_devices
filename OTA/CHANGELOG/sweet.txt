@@ -1,3 +1,13 @@
+AxionAOSP v2.3
+Build Date: 23/01/2026
+- Synced latest AxionAOSP sources (QPR1)
+- Switched to Spiteful Kernel
+- Update some soong config variables to bool
+- Disable high performance transitions
+- Inherit New Dolby UI
+- Drop vendor/sdmsteppe-perf_defconfig
+- Drop "Patch com.vidhance.node.eis.so with libui-v34" and use "Patch com.vidhance.node.eis.so to allocate GraphicBuffer with new size"
+
 AxionAOSP v2.2.1
 Build Date: 27/11/2025
 - Synced latest AxionAOSP sources
