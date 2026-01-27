@@ -1,3 +1,9 @@
+AxionOS v2.4
+Build Date: 2026/01/27
+- Build mediaTek WiFi lib and enable OUI support on  wpa_supplicant_8
+- mt6789-common: Drop deprecated/unused vendor.mediatek.hardware.audio@6.1
+- mt6789-common: Switch to source-built AIDL C2 service
+
 AxionOS v2.3
 Build Date: 2026/01/19
 - Switch to Yuuka Kernel(MGLRU-enabled variant of Mahiru Kernel)
