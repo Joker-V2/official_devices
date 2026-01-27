@@ -253,13 +253,13 @@
       "status": "Active"
     },
     {
-      "device_name": "POCO X3 NFC",
+      "device_name": "POCO X3 / POCO X3 NFC",
       "codename": "surya",
-      "maintainer": "Skyy丨アラタ",
-      "github_username": "HinohArata",
-      "support_group": "https://t.me/ArataXDummy",
+      "maintainer": "Debayan Kar",
+      "github_username": "kardebayan",
+      "support_group": "https://t.me/PocoX3Discussions",
       "image_url": "https://i01.appmifile.com/webfile/globalimg/products/pc/poco-x3-nfc/specs-header.png",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "device_name": "POCO X5 Pro 5G",

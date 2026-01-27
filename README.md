@@ -30,6 +30,7 @@
 | **POCO F6**                | `peridot`    |
 | **POCO F7**                | `onyx`     |
 | **POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite**                | `miatoll`     |
+| **POCO X3 / POCO X3 NFC**  | `surya`      |
 | **POCO X5 Pro 5G**         | `redwood`    |
 | **POCO X6 Pro 5G**         | `duchamp`    |
 | **POCO X7 Pro 5G**         |   `rodin`    |
@@ -76,3 +77,4 @@
 - **[Shirayuki39](https://github.com/Shirayuki39)** (TECNO POVA 4 Pro)
 - **[Joker-V2](https://github.com/Joker-V2)** (Redmi Note 7 Pro)
 - **[Casanova.](https://github.com/rajdeep-3305)** (Redmi Note 12 Pro / Plus / Discovery 5G)
+- **[Debayan Kar](https://github.com/kardebayan)** (POCO X3 / POCO X3 NFC)
