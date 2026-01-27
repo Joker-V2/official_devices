@@ -2,6 +2,14 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: Ashwani
 
+Date - 27/01/2026
+=================
+- Update blobs and firmware from OS2.0.216.0.VMRMIXM.
+- sm8450-common: Shim WFD with libinput_shim.
+- sm8450-common: fixup! Do not balance msm_drm and kgsl_3d0 IRQs.
+- Reverted back to old dolby UI.
+- Improvement in powerhint for better perf and efficiency.
+
 Date - 08/01/2026
 =================
 - Initial update based on Android 16-QPR1.
