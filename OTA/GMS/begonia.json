@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768715421,
-            "filename": "axion-2.3-TELOS-20260118-OFFICIAL-GMS-begonia.zip",
-            "id": "0985a157b405464b811e04656164a93b",
+            "datetime": 1769512608,
+            "filename": "axion-2.4-SOLACE-20260127-OFFICIAL-GMS-begonia.zip",
+            "id": "f025cf493c8a1172102eb5260cd643a7",
             "romtype": "OFFICIAL",
-            "size": 2095297496,
-            "url": "https://github.com/Saikrishna1504/OTA/releases/download/qpr1/axion-2.3-TELOS-20260118-OFFICIAL-GMS-begonia.zip",
-            "version": "2.3"
+            "size": 2113774682,
+            "url": "https://github.com/Saikrishna1504/OTA/releases/download/Axion_v2.4-SOLACE/axion-2.4-SOLACE-20260127-OFFICIAL-GMS-begonia.zip",
+            "version": "2.4"
         }
     ]
 }

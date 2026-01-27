@@ -1,3 +1,9 @@
+AxionOS v2.4
+Build Date : 27/01/2026
+- Disable high performance transitions
+- Removed Useless dailer overlays
+- Fixed sound/ringtone of the incoming call in wired headset or bluetooth device.
+
 AxionOS v2.3
 Build Date : 11/01/2026
 - Initial QPR1 release 
