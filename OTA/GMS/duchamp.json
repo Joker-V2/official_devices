@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768556299,
-            "filename": "axion-2.3-TELOS-20260116-OFFICIAL-GMS-duchamp.zip",
-            "id": "6c6a743db44ccabc19000b6c629ca558",
+            "datetime": 1769614607,
+            "filename": "axion-2.4-SOLACE-20260128-OFFICIAL-GMS-duchamp.zip",
+            "id": "ffc77747a2684b8dcb0e782d66dd8675",
             "romtype": "OFFICIAL",
-            "size": 2690221672,
-            "url": "https://sourceforge.net/projects/axionosduchamp/files/axion-2.3-TELOS-20260116-OFFICIAL-GMS-duchamp.zip/download",
-            "version": "2.3"
+            "size": 2685118836,
+            "url": "https://sourceforge.net/projects/axionosduchamp/files/axion-2.4-SOLACE-20260128-OFFICIAL-GMS-duchamp.zip/download",
+            "version": "2.4"
         }
     ]
 }

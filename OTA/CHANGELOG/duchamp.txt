@@ -1,3 +1,8 @@
+AxionOS v2.4
+Build Date : 28/01/2026
+- Sync with latest source
+- Both vanilla & Gapps builds 
+
 AxionOS v2.3
 Build Date : 16/01/2026
 - Updated Dolby UI
