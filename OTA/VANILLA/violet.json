@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1767891655,
-            "filename": "axion-2.3-TELOS-20260108170100-OFFICIAL-VANILLA-violet.zip",
-            "id": "a91b9b7c7324e97c860ecb45595d0304",
+            "datetime": 1769616265,
+            "filename": "axion-2.4-SOLACE-20260128160429-OFFICIAL-VANILLA-violet.zip",
+            "id": "4470d09eb65e76484f8c1ddd3376c226",
             "romtype": "OFFICIAL",
-            "size": 1593005760,
-            "url": "https://github.com/Joker-V2/device_xiaomi_violet/releases/download/v2.3/axion-2.3-TELOS-20260108170100-OFFICIAL-VANILLA-violet.zip",
-            "version": "2.3"
+            "size": 1617490524,
+            "url": "https://github.com/AxionAOSP-devices/android_device_xiaomi_violet/releases/download/v2.4/axion-2.4-SOLACE-20260128160429-OFFICIAL-VANILLA-violet.zip",
+            "version": "2.4"
         }
     ]
 }
