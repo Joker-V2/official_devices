@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1769521910,
-            "filename": "axion-2.4-SOLACE-20260127-OFFICIAL-VANILLA-begonia.zip",
-            "id": "d1417a98dc5a318ab6f857bb3dcad510",
+            "datetime": 1769609119,
+            "filename": "axion-2.4-SOLACE-20260128-OFFICIAL-VANILLA-begonia.zip",
+            "id": "52dd8555151363970e95f28bf7920123",
             "romtype": "OFFICIAL",
-            "size": 1839213233,
-            "url": "https://github.com/Saikrishna1504/OTA/releases/download/Axion_v2.4-SOLACE/axion-2.4-SOLACE-20260127-OFFICIAL-VANILLA-begonia.zip",
+            "size": 1839314894,
+            "url": "https://github.com/Saikrishna1504/OTA/releases/download/Axion_v2.4-SOLACE/axion-2.4-SOLACE-20260128-OFFICIAL-VANILLA-begonia.zip",
             "version": "2.4"
         }
     ]

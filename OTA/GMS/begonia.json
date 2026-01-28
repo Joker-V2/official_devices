@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1769512608,
-            "filename": "axion-2.4-SOLACE-20260127-OFFICIAL-GMS-begonia.zip",
-            "id": "f025cf493c8a1172102eb5260cd643a7",
+            "datetime": 1769603480,
+            "filename": "axion-2.4-SOLACE-20260128-OFFICIAL-GMS-begonia.zip",
+            "id": "72c94621a7bb4fa97d7d907ab156017e",
             "romtype": "OFFICIAL",
-            "size": 2113774682,
-            "url": "https://github.com/Saikrishna1504/OTA/releases/download/Axion_v2.4-SOLACE/axion-2.4-SOLACE-20260127-OFFICIAL-GMS-begonia.zip",
+            "size": 2113547119,
+            "url": "https://github.com/Saikrishna1504/OTA/releases/download/Axion_v2.4-SOLACE/axion-2.4-SOLACE-20260128-OFFICIAL-GMS-begonia.zip",
             "version": "2.4"
         }
     ]
