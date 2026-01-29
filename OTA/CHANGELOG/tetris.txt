@@ -2,6 +2,12 @@ Device: Nothing CMF Phone 1
 Device code name : tetris
 Device maintainer: Ashwani
 
+Date - 29/01/2026
+=================
+- Improvement in powerhint for perf and efficiency.
+- Misc improvements and changes.
+
+
 Date - 10/01/2026
 =================
 - Initial Android 16-QPR1 update.
