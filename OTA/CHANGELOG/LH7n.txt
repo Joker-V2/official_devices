@@ -1,0 +1,6 @@
+AxionOS v2.4
+Build Date: 2026/01/29
+- Update Kernel to Mahiru 26.0
+- Build mediaTek WiFi lib and enable OUI support on  wpa_supplicant_8
+- Switch to source-built AIDL C2 service
+
