@@ -2,6 +2,11 @@ Device: Poco F4/ Redmi K40s
 Device code name : munch
 Device maintainer: SenX
 
+AxionOS v2.4-SOLACE
+- Force LZ4 for zram
+- Improve signal reception
+- More misc improvements
+
 AxionOS v2.3-TELOS
 - Initial update based on Android 16-QPR1
 - Massive device trees rebase to commonize
