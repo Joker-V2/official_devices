@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768851630,
-            "filename": "axion-2.3-TELOS-20260119194421-OFFICIAL-GMS-oscaro.zip",
-            "id": "82e67704d4085da0e5fe7096b49ff46b",
+            "datetime": 1769765852,
+            "filename": "axion-2.4-SOLACE-20260130093737-OFFICIAL-GMS-oscaro.zip",
+            "id": "827e0c58f99adcc0cf7c255bf3f5c0b8",
             "romtype": "OFFICIAL",
-            "size": 2474571673,
-            "url": "https://drive.serverhive.in/drive/wUQvAU-QV172HxKSXQ-RtpzY/oscaro/2026-01-19/axion-2.3-TELOS-20260119194421-OFFICIAL-GMS-oscaro.zip",
-            "version": "2.3"
+            "size": 2474678570,
+            "url": "https://elixir-mirrors.chethangowdasj1.workers.dev/0:/axion_oscaro-OFFICIAL/axion-2.4-SOLACE-20260130093737-OFFICIAL-GMS-oscaro.zip",
+            "version": "2.4"
         }
     ]
 }

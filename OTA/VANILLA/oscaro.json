@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768855546,
-            "filename": "axion-2.3-TELOS-20260119204809-OFFICIAL-VANILLA-oscaro.zip",
-            "id": "440e4e1977f2bef6bbbefb9a370a6197",
+            "datetime": 1769764230,
+            "filename": "axion-2.4-SOLACE-20260130091035-OFFICIAL-VANILLA-oscaro.zip",
+            "id": "52884aac95d8d07e483a5a3f37dae29d",
             "romtype": "OFFICIAL",
-            "size": 2089049042,
-            "url": "https://drive.serverhive.in/drive/wUQvAU-QV172HxKSXQ-RtpzY/oscaro/2026-01-19/axion-2.3-TELOS-20260119204809-OFFICIAL-VANILLA-oscaro.zip",
-            "version": "2.3"
+            "size": 2089245590,
+            "url": "https://elixir-mirrors.chethangowdasj1.workers.dev/0:/axion_oscaro-OFFICIAL/axion-2.4-SOLACE-20260130091035-OFFICIAL-VANILLA-oscaro.zip",
+            "version": "2.4"
         }
     ]
 }

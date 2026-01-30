@@ -1,4 +1,9 @@
 AxionOS v2.3
+Build Date : 30/01/2026
+- Synced with latest source
+- Merged BPF patches from kernel v5.10
+- Fixed SD-card detection bug
+
 Build Date : 19/01/2026
 - Synced with latest source
 - Included OOS camera
