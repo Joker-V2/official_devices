@@ -24,7 +24,6 @@
 | **Oneplus Nord CE2 Lite 5G** | `oscaro`     |
 | **POCO F1**                | `beryllium`  |
 | **POCO F3/Mi 11X/K40**       | `alioth`     |
-| **POCO F4**                | `munch`  |
 | **POCO F5**                | `marble`     |
 | **POCO F5 PRO/K60**            | `mondrian`   |
 | **POCO F6**                | `peridot`    |
@@ -67,7 +66,6 @@
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)
 - **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo/Narzo 20p/Narzo 304G)
 - **[fukiame](https://github.com/fukiame)** (Redmi 9A/9i/9C/10A / POCO C3/C31)
-- **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S)
 - **[Niv](https://github.com/nivlafx)** (Pixel 9 series)
 - **[Rve](https://github.com/Rve27)** (POCO F3/Mi 11X/K40, Redmi 3S/3X/4/4A/4X/5A/Note 5A)
 - **[Akshat](https://github.com/Legendleo90)** (POCO F1)
