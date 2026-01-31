@@ -1,3 +1,8 @@
+AxionOS v2.4 SOLACE
+Build Date : 31/01/2026
+- Synced with latest AxionAOSP sources (31/01/2026)
+
 AxionOS v2.3
 Build Date : 18/01/2026
 - Initial QPR1 release 
+ 
