@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768394469,
-            "filename": "axion-2.3-TELOS-20260114-OFFICIAL-VANILLA-spartan.zip",
-            "id": "8afab2a94dac71e30a3fbaf94eea3408",
+            "datetime": 1769835215,
+            "filename": "axion-2.4-SOLACE-20260131-OFFICIAL-VANILLA-spartan.zip",
+            "id": "4ed8ff6e86c981dfbbbe42247fbca344",
             "romtype": "OFFICIAL",
-            "size": 2063981631,
-            "url": "https://sourceforge.net/projects/axionxspartan/files/axion-2.3-TELOS-20260114-OFFICIAL-VANILLA-spartan.zip/download",
-            "version": "2.3"
+            "size": 2091486731,
+            "url": "https://sourceforge.net/projects/axionxspartan/files/axion-2.4-SOLACE-20260131-OFFICIAL-VANILLA-spartan.zip/download",
+            "version": "2.4"
         }
     ]
 }
