@@ -1,4 +1,8 @@
 AxionOS v2.4
+Build Date: 2026/01/30
+- Update Kernel to Yuuka v3.1
+- Sync with latest Axion sources
+
 Build Date: 2026/01/27
 - Build mediaTek WiFi lib and enable OUI support on  wpa_supplicant_8
 - mt6789-common: Drop deprecated/unused vendor.mediatek.hardware.audio@6.1
