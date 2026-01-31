@@ -29,3 +29,8 @@ AxionOS v2.3
 Build Date : 14/01/2026
 - Aperture Camera is not with us anymore
 - Added sepolicy for TextScanner mode (oplus camera)
+
+AxionOS v2.4
+
+Build Date : 31/01/2026
+- New goodies in RealmeAddons
