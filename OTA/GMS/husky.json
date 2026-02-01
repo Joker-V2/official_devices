@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768106789,
-            "filename": "axion-2.3-TELOS-20260111-OFFICIAL-GMS-husky.zip",
-            "id": "98cc0cb91cd624a74bcf4369a5a43bbf",
+            "datetime": 1769870525,
+            "filename": "axion-2.4-SOLACE-20260131-OFFICIAL-GMS-husky.zip",
+            "id": "8a744b029f6f8d1ee1aaad6ae934c5cd",
             "romtype": "OFFICIAL",
-            "size": 2014969969,
-            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/husky/2.x/GMS/axion-2.3-TELOS-20260111-OFFICIAL-GMS-husky.zip/download",
-            "version": "2.3"
+            "size": 2332124309,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/husky/2.x/GMS/axion-2.4-SOLACE-20260131-OFFICIAL-GMS-husky.zip/download",
+            "version": "2.4"
         }
     ]
 }
