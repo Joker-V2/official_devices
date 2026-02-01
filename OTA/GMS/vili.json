@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768695898,
-            "filename": "axion-2.3-TELOS-20260118-OFFICIAL-GMS-vili.zip",
-            "id": "949894b5d35142fd4b63d09052ca55b5",
+            "datetime": 1769907942,
+            "filename": "axion-2.4-SOLACE-20260201-OFFICIAL-GMS-vili.zip",
+            "id": "65a18133b067404b6354f9716d4ab6c4",
             "romtype": "OFFICIAL",
-            "size": 2768036654,
-            "url": "https://sourceforge.net/projects/vili-swiitch-off/files/vili/AxionAOSP/A16/axion-2.3-TELOS-20260118-OFFICIAL-GMS-vili.zip/download",
-            "version": "2.3"
+            "size": 2774925029,
+            "url": "https://cdn.axionos.org/vili/axion-2.4-SOLACE-20260201-OFFICIAL-GMS-vili.zip",
+            "version": "2.4"
         }
     ]
 }
