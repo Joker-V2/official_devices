@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768114089,
-            "filename": "axion-2.3-TELOS-20260111-OFFICIAL-VANILLA-husky.zip",
-            "id": "3b3fac6e65ff971fa37df39565c9be19",
+            "datetime": 1769957018,
+            "filename": "axion-2.4-SOLACE-20260201-OFFICIAL-VANILLA-husky.zip",
+            "id": "33d7b1cb9e02648df41e7d4a9c3d5b75",
             "romtype": "OFFICIAL",
-            "size": 1625612563,
-            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/husky/2.x/Vanilla/axion-2.3-TELOS-20260111-OFFICIAL-VANILLA-husky.zip/download",
-            "version": "2.3"
+            "size": 1942531015,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/husky/2.x/Vanilla/axion-2.4-SOLACE-20260201-OFFICIAL-VANILLA-husky.zip/download",
+            "version": "2.4"
         }
     ]
 }
