@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768764002,
-            "filename": "axion-2.3-TELOS-20260118-OFFICIAL-VANILLA-tangorpro.zip",
-            "id": "16499fc2a7667b0da20072bcd28771cb",
+            "datetime": 1769892061,
+            "filename": "axion-2.4-SOLACE-20260131-OFFICIAL-VANILLA-tangorpro.zip",
+            "id": "ce47da049e39f79c02c0adacf58700b2",
             "romtype": "OFFICIAL",
-            "size": 1603829738,
-            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/tangorpro/2.x/Vanilla/axion-2.3-TELOS-20260118-OFFICIAL-VANILLA-tangorpro.zip/download",
-            "version": "2.3"
+            "size": 1993972746,
+            "url": "https://sourceforge.net/projects/axionaosp-elitedarkkaiser/files/tangorpro/2.x/Vanilla/axion-2.4-SOLACE-20260131-OFFICIAL-VANILLA-tangorpro.zip/download",
+            "version": "2.4"
         }
     ]
 }
