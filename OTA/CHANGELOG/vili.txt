@@ -2,6 +2,25 @@ Note:
     * Can be flashed via recovery like TWRP/OFOX
     * Ensure you are on latest available firmware for your device.
 
+AxionOS v2.4
+Build date: 01/02/2026
+Source side:
+• https://github.com/AxionAOSP
+
+Device side:
+• Dolby Atmos blobs updated from HyperOS 3.0
+• vili: Update some soong config variables to bool type
+• sm8350-common: Opt out of speaker_layout_channel_mask field
+• sm8350-common: Add MIUI/HyperOS Dolby Atmos Support
+• sm8350-common: Override kernel BPF version
+• sm8350-common: Shim WFD with libinput_shim
+• sm8350-common: qcril-database: Add migration to turn off redir_party_num
+• sm8350-common: Generate qcrilNr.db during build
+• sm8350-common: Update some soong config variables to bool type
+• sm8350-common: sepolicy: Remove commonized labels
+• sm8350-common: perf: Enable EXPENSIVE_RENDERING hint
+• Kernel updated with bpf 5.10
+
 AxionOS v2.3
 Build date: 18/01/2026
 Source side:
