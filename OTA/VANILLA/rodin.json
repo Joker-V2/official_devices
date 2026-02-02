@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1767979754,
-            "filename": "axion-2.3-TELOS-20260109-OFFICIAL-VANILLA-rodin.zip",
-            "id": "37a92e0fa36bb97af5d937827a4a0736",
+            "datetime": 1769983513,
+            "filename": "axion-2.4-SOLACE-20260201-OFFICIAL-VANILLA-rodin.zip",
+            "id": "2bd88658fef5e0afa7f9184448f415a5",
             "romtype": "OFFICIAL",
-            "size": 2352760919,
-            "url": "https://sourceforge.net/projects/rthelolchexbuilds/files/rodin/axion-2.3-TELOS-20260109-OFFICIAL-VANILLA-rodin.zip/download",
-            "version": "2.3"
+            "size": 2339782367,
+            "url": "https://cdn.axionos.org/rodin/axion-2.4-SOLACE-20260201-OFFICIAL-VANILLA-rodin.zip",
+            "version": "2.4"
         }
     ]
 }
