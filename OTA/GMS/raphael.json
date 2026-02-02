@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1763891504,
-            "filename": "axion-2.2.1-NIGHTLY-20251123-OFFICIAL-GMS-raphael.zip",
-            "id": "b712817b6a1fb59d50b87a0f7c73cff7",
+            "datetime": 1769928080,
+            "filename": "axion-2.4-SOLACE-20260201064159-OFFICIAL-GMS-raphael.zip",
+            "id": "7522e6498fa8aa864926d36141e20a78",
             "romtype": "OFFICIAL",
-            "size": 2327614885,
-            "url": "https://sourceforge.net/projects/alarabisrom/files/Raphael/Axion/axion-2.2.1-NIGHTLY-20251123-OFFICIAL-GMS-raphael.zip/download",
-            "version": "2.2.1"
+            "size": 2308337621,
+            "url": "https://cdn.axionos.org/raphael/axion-2.4-SOLACE-20260201064159-OFFICIAL-GMS-raphael.zip",
+            "version": "2.4"
         }
     ]
 }

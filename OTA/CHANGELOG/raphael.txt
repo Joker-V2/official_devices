@@ -1,3 +1,12 @@
+AxionOS v2.4
+Build Date : 01/02/2026
+- Initial QPR1 build
+- Complete rebased trees over lineageOS sm8150-common
+- Fixed display wake-up issues and UDFPS for replaced screens
+- Lecia and new Dolby included
+- Numerous other changes and fixes (too many to mention in the changelog)
+- Clean flash is MANDATORY for this release
+
 AxionOS v2.2.1
 Build Date : 24/11/2025
 - Switch back to libperfmgr and powerhint changes
