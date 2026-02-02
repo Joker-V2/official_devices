@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1763926753,
-            "filename": "axion-2.2.1-NIGHTLY-20251123-OFFICIAL-VANILLA-raphael.zip",
-            "id": "d34d9a6e8b183c76f3b082dff578f89f",
+            "datetime": 1769935985,
+            "filename": "axion-2.4-SOLACE-20260201085804-OFFICIAL-VANILLA-raphael.zip",
+            "id": "bd3a105a1e55c7c7173fe95d9b93e4bc",
             "romtype": "OFFICIAL",
-            "size": 1736771184,
-            "url": "https://sourceforge.net/projects/alarabisrom/files/Raphael/Axion/axion-2.2.1-NIGHTLY-20251123-OFFICIAL-VANILLA-raphael.zip/download",
-            "version": "2.2.1"
+            "size": 1867884596,
+            "url": "https://cdn.axionos.org/raphael/axion-2.4-SOLACE-20260201085804-OFFICIAL-VANILLA-raphael.zip",
+            "version": "2.4"
         }
     ]
 }
