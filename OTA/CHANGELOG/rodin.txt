@@ -2,6 +2,18 @@ Device: POCO X7 Pro
 Device code name: rodin
 Device maintainer: ido@rexprjkt°
 
+Date - 02/02/2026
+=================
+- Upstream blobs to OS3.0.8.0.WOJMIXM
+- Yet another tune out the powerhint and surfaceflinger configuration
+- Some optimizations on power init
+- Drop libmisoundcrossfade, mediaeventgather and libxlog (Audio optimizations)
+- Disable proximity usage during doze
+- Migrate to hardware/dolby (new Dolby UI)
+- Define FRP partitions (User-reminder for prevent fingerprint crashing)
+- Switched to source-built C2 service
+- Set GPU governor to simple_ondemand
+
 Date - 09/01/2026
 =================
 - Initial official release

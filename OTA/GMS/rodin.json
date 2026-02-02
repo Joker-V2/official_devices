@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1767978336,
-            "filename": "axion-2.3-TELOS-20260109-OFFICIAL-GMS-rodin.zip",
-            "id": "d98a2d6c6b73289f58acc7ddd38db545",
+            "datetime": 1769982439,
+            "filename": "axion-2.4-SOLACE-20260201-OFFICIAL-GMS-rodin.zip",
+            "id": "040bd6fc9d5d48fa757dd748b5cff353",
             "romtype": "OFFICIAL",
-            "size": 2740125728,
-            "url": "https://sourceforge.net/projects/rthelolchexbuilds/files/rodin/axion-2.3-TELOS-20260109-OFFICIAL-GMS-rodin.zip/download",
-            "version": "2.3"
+            "size": 2727781510,
+            "url": "https://cdn.axionos.org/rodin/axion-2.4-SOLACE-20260201-OFFICIAL-GMS-rodin.zip",
+            "version": "2.4"
         }
     ]
 }
