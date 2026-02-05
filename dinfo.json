@@ -172,6 +172,24 @@
       "status": "Active"
     },
     {
+      "device_name": "Oneplus 13R",
+      "codename": "giulia",
+      "maintainer": "Genoxci",
+      "github_username": "genoxci-dev",
+      "support_group": "https://t.me/+AjwuK7p-rJ44ZmU1",
+      "image_url": "https://wiki.lineageos.org/images/devices/giulia.png",
+      "status": "Active"
+    },
+    {
+      "device_name": "Oneplus Ace 5",
+      "codename": "giuliac",
+      "maintainer": "Genoxci",
+      "github_username": "genoxci-dev",
+      "support_group": "https://t.me/+AjwuK7p-rJ44ZmU1",
+      "image_url": "https://wiki.lineageos.org/images/devices/giuliac.png",
+      "status": "Active"
+    },
+    {
       "device_name": "Oneplus Nord CE2 Lite 5G",
       "codename": "oscaro",
       "maintainer": "Chethan",
@@ -403,6 +421,15 @@
       "github_username": "sheoranpranshu",
       "support_group": "https://t.me/the_usual_suspects_777",
       "image_url": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-pad6-1.jpg",
+      "status": "Active"
+    },
+    {
+      "device_name": "Samsung Galaxy A52s 5G",
+      "codename": "a52sxq",
+      "maintainer": "Genoxci",
+      "github_username": "genoxci-dev",
+      "support_group": "https://t.me/+XP1c6dUf7yM4NmE1",
+      "image_url": "https://wiki.lineageos.org/images/devices/a52sxq.png",
       "status": "Active"
     },
     {
