@@ -422,6 +422,15 @@
       "support_group": "https://t.me/millenniumdiscussion",
       "image_url": "https://d13pvy8xd75yde.cloudfront.net/global/phones/pova5/gold.png",
       "status": "Active"
+    },
+    {
+      "device_name": "Itel RS4",
+      "codename": "S666LN",
+      "maintainer": "KimelaZPrjkt.",
+      "github_username": "KimelaZX",
+      "support_group": "https://t.me/itel_rs4",
+      "image_url": "https://github.com/KimelaZX/official_devices/blob/main/OTA/Banners/devices/S666LN.webp?raw=true",
+      "status": "Active"
     }
   ]
 }
