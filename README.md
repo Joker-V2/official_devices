@@ -22,6 +22,8 @@
 | **Oneplus 8 Pro**          | `instantnoodlep`|
 | **Oneplus 8T**             | `kebab`      |
 | **Oneplus 9R**             | `lemonades`  |
+| **Oneplus 13R**            | `giulia`     |
+| **Oneplus Ace 5**          | `giuliac`    |
 | **Oneplus Nord CE2 Lite 5G** | `oscaro`     |
 | **POCO F1**                | `beryllium`  |
 | **POCO F3/Mi 11X/K40**       | `alioth`     |
@@ -44,6 +46,7 @@
 | **Redmi Note 8 Pro**       | `begonia`    |
 | **Redmi Note 10 Pro / Pro Max**      | `sweet`      |
 | **Redmi Note 12 Pro / Plus / Discovery 5G**     |  `rubyx`  |
+| **Samsung Galaxy A52s 5G** | `a52sxq`     |
 | **TECNO POVA 4 Pro**         | `LG8n` |
 | **TECNO POVA 5**         | `LH7n` |
 | **Xiaomi 11T Pro**         | `vili`       |
@@ -78,3 +81,4 @@
 - **[Casanova.](https://github.com/rajdeep-3305)** (Redmi Note 12 Pro / Plus / Discovery 5G)
 - **[Debayan Kar](https://github.com/kardebayan)** (POCO X3 / POCO X3 NFC)
 - **[KimelaZPrjkt.](https://github.com/KimelaZX)** (Itel RS4)
+- **[Genoxci](https://github.com/genoxci-dev)** (Oneplus 13R / Ace 5, Samsung Galaxy A52s 5G)
