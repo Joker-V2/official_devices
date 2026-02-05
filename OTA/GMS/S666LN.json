@@ -1,0 +1,13 @@
+{
+    "response": [
+        {
+            "datetime": 1770293206,
+            "filename": "axion-2.4-SOLACE-20260205-OFFICIAL-GMS-S666LN.zip",
+            "id": "fc40f15e256e27a23123d13f4f7dcfc6",
+            "romtype": "OFFICIAL",
+            "size": 2158677884,
+            "url": "https://cdn.axionos.org/s666ln/axion-2.4-SOLACE-20260205-OFFICIAL-GMS-S666LN.zip",
+            "version": "2.4"
+        }
+    ]
+}

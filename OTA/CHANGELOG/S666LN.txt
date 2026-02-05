@@ -1,0 +1,5 @@
+AxionOS v2.4
+Build Date: 2026/02/05
+- Update Kernel to Mahiru 26.0
+- Build mediaTek WiFi lib and enable OUI support on  wpa_supplicant_8
+- Initial Build for Android 16 QPR 1
