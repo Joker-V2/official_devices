@@ -1,0 +1,10 @@
+AxionOS v2.4
+Build Date: 2026/02/06
+- Initial build for A16 QPR1
+- Both gapps and vanilla variants are made available
+- This ROM ships with OOS 16.0.3.500 firmware. Make 
+  sure to NOT flash any other ROM with firmware older 
+  than 16.0.3.500 after flashing this build, or else 
+  you could risk bricking your device
+- Clean flash is necessary if coming from unofficial
+  builds or from another rom
