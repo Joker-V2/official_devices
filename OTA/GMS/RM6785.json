@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768730910,
-            "filename": "axion-2.3-TELOS-20260118-OFFICIAL-GMS-RM6785.zip",
-            "id": "920f948fec7836102c2d151ee1502de5",
+            "datetime": 1770383113,
+            "filename": "axion-2.4-SOLACE-20260206-OFFICIAL-GMS-RM6785.zip",
+            "id": "c45b6282715ed0cc82ae74ed8932d92d",
             "romtype": "OFFICIAL",
-            "size": 2177433228,
-            "url": "https://sourceforge.net/projects/elohim-projects/files/ROMS/AxionAOSP/axion-2.3-TELOS-20260118-OFFICIAL-GMS-RM6785.zip/download",
-            "version": "2.3"
+            "size": 2162742000,
+            "url": "https://cdn.axionos.org/RM6785/axion-2.4-SOLACE-20260206-OFFICIAL-GMS-RM6785.zip",
+            "version": "2.4"
         }
     ]
 }

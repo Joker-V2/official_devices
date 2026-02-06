@@ -1,3 +1,10 @@
+AxionOS v2.4
+Build Date : 06/02/2026
+- Switch to Lunaris Dolby
+- Disable slow blur effect to avoid laggish blur effect
+- Kernel with 5.10 bpf backports
+- Build mediaTek WiFi lib and enable OUI support on  wpa_supplicant_8
+
 AxionOS v2.3
 Build Date : 18/01/2026
 - Initial QPR1 Update

@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768735875,
-            "filename": "axion-2.3-TELOS-20260118-OFFICIAL-VANILLA-RM6785.zip",
-            "id": "b84853fb7ece73e47e01d44d08eb1369",
+            "datetime": 1770381043,
+            "filename": "axion-2.4-SOLACE-20260206-OFFICIAL-VANILLA-RM6785.zip",
+            "id": "2e3c1342d8c6216d1d6f77dc463b6dc9",
             "romtype": "OFFICIAL",
-            "size": 1841009863,
-            "url": "https://sourceforge.net/projects/elohim-projects/files/ROMS/AxionAOSP/axion-2.3-TELOS-20260118-OFFICIAL-VANILLA-RM6785.zip/download",
-            "version": "2.3"
+            "size": 1825982120,
+            "url": "https://cdn.axionos.org/RM6785/axion-2.4-SOLACE-20260206-OFFICIAL-VANILLA-RM6785.zip",
+            "version": "2.4"
         }
     ]
 }
