@@ -1,0 +1,5 @@
+AxionOS v2.4
+Build Date: 2026/02/06
+- Initial build for A16 QPR1
+- Both gapps and vanilla variants are made available
+- Clean flash is necessary if coming from another rom
