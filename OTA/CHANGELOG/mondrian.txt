@@ -8,6 +8,62 @@ Notes:
 - Credits to Arian16k, ph12nex, MIUI_users_r_GAY, Chaitanya, flakeforever, Adrianyyyy.
 - Report issues with logs.
 
+===== 06/02/2026 =====
+- [ax] adding game bypass variables
+- [ax] adding TARGET_SUPPORTED_REFRESH_RATES flag.
+- mondrian: audio: Fix invalid voice recognition stream KVs.
+- Camera: Update miuicamera from cupid OS2.0.209.0.VLCMIXM.
+- Camera: Update miuiscanner from cupid OS2.0.209.0.VLCMIXM.
+- Kernel-gki: upstream kernel and match latest los changes.
+- dolby: Whitelist permissions for Dolby.
+- dolby: Implement bottom gradient scrim.
+- dolby: Move Per-app audio profile to home settings.
+- dolby: Switch to toobar instead of navbar.
+- dolby: added ru localization added Russian lang for UI.
+- dolby: Separate volume leveler from audio tuning.
+- dolby: Introduce mid-frequency enhancer.
+- dolby: replace legacy Divider with Material3 HorizontalDivider.
+- dolby: Fix profile and settings restore after audio focus loss.
+- dolby: Create values-pt-rBR.
+- dolby: Externalize UI strings for localization support.
+- dolby: add spanish es-rES translations.
+- dolby: Prevent profile reset in AppProfileMonitorService.
+- dolby: Use accent color for dolby icon bg.
+- dolby: Switch to material 3 expressive color specs.
+- dolby: Add delete option for presets in import/export menu.
+Thanks to Ghosuto and all Contributors.
+- parts: Complete Jetpack Compose migration, remove legacy UI.
+- sm8450-common: Disable AptX voice property.
+- sm8450-common: udfps: Workaround onFingerDown() race.
+- sm8450-common: Shim WFD with libinput_shim.
+- sm8450-common: Switch to SwitchPreferenceCompat.
+- sm8450-common: add missing libjnihelper.so.
+- sm8450-common: Update blobs from diting OS2.0.206.0.VLFMIXM.
+- sm8450-common: Disable doze brightness handling every time.
+- sm8450-common: Disable EGL image tracking.
+- sm8450-common: Defer refresh rate changes when screen is off.
+- sm8450-common: Overlay: Define config_screenRecorderAVCProfileLevel.
+- sm8450-common: Camera: Set torch default strength level to max.
+- sm8450-common: Migrate libcameraservice ext lib to soong_config_set.
+- sm8450-common: parts: Apply Expressive theme.
+- sm8450-common: Switch to SwitchPreferenceCompat.
+- sm8450-common: devicesettings: Convert for M3E support.
+- sm8450-common: Build sensorservice 1.0 HAL.
+- sm8450-common: properties: Allow more cached apps in the background.
+- sm8450-common: sepolicy: Add binder call permissions for various HALs in system_app.
+- sm8450-common: Allow system_app to access Mlipay service.
+- sm8450-common: Shim WFD with libinput_shim.
+- sm8450-common: Revert back to GPU driver 615.95 (762.34 conflict with updated diting blobs).
+- aidl/fingerprint: utilize MaxPerformance task_profile.
+- pre-commit: Enable clang-format.
+- Introduce pre-commit & GitHub Actions for it.
+- megvii: Run clang-format.
+- sensors: Run clang-format.
+- IFAAService: Run through ktfmt.
+- Synced with latest sources.
+- Updated translations.
+- Some other fixes and improvements.
+
 ===== 23/11/2025 =====
 - mondrian: Update blobs and firmware from OS2.0.208.0.VMNMIXM.
 - mondrian: pal: stream concurrency and custom key optimization.

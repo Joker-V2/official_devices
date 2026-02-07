@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1763911297,
-            "filename": "axion-2.2.1-NIGHTLY-20251123-OFFICIAL-GMS-mondrian.zip",
-            "id": "aa062c1b39801ed9f48dd8eccb52e2d0",
+            "datetime": 1770409943,
+            "filename": "axion-2.4-SOLACE-20260206-OFFICIAL-GMS-mondrian.zip",
+            "id": "38f14153144f3e95879b127fcc95009a",
             "romtype": "OFFICIAL",
-            "size": 2541613565,
-            "url": "https://sourceforge.net/projects/axion-official/files/2.x/axion-2.2.1-NIGHTLY-20251123-OFFICIAL-GMS-mondrian.zip/download",
-            "version": "2.2.1"
+            "size": 2698842862,
+            "url": "https://cdn.axionos.org/mondrian/axion-2.4-SOLACE-20260206-OFFICIAL-GMS-mondrian.zip",
+            "version": "2.4"
         }
     ]
 }
