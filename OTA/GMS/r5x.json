@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1767908721,
-            "filename": "axion-2.3-TELOS-20260108-OFFICIAL-GMS-r5x.zip",
-            "id": "261fd973376b2220756dcded9d25afae",
+            "datetime": 1770104595,
+            "filename": "axion-2.4-SOLACE-20260203-OFFICIAL-GMS-r5x.zip",
+            "id": "504bf867d87da45c51010f79040f9de3",
             "romtype": "OFFICIAL",
-            "size": 1983381400,
-            "url": "https://sourceforge.net/projects/realme5series/files/axion-2.3-TELOS-20260108-OFFICIAL-GMS-r5x.zip/download",
-            "version": "2.3"
+            "size": 1989912969,
+            "url": "https://cdn.axionos.org/r5x/axion-2.4-SOLACE-20260203-OFFICIAL-GMS-r5x.zip",
+            "version": "2.4"
         }
     ]
 }

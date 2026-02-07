@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1767906215,
-            "filename": "axion-2.3-TELOS-20260108-OFFICIAL-VANILLA-r5x.zip",
-            "id": "d4373af5831853a897c11e47f07c5c83",
+            "datetime": 1769997841,
+            "filename": "axion-2.4-SOLACE-20260202-OFFICIAL-VANILLA-r5x.zip",
+            "id": "222b336fda902d50c07f87b0295fcd75",
             "romtype": "OFFICIAL",
-            "size": 1543932513,
-            "url": "https://sourceforge.net/projects/realme5series/files/axion-2.3-TELOS-20260108-OFFICIAL-VANILLA-r5x.zip/download",
-            "version": "2.3"
+            "size": 1546313995,
+            "url": "https://cdn.axionos.org/r5x/axion-2.4-SOLACE-20260202-OFFICIAL-VANILLA-r5x.zip",
+            "version": "2.4"
         }
     ]
 }
