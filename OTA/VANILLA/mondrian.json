@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1763914701,
-            "filename": "axion-2.2.1-NIGHTLY-20251123-OFFICIAL-VANILLA-mondrian.zip",
-            "id": "bf607babcc5322d60b9bee47a424934b",
+            "datetime": 1770423867,
+            "filename": "axion-2.4-SOLACE-20260207-OFFICIAL-VANILLA-mondrian.zip",
+            "id": "b868a173aaed21d4d95d91f23329e810",
             "romtype": "OFFICIAL",
-            "size": 2151330154,
-            "url": "https://sourceforge.net/projects/axion-official/files/2.x/axion-2.2.1-NIGHTLY-20251123-OFFICIAL-VANILLA-mondrian.zip/download",
-            "version": "2.2.1"
+            "size": 2307215145,
+            "url": "https://cdn.axionos.org/mondrian/axion-2.4-SOLACE-20260207-OFFICIAL-VANILLA-mondrian.zip",
+            "version": "2.4"
         }
     ]
 }
