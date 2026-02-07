@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1765110858,
-            "filename": "axion-2.2.1-NIGHTLY-20251207-OFFICIAL-GMS-beryllium.zip",
-            "id": "a08a326f640c7d4dec45b898e6b6d5cb",
+            "datetime": 1770458984,
+            "filename": "axion-2.4-SOLACE-20260207-OFFICIAL-GMS-beryllium.zip",
+            "id": "1114f2b1827b531e6517667899e275b0",
             "romtype": "OFFICIAL",
-            "size": 1845276420,
-            "url": "https://github.com/Legendleo90/Build_Releases/releases/download/V2.2.1/axion-2.2.1-NIGHTLY-20251207-OFFICIAL-GMS-beryllium.zip",
-            "version": "2.2.1"
+            "size": 2005011394,
+            "url": "https://cdn.axionos.org/beryllium/axion-2.4-SOLACE-20260207-OFFICIAL-GMS-beryllium.zip",
+            "version": "2.4"
         }
     ]
 }
