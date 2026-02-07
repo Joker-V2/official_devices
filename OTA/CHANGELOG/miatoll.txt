@@ -1,3 +1,10 @@
+AxionOS v2.4
+Build Date : 07/02/2026
+- Added OnePlus Dolby support
+- Added flashlight strength control
+- Fixed random Wi-Fi disconnection issue hopefully
+- Updated Wi-Fi configs from sm8150
+
 AxionOS v2.3
 Build Date : 21/01/2026
 - Initial QPR1 release 

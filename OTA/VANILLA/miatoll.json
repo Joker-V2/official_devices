@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768977688,
-            "filename": "axion-2.3-TELOS-20260121-OFFICIAL-VANILLA-miatoll.zip",
-            "id": "56ab45e5b0d7386c6eaa718c6259c8e6",
+            "datetime": 1770487527,
+            "filename": "axion-2.4-SOLACE-20260207-OFFICIAL-VANILLA-miatoll.zip",
+            "id": "2ac73e1bed5babbe20f5f4b4ccafeab9",
             "romtype": "OFFICIAL",
-            "size": 1805490921,
-            "url": "https://sourceforge.net/projects/axionos-miatoll/files/axion-2.3-TELOS-20260121-OFFICIAL-VANILLA-miatoll.zip/download",
-            "version": "2.3"
+            "size": 1821541824,
+            "url": "https://cdn.axionos.org/miatoll/axion-2.4-SOLACE-20260207-OFFICIAL-VANILLA-miatoll.zip",
+            "version": "2.4"
         }
     ]
 }
