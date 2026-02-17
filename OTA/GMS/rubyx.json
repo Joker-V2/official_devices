@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768242313,
-            "filename": "axion-2.3-TELOS-20260112-OFFICIAL-GMS-rubyx.zip",
-            "id": "cf76340d2f4e572012af08e6247caf5d",
+            "datetime": 1771310283,
+            "filename": "axion-2.4-SOLACE-20260217-OFFICIAL-GMS-rubyx.zip",
+            "id": "ef7f1e67215e9280ef4a352a82508e8f",
             "romtype": "OFFICIAL",
-            "size": 2276543734,
-            "url": "https://sourceforge.net/projects/axion-rubyx/files/AxionAOSP/Axion-2.3/axion-2.3-TELOS-20260112-OFFICIAL-GMS-rubyx.zip/download",
-            "version": "2.3"
+            "size": 2284541774,
+            "url": "https://cdn.axionos.org/rubyx/axion-2.4-SOLACE-20260217-OFFICIAL-GMS-rubyx.zip",
+            "version": "2.4"
         }
     ]
 }
