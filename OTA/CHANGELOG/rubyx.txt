@@ -2,6 +2,20 @@ Device: Redmi Note 12 Pro / Plus / Discovery 5G
 Device code name : rubyx
 Device maintainer: Casanova.
 
+AxionOS v2.4
+Date :- 17/02/26
+=================
+- Update blobs to OS2.0.10.0.UMOMIXM
+- Implement flashlight strength control
+- Include new Dolby UI
+- Tune kernel sched parameters
+- Re-implement fpsgo
+- Tweak memory management (LMK)
+- Rework powerhint for reducing jank
+- Fix some sepolicy rules for PowerHAL
+- Switch USB tethering from NCM back to RNDIS
+- Disable blur for smoother UI experience
+
 Date - 14.01.2026
 =================
 - Initial official A16 QPR1 release
