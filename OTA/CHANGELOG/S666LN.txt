@@ -1,4 +1,11 @@
 AxionOS v2.4
+Build Date: 2026/02/20
+- Update Kernel to Chihiro 1.1
+- Firmware now Included
+- import audio policy from raven
+- Drop Mediatek MEOW blobs and switch to mali
+- wrap thermal_core to prevent SIGSEGV on missing cooler
+
 Build Date: 2026/02/05
 - Update Kernel to Mahiru 26.0
 - Build mediaTek WiFi lib and enable OUI support on  wpa_supplicant_8
