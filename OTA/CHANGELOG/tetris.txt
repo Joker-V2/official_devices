@@ -2,6 +2,14 @@ Device: Nothing CMF Phone 1
 Device code name : tetris
 Device maintainer: Ashwani
 
+Date - 23/02/2026
+=================
+- Fixed up powerhint having invalid trailing comma.
+- Added big cluster boosting in LAUNCH.
+- Improved the cpu freq boosting in SUSTAINED_PERFORMANCE.
+- Improved the INTERACTION boost.
+
+
 Date - 29/01/2026
 =================
 - Improvement in powerhint for perf and efficiency.
