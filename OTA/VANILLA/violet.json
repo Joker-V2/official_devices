@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1769616265,
-            "filename": "axion-2.4-SOLACE-20260128160429-OFFICIAL-VANILLA-violet.zip",
-            "id": "4470d09eb65e76484f8c1ddd3376c226",
+            "datetime": 1771915512,
+            "filename": "axion-2.4-SOLACE-20260224064637-OFFICIAL-VANILLA-violet.zip",
+            "id": "dfa7bb7649fb87161129dfa332a12a50",
             "romtype": "OFFICIAL",
-            "size": 1617490524,
-            "url": "https://github.com/AxionAOSP-devices/android_device_xiaomi_violet/releases/download/v2.4/axion-2.4-SOLACE-20260128160429-OFFICIAL-VANILLA-violet.zip",
+            "size": 1604722036,
+            "url": "https://cdn.axionos.org/violet/axion-2.4-SOLACE-20260224064637-OFFICIAL-VANILLA-violet.zip",
             "version": "2.4"
         }
     ]
