@@ -2,8 +2,12 @@ Device: Redmi Note 7 Pro
 Device code name : violet
 Device maintainer: Joker-V2
 
-Date - 28/01/2026
+Date - 24/02/2026
 =================
-- Fixed issues regarding legacy media codecs
+- Switches to c2 media codecs
+- Fixed video playback issues
+- Fixed camera error when open from recent app
+- Fully removed omx
+- Update media blobs
+- Update graphics blobs
 - Added dolby atmos
-- GApps aren't included by default (Must use recommended GApps)
