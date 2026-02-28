@@ -1,4 +1,11 @@
 AxionOS v2.4
+Build Date : 28/02/2026
+- Enabled Blurs (if u feel lag disable them via display settings)
+- Sync LunarisDolby
+- Apply dex2oat optimizations
+- Fixed certain tiles getting auto turn on over reboot/sui restart
+
+AxionOS v2.4
 Build Date : 27/01/2026
 - Disable high performance transitions
 - Removed Useless dailer overlays
