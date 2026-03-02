@@ -59,7 +59,7 @@
 - **[Itachi](https://github.com/manidweep)** (Oneplus 8 series)
 - **[beingashwani](https://github.com/beingashwani)** (POCO F5/Nothing CMF Phone 1)
 - **[Keosh](https://github.com/keosh1)** (POCO F5 Pro/K60)
-- **[Mayur-U](https://github.com/Mayur-U)** (POCO X5 PRO 5G/POCO F7)
+- **[Zarathos30](https://github.com/Zarathos30)** (POCO F7)
 - **[Amritorock](https://github.com/Amritorock)** (Realme 5/5s/5i/5nfc Unified r5x/Redmi Note 7/7s)
 - **[Bijoy](https://github.com/bijoyv9)** (Realme GT Neo 3T)
 - **[Saikrishna](https://github.com/saikrishna1504)** (Redmi Note 8 Pro/POCO X6 PRO 5G)
