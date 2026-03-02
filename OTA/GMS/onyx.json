@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1768197111,
-            "filename": "axion-2.3-TELOS-20260112-OFFICIAL-GMS-onyx.zip",
-            "id": "60fc3f9e05e4688568d64eb27851daf8",
-            "romtype": "OFFICIAL",
-            "size": 3728808826,
-            "url": "https://sourceforge.net/projects/axionos-onyx/files/12-01-2026/axion-2.3-TELOS-20260112-OFFICIAL-GMS-onyx.zip/download",
-            "version": "2.3"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1772494361,
+      "filename": "axion-2.4-SOLACE-20260302-OFFICIAL-GMS-onyx.zip",
+      "id": "01908f1c2a7aef22ce6c90a1b0da9680 ",
+      "romtype": "OFFICIAL",
+      "size": 4144292777,
+      "url": "https://cdn.axionos.org/onyx/axion-2.4-SOLACE-20260302-OFFICIAL-GMS-onyx.zip",
+      "version": "2.4"
+    }
+  ]
 }
