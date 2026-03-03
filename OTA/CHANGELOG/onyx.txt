@@ -1,10 +1,56 @@
 Device: POCO F7
 Device code name: onyx
-Device maintainer: Mayur_U
+Device maintainer: Zarathos_Ghost_Rider
 
-Axion v2.3
-Date - 12/01/2026
-- initial official release
-- Tune out the powerhint and surfaceflinger configuration
-- No KSU support
+Axion v2.4
+Date - 03/03/2026
+- Source Upstream
+- Fixed Fast Charging
+- Used hwui vulkan backend
+- Applied dex2oat optimizations
+- Migrated to QTI's vibration service implementation
+- Replaced proprietary services with AOSP NXP authsecret HAL
+- Replaced proprietary services with AOSP NXP keymint HAL
+- Switched to libperfmgr for performance management
+- Synced with latest blobs and firmware from OS3.0.5.0.WOLMIXM
+- Disabled EGL image tracking
+- Increased 5 GHz Wi-Fi signal tolerance
+- Tuned ambient display burn-in protection
+- Enabled suspend to RAM
+- Added VoNR, VoLTE, and VoWiFi support for all carriers
+- Improved BLE connectivity and microphone behavior
+- Added ARCore camera features
+- Build erofs images for odm/system_dlkm/vendor/vendor_dlkm partitions
+- Switched all remaining partitions to full erofs filesystem
+- Removed deprecated GSI AVB keys from rootdir
+- Added erofs compression hints for better performance
+- Removed the I/O prefetcher from init
+- Skipped ZRAM setup in the QCOM post-boot script
+- Raised ZRAM capacity to 6GB
+- Locked high refresh rate target to 120fps
+- Added the DSPVolumeSynchronizer component
+- Restricted apps access to /proc/net/unix for security
+- Updated Skia tracing properties
+- Suppressed harmless SELinux denials in logs
+- Used correct dalvik.vm heap values optimized for onyx
+- Disabled Skia tracing by default for better performance
+- Fixed 5G VoNR for Jio
+- Relaxed RSSI thresholds
+- Restored Lunaris Dolby
+- Enabled Qualcomm TrueWireless™ Stereo
+- Set ART debug to release mode
+- Disabled RX wakelock feature
+- Disabled WLAN firmware logging
+- Addressed system suspend SELinux denials
+- Pushed 120 FPS for ScreenRecorder
+- Silenced spammy logging
+- Added High Touch Polling Rate support
+- Added MIUI Color options
+- Dropped hotword enrollment
+- Dropped config power decouple mode
+- Disabled FW roaming when in idle mode
+
+
+
+
 
