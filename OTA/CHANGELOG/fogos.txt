@@ -1,0 +1,9 @@
+AxionOS v2.4
+Build Date : 05/03/2026
+- Initial official release
+- Sync with latest source
+- MotoCam included
+
+Credits :
+LineageOS for base tree
+@irawansalt for help
