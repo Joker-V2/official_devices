@@ -118,6 +118,15 @@
       "status": "Active"
     },
     {
+      "device_name": "Motorola G34/45 5G",
+      "codename": "fogos",
+      "maintainer": "Byben",
+      "github_username": "heybyben",
+      "support_group": "https://t.me/wkcwproject",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/motorola-moto-g45-5g.jpg",
+      "status": "Active"
+    },
+    {
       "device_name": "Motorola G54",
       "codename": "cancunf",
       "maintainer": "Ayan",

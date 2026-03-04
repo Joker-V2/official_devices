@@ -16,6 +16,7 @@
 | **Google Pixel 9 Pro**     | `caiman`     |
 | **Google Pixel 9 Pro XL**  | `komodo`     |
 | **Itel RS4**               | `S666LN`     |
+| **Motorola G34/45 5G**     | `fogos`    |
 | **Motorola G54**           | `cancunf`    |
 | **Nothing CMF Phone 1**    | `tetris`     |
 | **Oneplus 8**              | `instantnoodle`|
@@ -82,3 +83,4 @@
 - **[Debayan Kar](https://github.com/kardebayan)** (POCO X3 / POCO X3 NFC)
 - **[KimelaZPrjkt.](https://github.com/KimelaZX)** (Itel RS4)
 - **[Genoxci](https://github.com/genoxci-dev)** (Oneplus 13R / Ace 5, Samsung Galaxy A52s 5G)
+- **[Byben](https://github.com/heybyben)** (Motorola G34/45 5G)
