@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1770396471,
-            "filename": "axion-2.4-SOLACE-20260206-OFFICIAL-VANILLA-giulia.zip",
-            "id": "102df669815633407df3ab4dfaa06be7",
+            "datetime": 1772624232,
+            "filename": "axion-2.4-SOLACE-20260304-OFFICIAL-VANILLA-giulia.zip",
+            "id": "f96d1f9a724b464313ef80ad2374dba0",
             "romtype": "OFFICIAL",
-            "size": 3106471730,
-            "url": "https://cdn.axionos.org/giulia/axion-2.4-SOLACE-20260206-OFFICIAL-VANILLA-giulia.zip",
+            "size": 3108392018,
+            "url": "https://cdn.axionos.org/giulia/axion-2.4-SOLACE-20260304-OFFICIAL-VANILLA-giulia.zip",
             "version": "2.4"
         }
     ]
