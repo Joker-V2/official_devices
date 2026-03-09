@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1769835215,
-            "filename": "axion-2.4-SOLACE-20260131-OFFICIAL-VANILLA-spartan.zip",
-            "id": "4ed8ff6e86c981dfbbbe42247fbca344",
+            "datetime": 1773060824,
+            "filename": "axion-2.4-SOLACE-20260309-OFFICIAL-VANILLA-spartan.zip",
+            "id": "56d308459ace8143ece7b29d3718bca4",
             "romtype": "OFFICIAL",
-            "size": 2091486731,
-            "url": "https://sourceforge.net/projects/axionxspartan/files/axion-2.4-SOLACE-20260131-OFFICIAL-VANILLA-spartan.zip/download",
+            "size": 2038079261,
+            "url": "https://cdn.axionos.org/spartan/axion-2.4-SOLACE-20260309-OFFICIAL-VANILLA-spartan.zip",
             "version": "2.4"
         }
     ]

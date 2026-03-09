@@ -34,3 +34,9 @@ AxionOS v2.4
 
 Build Date : 31/01/2026
 - New goodies in RealmeAddons
+
+AxionOS v2.4
+
+Build Date : 09/03/2026
+- Improved RealmeAddons
+- Switched kernel to Entropy
