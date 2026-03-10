@@ -40,3 +40,8 @@ AxionOS v2.4
 Build Date : 09/03/2026
 - Improved RealmeAddons
 - Switched kernel to Entropy
+
+AxionOS v2.4
+
+Build Date : 10/03/2026
+- Fixed oplus camera black screen issue
