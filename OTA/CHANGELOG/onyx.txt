@@ -3,54 +3,69 @@ Device code name: onyx
 Device maintainer: Zarathos_Ghost_Rider
 
 Axion v2.4
-Date - 03/03/2026
-- Source Upstream
-- Fixed Fast Charging
-- Used hwui vulkan backend
-- Applied dex2oat optimizations
-- Migrated to QTI's vibration service implementation
-- Replaced proprietary services with AOSP NXP authsecret HAL
-- Replaced proprietary services with AOSP NXP keymint HAL
-- Switched to libperfmgr for performance management
-- Synced with latest blobs and firmware from OS3.0.5.0.WOLMIXM
-- Disabled EGL image tracking
-- Increased 5 GHz Wi-Fi signal tolerance
-- Tuned ambient display burn-in protection
-- Enabled suspend to RAM
-- Added VoNR, VoLTE, and VoWiFi support for all carriers
-- Improved BLE connectivity and microphone behavior
-- Added ARCore camera features
-- Build erofs images for odm/system_dlkm/vendor/vendor_dlkm partitions
-- Switched all remaining partitions to full erofs filesystem
-- Removed deprecated GSI AVB keys from rootdir
-- Added erofs compression hints for better performance
-- Removed the I/O prefetcher from init
-- Skipped ZRAM setup in the QCOM post-boot script
-- Raised ZRAM capacity to 6GB
-- Locked high refresh rate target to 120fps
-- Added the DSPVolumeSynchronizer component
-- Restricted apps access to /proc/net/unix for security
-- Updated Skia tracing properties
-- Suppressed harmless SELinux denials in logs
-- Used correct dalvik.vm heap values optimized for onyx
-- Disabled Skia tracing by default for better performance
-- Fixed 5G VoNR for Jio
-- Relaxed RSSI thresholds
-- Restored Lunaris Dolby
-- Enabled Qualcomm TrueWireless™ Stereo
-- Set ART debug to release mode
-- Disabled RX wakelock feature
-- Disabled WLAN firmware logging
-- Addressed system suspend SELinux denials
-- Pushed 120 FPS for ScreenRecorder
-- Silenced spammy logging
-- Added High Touch Polling Rate support
-- Added MIUI Color options
-- Dropped hotword enrollment
-- Dropped config power decouple mode
-- Disabled FW roaming when in idle mode
-
-
-
-
-
+Date - 16/03/2026
+- Source upstream
+- Remove useless qvop-daemon
+- Remove cnss_diag service
+- Remove bogus tombstone directory directives
+- Remove invalid printk_devkmsg write
+- Remove unused fatal_err_check service
+- Remove duplicate 'start logd' in init
+- Remove camera-daemon commands moved to init.rc
+- Add webview pinning overlay
+- Utilize task_profiles.json and cgroups.json
+- Silence ColorManager logspam
+- Dontaudit camera HAL default_prop denial
+- Set SurfaceFlinger min uclamp to 30%
+- Build ANGLE app
+- Fix hal_audio_default default_prop sepolicy denial
+- Add sepolicy for diag-router app
+- Update blobs from OS3.0.6.0.WOLMIXM
+- Enable QCRIL radio power saving
+- Reduce system server verbosity
+- Remove time_daemon rc definition
+- Remove sdcard legacy support from init
+- Remove unused daemon services (ATFWD, qseeproxy, chre)
+- Disable KPTI
+- Define supported display refresh rates
+- Enable Bluetooth AVRCP controller profile
+- Enable Axion Performance Mode
+- Remove redundant wait on fs_ready before writing to it, slightly improving boot time. 
+- Added torch brightness level support 
+- Introduced variant handler via libinit for unified device props management
+- Reverted ART debug to default mode 
+- Fixed WALT governor timing to initialize before power HAL startup 
+- Removed unnecessary wait for fs_ready entry 
+- Drop redundant build desc 
+- More powerhint ricing
+- Drop xiaomi micharge service
+- Switch thermal config to mgame 
+- Drop avb hashtree footer args 
+- Fix the bug where it wasn't possible to adjust the volume during VOIP calls such as WhatsApp calls 
+- Fix SELinux denial for P3 color mode property 
+- Revert ART debug release mode
+- Tighten migt/metis/mist sysfs permissions 
+- Tighten /dev/uhid permissions 
+- Remove conflicting camerax extensions property from vendor 
+- Remove conflicting LE Audio profile overrides from product 
+- Remove duplicate mi-serial-sh and dead device references 
+- Fix chown used instead of chmod for metis parameters 
+- Clean up redundant Vulkan declarations 
+- Fix GPU sysfs genfscon paths 
+- Fix bluetooth BAP broadcast source property typo 
+- Added new charging control via XiaomiParts
+- Added 2% safety margin to prevent charging limit overshoot
+- Set proper permissions for charging control sysfs node
+- Fixed fragment manager compatibility in ChargingControlActivity
+- Fixed startService warning in ChargingControlFragment
+- Resolved multiple SELinux denials:
+- Allowed platform_app to find mediacodec service
+- Allowed mediaprovider to find mediacodec service
+- Resolved audio, bluetooth, camera, touchfeature and mediacodec denials
+- Switch to pixel-libperfmgr (hardware/google) for Power HAL
+- Enable CameraX Extensions support 
+- Remove unused camera watermarks, shaders and configs 
+- Increase zram to 8GB
+- Fix duplicate Bluetooth HFP codec prop 
+- Fix DisplayFeature AIDL binding 
+- SELinux policy updates for pixel power HAL

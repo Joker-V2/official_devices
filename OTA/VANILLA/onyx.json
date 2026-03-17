@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1768207381,
-            "filename": "axion-2.3-TELOS-20260112-OFFICIAL-VANILLA-onyx.zip",
-            "id": "53cee7965b8c1224fa4e231725a1ec0f",
+            "datetime": 1773698355,
+            "filename": "axion-2.4-SOLACE-20260316-OFFICIAL-VANILLA-onyx.zip",
+            "id": "9a74f7686683d33c9f656c2499cb4ac7",
             "romtype": "OFFICIAL",
-            "size": 3327898186,
-            "url": "https://sourceforge.net/projects/axionos-onyx/files/12-01-2026/axion-2.3-TELOS-20260112-OFFICIAL-VANILLA-onyx.zip/download",
-            "version": "2.3"
+            "size": 3791354116,
+            "url": "https://cdn.axionos.org/onyx/axion-2.4-SOLACE-20260316-OFFICIAL-VANILLA-onyx.zip",
+            "version": "2.4"
         }
     ]
 }
