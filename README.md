@@ -27,7 +27,6 @@
 | **Oneplus Ace 5**          | `giuliac`    |
 | **Oneplus Nord CE2 Lite 5G** | `oscaro`     |
 | **POCO F1**                | `beryllium`  |
-| **POCO F3/Mi 11X/K40**       | `alioth`     |
 | **POCO F5**                | `marble`     |
 | **POCO F5 PRO/K60**            | `mondrian`   |
 | **POCO F6**                | `peridot`    |
@@ -40,8 +39,6 @@
 | **Realme 5 series**        | `r5x`        |
 | **Realme 6/7/Narzo Unified**    | `RM6785`     |
 | **Realme GT Neo 3T**       | `spartan`    |
-| **Redmi 3S/3X/4/4A/4X/5A/Note 5A** | `Mi8937_4_19` |
-| **Redmi Blossom Series**   | `blossom`    |
 | **Redmi Note 7/7s**        | `lavender`   |
 | **Redmi Note 7 Pro**       | `violet`     |
 | **Redmi Note 8 Pro**       | `begonia`    |
@@ -70,9 +67,7 @@
 - **[swiitchOFF](https://github.com/swiitchOFF)** (Xiaomi 11T Pro)
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)
 - **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo/Narzo 20p/Narzo 304G)
-- **[fukiame](https://github.com/fukiame)** (Redmi 9A/9i/9C/10A / POCO C3/C31)
 - **[Niv](https://github.com/nivlafx)** (Pixel 9 series)
-- **[Rve](https://github.com/Rve27)** (POCO F3/Mi 11X/K40, Redmi 3S/3X/4/4A/4X/5A/Note 5A)
 - **[Akshat](https://github.com/Legendleo90)** (POCO F1)
 - **[Devansh P.](https://github.com/NotBlazeee28)** (POCO F6)
 - **[RiteshSahany](https://github.com/RiteshSahany)** (POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite)
