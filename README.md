@@ -47,7 +47,6 @@
 | **Samsung Galaxy A52s 5G** | `a52sxq`     |
 | **TECNO POVA 4 Pro**         | `LG8n` |
 | **TECNO POVA 5**         | `LH7n` |
-| **Xiaomi 11T Pro**         | `vili`       |
 | **Redmi K20 Pro / Mi 9T Pro**           | `raphael`       |
 | **Xiaomi Pad 6**           | `pipa`       |
 
@@ -64,7 +63,6 @@
 - **[therealmharc](https://github.com/therealmharc)** (Redmi Note 10 Pro/Pro Max)
 - **[Pranshu Sheoran](https://github.com/sheoranpranshu)** (Xiaomi Pad 6)
 - **[EliteDarkKaiser](https://github.com/austineyoung2000)** (Pixel Tablet & Pixel 8 series)
-- **[swiitchOFF](https://github.com/swiitchOFF)** (Xiaomi 11T Pro)
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)
 - **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo/Narzo 20p/Narzo 304G)
 - **[Niv](https://github.com/nivlafx)** (Pixel 9 series)
