@@ -26,7 +26,6 @@
 | **Oneplus 13R**            | `giulia`     |
 | **Oneplus Ace 5**          | `giuliac`    |
 | **Oneplus Nord CE2 Lite 5G** | `oscaro`     |
-| **POCO F1**                | `beryllium`  |
 | **POCO F5**                | `marble`     |
 | **POCO F5 PRO/K60**            | `mondrian`   |
 | **POCO F6**                | `peridot`    |
@@ -66,7 +65,6 @@
 - **[Muhammad Al-Arabi](https://github.com/MohammadAlArabi)** (Redmi K20 Pro / Mi 9T Pro)
 - **[𝙴𝙻𝙾𝙷𝙸𝙼](https://github.com/elohim-etz)** (Realme 6/6i/6s/7/Narzo/Narzo 20p/Narzo 304G)
 - **[Niv](https://github.com/nivlafx)** (Pixel 9 series)
-- **[Akshat](https://github.com/Legendleo90)** (POCO F1)
 - **[Devansh P.](https://github.com/NotBlazeee28)** (POCO F6)
 - **[RiteshSahany](https://github.com/RiteshSahany)** (POCO M2 Pro / Redmi Note 9S / 9 Pro / 9 Pro Max / 10 Lite)
 - **[Chethan](https://github.com/NoCache-69)** (Oneplus Nord CE2 Lite 5G)
