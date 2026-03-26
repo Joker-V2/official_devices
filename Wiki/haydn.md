@@ -1,4 +1,4 @@
-# Installation Guide — Motorola G34/45 5G (fogos)
+# Installation Guide — Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+ (haydn)
 
 > [!WARNING]
 > - Your warranty is void.
@@ -11,14 +11,14 @@
 > - Make a **full data backup** before flashing.
 > - Make sure to be on [latest](https://developer.android.com/tools/releases/platform-tools) **platform tools** for adb/fastboot commands.
 > - Ensure your device has at least **30% battery**.
-> - Flash **only** files meant for **Motorola G34/45 5G (fogos)**.
+> - Flash **only** files meant for **Mi 11x Pro/ Mi 11i/Redmi K40 Pro/Redmi K40 Pro+ (haydn)**.
 > - First boot may take 5–10 minutes.Do **not** interrupt or force reboot unless it exceeds 10 minutes.
 
 ---
 
 ## Clean Installation
 
-1. Download the latest **axion-*-fogos.zip** from the [website](https://cdn.axionos.org).
+1. Download the latest **axion-*-haydn.zip** from the [website](https://cdn.axionos.org).
 2. Connect your phone to PC and reboot to **fastboot** by holding both power button and volume down keys.
 3. Flash the following partitions **one by one** through powershell/terminal using:
 
@@ -84,4 +84,4 @@ adb sideload <drag-&-drop-rom.zip>
 
 ## Support / Bug Reports
 
-📢 **[Telegram Group](https://t.me/wkcwproject)** 
+📢 **[Telegram Group](https://t.me/EternelVoid_sg)** 

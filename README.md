@@ -47,6 +47,7 @@
 | **TECNO POVA 4 Pro**         | `LG8n` |
 | **TECNO POVA 5**         | `LH7n` |
 | **Redmi K20 Pro / Mi 9T Pro**           | `raphael`       |
+| **Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+**  | `haydn`     |
 | **Xiaomi Pad 6**           | `pipa`       |
 
 ## 👤 Maintainers
@@ -75,3 +76,4 @@
 - **[KimelaZPrjkt.](https://github.com/KimelaZX)** (Itel RS4)
 - **[Genoxci](https://github.com/genoxci-dev)** (Oneplus 13R / Ace 5, Samsung Galaxy A52s 5G)
 - **[Byben](https://github.com/heybyben)** (Motorola G34/45 5G)
+- **[Lucifer](https://github.com/Never-Alive)** (Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+)
