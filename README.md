@@ -26,6 +26,7 @@
 | **Oneplus 13R**            | `giulia`     |
 | **Oneplus Ace 5**          | `giuliac`    |
 | **Oneplus Nord CE2 Lite 5G** | `oscaro`     |
+| **POCO F4**                | `munch`  |
 | **POCO F5**                | `marble`     |
 | **POCO F5 PRO/K60**            | `mondrian`   |
 | **POCO F6**                | `peridot`    |
@@ -77,3 +78,4 @@
 - **[Genoxci](https://github.com/genoxci-dev)** (Oneplus 13R / Ace 5, Samsung Galaxy A52s 5G)
 - **[Byben](https://github.com/heybyben)** (Motorola G34/45 5G)
 - **[Lucifer](https://github.com/Never-Alive)** (Mi 11X Pro/Mi 11i/Redmi K40 Pro/Redmi K40 Pro+)
+- **[SENX|センクス](https://github.com/SenseiiX)** (POCO F4/K40S)
