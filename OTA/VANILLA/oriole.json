@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1769449504,
-            "filename": "axion-2.4-TELOS-20260126-OFFICIAL-VANILLA-oriole.zip",
-            "id": "1bd38b8e5f166edcffb24209c817b19a",
-            "romtype": "OFFICIAL",
-            "size": 1959608126,
-            "url": "https://1drv.ms/f/c/88f2d06dfca76168/IgCGdW2eEinnS66E3Jrojo68AfK1aeMM2NdltnCPc1OQ2CU?e=NAed1a",
-            "version": "2.4"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1775614639,
+      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-VANILLA-oriole.zip",
+      "id": "e16fcbcf620d2cc0f677be02350df8b3",
+      "romtype": "OFFICIAL",
+      "size": 1708293997,
+      "url": "https://cdn.axionos.org/oriole/axion-2.5-REVERIE-20260408-OFFICIAL-VANILLA-oriole.zip",
+      "version": "2.5"
+    }
+  ]
 }

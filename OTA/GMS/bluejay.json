@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1769451801,
-            "filename": "axion-2.4-TELOS-20260126-OFFICIAL-GMS-bluejay.zip",
-            "id": "b76365245c0b39d161f5abab5155b944",
-            "romtype": "OFFICIAL",
-            "size": 2351030546,
-            "url": "https://1drv.ms/f/c/88f2d06dfca76168/IgCGdW2eEinnS66E3Jrojo68AfK1aeMM2NdltnCPc1OQ2CU?e=NAed1a",
-            "version": "2.4"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1775617829,
+      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-GMS-bluejay.zip",
+      "id": "97b8b293032b44329e197d98a80b94bc",
+      "romtype": "OFFICIAL",
+      "size": 2989674358,
+      "url": "https://cdn.axionos.org/bluejay/axion-2.5-REVERIE-20260408-OFFICIAL-GMS-bluejay.zip",
+      "version": "2.5"
+    }
+  ]
 }

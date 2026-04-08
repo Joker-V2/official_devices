@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1769444165,
-            "filename": "axion-2.4-TELOS-20260126-OFFICIAL-GMS-cheetah.zip",
-            "id": "2da46248459aa1e08cde13fa98675cf4",
-            "romtype": "OFFICIAL",
-            "size": 2519976052,
-            "url": "https://1drv.ms/f/c/88f2d06dfca76168/IgCGdW2eEinnS66E3Jrojo68AfK1aeMM2NdltnCPc1OQ2CU?e=NAed1a",
-            "version": "2.4"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1775606825,
+      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-GMS-cheetah.zip",
+      "id": "d0a60b565ebf455a3a0bccb7b54a4078",
+      "romtype": "OFFICIAL",
+      "size": 3106425847,
+      "url": "https://cdn.axionos.org/cheetah/axion-2.5-REVERIE-20260408-OFFICIAL-GMS-cheetah.zip",
+      "version": "2.5"
+    }
+  ]
 }

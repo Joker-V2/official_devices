@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1769446428,
-            "filename": "axion-2.4-TELOS-20260126-OFFICIAL-VANILLA-lynx.zip",
-            "id": "7b0d07a0d58c1d2d4465665df89d865a",
-            "romtype": "OFFICIAL",
-            "size": 2113691674,
-            "url": "https://1drv.ms/f/c/88f2d06dfca76168/IgCGdW2eEinnS66E3Jrojo68AfK1aeMM2NdltnCPc1OQ2CU?e=NAed1a",
-            "version": "2.4"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1775609607,
+      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-VANILLA-lynx.zip",
+      "id": "01f486636b4b38102c56a2aba612aeae",
+      "romtype": "OFFICIAL",
+      "size": 1810758837,
+      "url": "https://cdn.axionos.org/lynx/axion-2.5-REVERIE-20260408-OFFICIAL-VANILLA-lynx.zip",
+      "version": "2.5"
+    }
+  ]
 }

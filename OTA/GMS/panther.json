@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1769445493,
-            "filename": "axion-2.4-TELOS-20260126-OFFICIAL-GMS-panther.zip",
-            "id": "e293bb7538c138c203a2b6eb5d7dcf8c",
-            "romtype": "OFFICIAL",
-            "size": 2506046584,
-            "url": "https://1drv.ms/f/c/88f2d06dfca76168/IgCGdW2eEinnS66E3Jrojo68AfK1aeMM2NdltnCPc1OQ2CU?e=NAed1a",
-            "version": "2.4"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1775608362,
+      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-GMS-panther.zip",
+      "id": "f3dcaa002aabe840c29654fb2e8589ea",
+      "romtype": "OFFICIAL",
+      "size": 3091979259,
+      "url": "https://cdn.axionos.org/panther/axion-2.5-REVERIE-20260408-OFFICIAL-GMS-panther.zip",
+      "version": "2.5"
+    }
+  ]
 }

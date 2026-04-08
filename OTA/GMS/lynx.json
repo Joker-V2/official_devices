@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1769447221,
-            "filename": "axion-2.4-TELOS-20260126-OFFICIAL-GMS-lynx.zip",
-            "id": "2f6aafcf2551fda1f1dd17af58918f42",
-            "romtype": "OFFICIAL",
-            "size": 2504404908,
-            "url": "https://1drv.ms/f/c/88f2d06dfca76168/IgCGdW2eEinnS66E3Jrojo68AfK1aeMM2NdltnCPc1OQ2CU?e=NAed1a",
-            "version": "2.4"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1775610552,
+      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-GMS-lynx.zip",
+      "id": "97e23451ddd25fd4cdb20570f72bb2ed",
+      "romtype": "OFFICIAL",
+      "size": 3092803323,
+      "url": "https://cdn.axionos.org/lynx/axion-2.5-REVERIE-20260408-OFFICIAL-GMS-lynx.zip",
+      "version": "2.5"
+    }
+  ]
 }

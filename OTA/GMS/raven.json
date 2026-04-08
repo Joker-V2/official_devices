@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1769448830,
-            "filename": "axion-2.4-TELOS-20260126-OFFICIAL-GMS-raven.zip",
-            "id": "d318df58c319b4ea7c3932555f5ac24e",
-            "romtype": "OFFICIAL",
-            "size": 2366431862,
-            "url": "https://1drv.ms/f/c/88f2d06dfca76168/IgCGdW2eEinnS66E3Jrojo68AfK1aeMM2NdltnCPc1OQ2CU?e=NAed1a",
-            "version": "2.4"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1775613699,
+      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-GMS-raven.zip",
+      "id": "915296d11068f1dd8f30560cc17f5ecb",
+      "romtype": "OFFICIAL",
+      "size": 3004423372,
+      "url": "https://cdn.axionos.org/raven/axion-2.5-REVERIE-20260408-OFFICIAL-GMS-raven.zip",
+      "version": "2.5"
+    }
+  ]
 }

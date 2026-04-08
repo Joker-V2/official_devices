@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1769451058,
-            "filename": "axion-2.4-TELOS-20260126-OFFICIAL-VANILLA-bluejay.zip",
-            "id": "7e332db7118ed7c2eb459068ee559e87",
-            "romtype": "OFFICIAL",
-            "size": 1959935538,
-            "url": "https://1drv.ms/f/c/88f2d06dfca76168/IgCGdW2eEinnS66E3Jrojo68AfK1aeMM2NdltnCPc1OQ2CU?e=NAed1a",
-            "version": "2.4"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1775616811,
+      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-VANILLA-bluejay.zip",
+      "id": "eb317a2e218c06d5b8073d71d974713a",
+      "romtype": "OFFICIAL",
+      "size": 1707630510,
+      "url": "https://cdn.axionos.org/bluejay/axion-2.5-REVERIE-20260408-OFFICIAL-VANILLA-bluejay.zip",
+      "version": "2.5"
+    }
+  ]
 }

@@ -1,13 +1,13 @@
 {
-    "response": [
-        {
-            "datetime": 1769450232,
-            "filename": "axion-2.4-TELOS-20260126-OFFICIAL-GMS-oriole.zip",
-            "id": "40ee56b0ec64dcf257c3c22431613ee2",
-            "romtype": "OFFICIAL",
-            "size": 2350254428,
-            "url": "https://1drv.ms/f/c/88f2d06dfca76168/IgCGdW2eEinnS66E3Jrojo68AfK1aeMM2NdltnCPc1OQ2CU?e=NAed1a",
-            "version": "2.4"
-        }
-    ]
+  "response": [
+    {
+      "datetime": 1775615548,
+      "filename": "axion-2.5-REVERIE-20260408-OFFICIAL-GMS-oriole.zip",
+      "id": "1ccf29c2c4ab44f94d3382b322443803",
+      "romtype": "OFFICIAL",
+      "size": 2991857012,
+      "url": "https://cdn.axionos.org/oriole/axion-2.5-REVERIE-20260408-OFFICIAL-GMS-oriole.zip",
+      "version": "2.5"
+    }
+  ]
 }
