@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769928080,
-            "filename": "axion-2.4-SOLACE-20260201064159-OFFICIAL-GMS-raphael.zip",
-            "id": "7522e6498fa8aa864926d36141e20a78",
+            "datetime": 1775601999,
+            "filename": "axion-2.5-REVERIE-20260407225317-OFFICIAL-GMS-raphael.zip",
+            "id": "2a1ced60a43b73b6bc006278f2504030",
             "romtype": "OFFICIAL",
-            "size": 2308337621,
-            "url": "https://cdn.axionos.org/raphael/axion-2.4-SOLACE-20260201064159-OFFICIAL-GMS-raphael.zip",
-            "version": "2.4"
+            "size": 3020854504,
+            "url": "https://github.com/AxionAOSP/AxionOS_Pixels/releases/download/2.5/axion-2.5-REVERIE-20260407225317-OFFICIAL-GMS-raphael.zip",
+            "version": "2.5"
         }
     ]
 }
