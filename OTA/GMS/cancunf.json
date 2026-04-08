@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1765637778,
-            "filename": "axion-2.2.1-NIGHTLY-20251213-OFFICIAL-GMS-cancunf.zip",
-            "id": "ac685e9f3c1dce97f025fb73840c7bbb",
+            "datetime": 1775574062,
+            "filename": "axion-2.5-REVERIE-20260407-OFFICIAL-GMS-cancunf.zip",
+            "id": "2224c951880828613aa3353a81171a3a",
             "romtype": "OFFICIAL",
-            "size": 2247606778,
-            "url": "https://drive.google.com/uc?id=1FboPeSxzZH9Hl_IPJCj4QzgYyQo21BBc&export=download",
-            "version": "2.2.1"
+            "size": 3172614636,
+            "url": "https://cdn.axionos.org/cancunf/axion-2.5-REVERIE-20260407-OFFICIAL-GMS-cancunf.zip",
+            "version": "2.5"
         }
     ]
 }
