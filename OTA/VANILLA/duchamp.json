@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769614611,
-            "filename": "axion-2.4-SOLACE-20260128-OFFICIAL-VANILLA-duchamp.zip",
-            "id": "78e7e91a5101738b0805f2edae47793d",
+            "datetime": 1775705962,
+            "filename": "axion-2.5-REVERIE-20260409-OFFICIAL-VANILLA-duchamp.zip",
+            "id": "3246b0650c544841500539917abf08c9",
             "romtype": "OFFICIAL",
-            "size": 2203693355,
-            "url": "https://sourceforge.net/projects/axionosduchamp/files/axion-2.4-SOLACE-20260128-OFFICIAL-VANILLA-duchamp.zip/download",
-            "version": "2.4"
+            "size": 2313049333,
+            "url": "https://cdn.axionos.org/duchamp/axion-2.5-REVERIE-20260409-OFFICIAL-VANILLA-duchamp.zip",
+            "version": "2.5"
         }
     ]
 }

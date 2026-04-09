@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769614607,
-            "filename": "axion-2.4-SOLACE-20260128-OFFICIAL-GMS-duchamp.zip",
-            "id": "ffc77747a2684b8dcb0e782d66dd8675",
+            "datetime": 1775707340,
+            "filename": "axion-2.5-REVERIE-20260409-OFFICIAL-GMS-duchamp.zip",
+            "id": "7dd118237e1ec8bedfc9498e704d3917",
             "romtype": "OFFICIAL",
-            "size": 2685118836,
-            "url": "https://sourceforge.net/projects/axionosduchamp/files/axion-2.4-SOLACE-20260128-OFFICIAL-GMS-duchamp.zip/download",
-            "version": "2.4"
+            "size": 2591058020,
+            "url": "https://cdn.axionos.org/duchamp/axion-2.5-REVERIE-20260409-OFFICIAL-GMS-duchamp.zip",
+            "version": "2.5"
         }
     ]
 }
