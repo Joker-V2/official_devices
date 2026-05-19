@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769764230,
-            "filename": "axion-2.4-SOLACE-20260130091035-OFFICIAL-VANILLA-oscaro.zip",
-            "id": "52884aac95d8d07e483a5a3f37dae29d",
+            "datetime": 1776782180,
+            "filename": "axion-2.5-REVERIE-20260421143741-OFFICIAL-VANILLA-oscaro.zip",
+            "id": "e816c9540e01297c7f978124960066fc",
             "romtype": "OFFICIAL",
-            "size": 2089245590,
-            "url": "https://elixir-mirrors.chethangowdasj1.workers.dev/0:/axion_oscaro-OFFICIAL/axion-2.4-SOLACE-20260130091035-OFFICIAL-VANILLA-oscaro.zip",
-            "version": "2.4"
+            "size": 2270627513,
+            "url": "https://cdn.axionos.org/oscaro/axion-2.5-REVERIE-20260421143741-OFFICIAL-VANILLA-oscaro.zip",
+            "version": "2.5"
         }
     ]
 }

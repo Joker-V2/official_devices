@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1769765852,
-            "filename": "axion-2.4-SOLACE-20260130093737-OFFICIAL-GMS-oscaro.zip",
-            "id": "827e0c58f99adcc0cf7c255bf3f5c0b8",
+            "datetime": 1776776423,
+            "filename": "axion-2.5-REVERIE-20260421130436-OFFICIAL-GMS-oscaro.zip",
+            "id": "6b49e6cb51a293e2ea2fff03353a3802",
             "romtype": "OFFICIAL",
-            "size": 2474678570,
-            "url": "https://elixir-mirrors.chethangowdasj1.workers.dev/0:/axion_oscaro-OFFICIAL/axion-2.4-SOLACE-20260130093737-OFFICIAL-GMS-oscaro.zip",
-            "version": "2.4"
+            "size": 2553330636,
+            "url": "https://cdn.axionos.org/oscaro/axion-2.5-REVERIE-20260421130436-OFFICIAL-GMS-oscaro.zip",
+            "version": "2.5"
         }
     ]
 }

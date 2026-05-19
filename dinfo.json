@@ -118,6 +118,33 @@
       "status": "Active"
     },
     {
+      "device_name": "Google Pixel 10",
+      "codename": "frankel",
+      "maintainer": "EliteDarkKaiser",
+      "github_username": "austineyoung2000",
+      "support_group": "https://t.me/+E67IdG0vR0gzZWEx",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-.jpg",
+      "status": "Active"
+    },
+    {
+      "device_name": "Google Pixel 10 Pro",
+      "codename": "blazer",
+      "maintainer": "EliteDarkKaiser",
+      "github_username": "austineyoung2000",
+      "support_group": "https://t.me/+E67IdG0vR0gzZWEx",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-.jpg",
+      "status": "Active"
+    },
+    {
+      "device_name": "Google Pixel 10 Pro XL",
+      "codename": "mustang",
+      "maintainer": "EliteDarkKaiser",
+      "github_username": "austineyoung2000",
+      "support_group": "https://t.me/+E67IdG0vR0gzZWEx",
+      "image_url": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-10-pro-xl-.jpg",
+      "status": "Active"
+    },
+    {
       "device_name": "Motorola G34/45 5G",
       "codename": "fogos",
       "maintainer": "Byben",
@@ -142,6 +169,15 @@
       "github_username": "beingashwani",
       "support_group": "https://t.me/axion_tetris",
       "image_url": "https://m.gsmarena.com/nothing_cmf_phone_1-pictures-13122.php",
+      "status": "Inactive"
+    },
+    {
+      "device_name": "Nothing Phone (2)",
+      "codename": "Pong",
+      "maintainer": "hiroshi. (Superuser)",
+      "github_username": "joshuah345",
+      "support_group": "https://t.me/nukisystems",
+      "image_url": "https://wiki.lineageos.org/images/devices/Pong.png",
       "status": "Active"
     },
     {
@@ -199,6 +235,15 @@
       "status": "Active"
     },
     {
+      "device_name": "Oneplus Nord",
+      "codename": "avicii",
+      "maintainer": "Sreeshankar K",
+      "github_username": "sreeshankark",
+      "support_group": "https://t.me/sanjusprjkt",
+      "image_url": "https://wiki.lineageos.org/images/devices/avicii.png",
+      "status": "Active"
+    },
+    {
       "device_name": "Oneplus Nord CE2 Lite 5G",
       "codename": "oscaro",
       "maintainer": "Chethan",
@@ -219,11 +264,11 @@
     {
       "device_name": "POCO F3/Mi 11X/K40",
       "codename": "alioth",
-      "maintainer": "Rve",
-      "github_username": "Rve27",
-      "support_group": "https://t.me/rve_enterprises",
+      "maintainer": "Yaseakun",
+      "github_username": "skenakun",
+      "support_group": "https://t.me/yaseaprjktchat",
       "image_url": "https://wiki.lineageos.org/images/devices/alioth.png",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "device_name": "POCO F4/K40S",
@@ -241,7 +286,7 @@
       "github_username": "beingashwani",
       "support_group": "https://t.me/axion_marble",
       "image_url": "https://i.postimg.cc/3NP59Rrg/1000003700.png",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "device_name": "POCO F5 Pro/K60",
@@ -250,7 +295,7 @@
       "github_username": "keosh1",
       "support_group": "https://t.me/keoshlapgroup",
       "image_url": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-poco-f5-pro-2.jpg",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "device_name": "POCO F6",
@@ -313,7 +358,7 @@
       "github_username": "xyzuniverse",
       "support_group": "https://t.me/rexp_discussion",
       "image_url": "https://i02.appmifile.com/755_item_id/12/02/2025/b27b9211fbbb432229945701ea6116c2.png",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "device_name": "Realme 5 series",
@@ -394,7 +439,7 @@
       "github_username": "therealmharc",
       "support_group": "https://t.me/donjohanliebert_sg",
       "image_url": "https://wiki.lineageos.org/images/devices/sweet.png",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "device_name": "Redmi Note 12 Pro / Plus / Discovery 5G",

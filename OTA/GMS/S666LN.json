@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1771582887,
-            "filename": "axion-2.4-SOLACE-20260220-OFFICIAL-GMS-S666LN.zip",
-            "id": "4dfee103ec7ac2b2e1ff511dc293d2ae",
+            "datetime": 1779033029,
+            "filename": "axion-2.6-QUASIS-20260517-OFFICIAL-CORE-S666LN.zip",
+            "id": "5934d346ff4563cd03cf0ce607214d54",
             "romtype": "OFFICIAL",
-            "size": 2189318676,
-            "url": "https://cdn.axionos.org/s666ln/axion-2.4-SOLACE-20260220-OFFICIAL-GMS-S666LN.zip",
-            "version": "2.4"
+            "size": 2249615588,
+            "url": "https://cdn.axionos.org/S666LN/axion-2.6-QUASIS-20260517-OFFICIAL-CORE-S666LN.zip",
+            "version": "2.6"
         }
     ]
 }
