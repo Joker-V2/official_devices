@@ -1,3 +1,8 @@
+AxionOS v2.6
+Build Date : 21/05/2026
+- Initial QPR2 Build
+- Included AxionFx
+
 AxionOS v2.4
 Build Date : 28/02/2026
 - Enabled Blurs (if u feel lag disable them via display settings)
