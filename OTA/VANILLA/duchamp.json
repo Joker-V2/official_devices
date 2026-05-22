@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1775705962,
-            "filename": "axion-2.5-REVERIE-20260409-OFFICIAL-VANILLA-duchamp.zip",
-            "id": "3246b0650c544841500539917abf08c9",
+            "datetime": 1779440527,
+            "filename": "axion-2.6-QUASIS-20260522-OFFICIAL-VANILLA-duchamp.zip",
+            "id": "c8407bd08a156473d83ca909efeba061",
             "romtype": "OFFICIAL",
-            "size": 2313049333,
-            "url": "https://cdn.axionos.org/duchamp/axion-2.5-REVERIE-20260409-OFFICIAL-VANILLA-duchamp.zip",
-            "version": "2.5"
+            "size": 2465066586,
+            "url": "https://cdn.axionos.org/duchamp/axion-2.6-QUASIS-20260522-OFFICIAL-VANILLA-duchamp.zip",
+            "version": "2.6"
         }
     ]
 }

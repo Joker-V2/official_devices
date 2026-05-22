@@ -1,4 +1,10 @@
 AxionOS v2.5
+Build Date : 22/05/2026
+- Tuned AxBurstEngine V2
+- Added BurnIn Protection
+- Some MISC changes
+
+AxionOS v2.5
 Build Date : 09/04/2026
 - Added AxionFX
 - Shited back to QTI vibrator services
