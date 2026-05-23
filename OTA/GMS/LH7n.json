@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1776399820,
-            "filename": "axion-2.5-REVERIE-20260417-OFFICIAL-GMS-LH7n.zip",
-            "id": "b23eac50be5d7b715321d630eaebfdf2",
+            "datetime": 1779495444,
+            "filename": "axion-2.6-QUASIS-20260523-OFFICIAL-CORE-LH7n.zip",
+            "id": "64460b780fd498e54b741a960e174f2c",
             "romtype": "OFFICIAL",
-            "size": 2424173886,
-            "url": "https://cdn.axionos.org/LH7n/axion-2.5-REVERIE-20260417-OFFICIAL-GMS-LH7n.zip",
-            "version": "2.5"
+            "size": 2275559903,
+            "url": "https://cdn.axionos.org/LH7n/axion-2.6-QUASIS-20260523-OFFICIAL-CORE-LH7n.zip",
+            "version": "2.6"
         }
     ]
 }
