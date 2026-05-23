@@ -38,7 +38,7 @@ Only needs to be done once.
 
 ## Flash the AxionOS recovery
 
-1. Download `vendor_boot.img` for **frankel** from the [AxionOS website](https://cdn.axionos.org).
+1. Download `vendor_boot.img` for **frankel** from the [AxionOS Maintainers GDrive](https://drive.google.com/drive/folders/1O25lGqydo_n3MZJKa24GusCvT68lUpHt).
 2. Reboot to the bootloader:
    ```
    adb reboot bootloader
