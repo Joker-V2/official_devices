@@ -1,3 +1,10 @@
+AxionOS v2.6 QUASIS
+Build Date : 23/05/2026
+- Synced with latest AxionAOSP sources (23/05/2026)
+- Added Google Face Unlock for better device security ang use of hardware
+- Vendor Firmware stripped so users with may firmware dont brick!!
+- Vanilla Builds are now here!!!
+
 AxionOS v2.5 REVERIE
 Build Date : 11/04/2026
 - Synced with latest AxionAOSP sources (11/04/2026)
