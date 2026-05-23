@@ -1,3 +1,9 @@
+AxionOS v2.6
+Build Date 2026/05/23
+- Switch default governor to reflex
+- Update Kernel to Yuuka v4.1
+- Switch to GED GPU control
+
 AxionOS v2.5
 Build Date: 2026/04/17
 - Update Mali Blobs to r38p1

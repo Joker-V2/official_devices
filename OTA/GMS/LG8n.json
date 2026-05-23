@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1776397954,
-            "filename": "axion-2.5-REVERIE-20260417-OFFICIAL-GMS-LG8n.zip",
-            "id": "9cf525a4e0e430a0e3c464c460125768",
+            "datetime": 1779497752,
+            "filename": "axion-2.6-QUASIS-20260523-OFFICIAL-CORE-LG8n.zip",
+            "id": "58c85607fd4c3d2a65ee45129b114e96",
             "romtype": "OFFICIAL",
-            "size": 2308215152,
-            "url": "https://cdn.axionos.org/LG8n/axion-2.5-REVERIE-20260417-OFFICIAL-GMS-LG8n.zip",
-            "version": "2.5"
+            "size": 2157809461,
+            "url": "https://cdn.axionos.org/LG8n/axion-2.6-QUASIS-20260523-OFFICIAL-CORE-LG8n.zip",
+            "version": "2.6"
         }
     ]
 }
