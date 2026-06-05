@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1780547587,
-            "filename": "axion-2.7-PROXIMA_BETA-20260604-OFFICIAL-CORE-duchamp.zip",
-            "id": "4c20a5fd93c4c01756dd25215dc6ffdd",
+            "datetime": 1780677733,
+            "filename": "axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-CORE-duchamp.zip",
+            "id": "a26e18aec7cea05ee72d535aebd70164",
             "romtype": "OFFICIAL",
-            "size": 2935026573,
-            "url": "https://cdn.axionos.org/duchamp/axion-2.7-PROXIMA_BETA-20260604-OFFICIAL-CORE-duchamp.zip",
+            "size": 2935215924,
+            "url": "https://cdn.axionos.org/duchamp/axion-2.7-PROXIMA_BETA-20260605-OFFICIAL-CORE-duchamp.zip",
             "version": "2.7"
         }
     ]
