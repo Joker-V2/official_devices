@@ -1,0 +1,334 @@
+{
+  "schema": 2,
+  "maintainers": [
+    {
+      "id": "rmp",
+      "name": "rmp22",
+      "github_username": "rmp22",
+      "devices": [
+        "oriole",
+        "bluejay",
+        "raven",
+        "panther",
+        "lynx",
+        "cheetah",
+        "shiba",
+        "akita",
+        "husky",
+        "felix"
+      ]
+    },
+    {
+      "id": "EliteDarkKaiser",
+      "name": "EliteDarkKaiser",
+      "github_username": "austineyoung2000",
+      "devices": [
+        "frankel",
+        "blazer",
+        "mustang",
+        "tangorpro"
+      ]
+    },
+    {
+      "id": "Niv",
+      "name": "Niv",
+      "github_username": "nivlafx",
+      "devices": [
+        "tokay",
+        "caiman",
+        "komodo"
+      ]
+    },
+    {
+      "id": "Byben",
+      "name": "Byben",
+      "github_username": "heybyben",
+      "devices": [
+        "fogos"
+      ]
+    },
+    {
+      "id": "Ayan",
+      "name": "Ayan",
+      "github_username": "not-ayan",
+      "devices": [
+        "cancunf"
+      ]
+    },
+    {
+      "id": "Ashwani",
+      "name": "Ashwani",
+      "github_username": "beingashwani",
+      "devices": [
+        "Tetris"
+      ]
+    },
+    {
+      "id": "hiroshi._(Superuser)",
+      "name": "hiroshi. (Superuser)",
+      "github_username": "joshuah345",
+      "devices": [
+        "Pong"
+      ]
+    },
+    {
+      "id": "Itachi",
+      "name": "Itachi",
+      "github_username": "manidweep",
+      "devices": [
+        "instantnoodle",
+        "instantnoodlep",
+        "kebab",
+        "lemonades"
+      ]
+    },
+    {
+      "id": "Genoxci",
+      "name": "Genoxci",
+      "github_username": "genoxci-dev",
+      "devices": [
+        "giulia",
+        "giuliac",
+        "a52sxq"
+      ]
+    },
+    {
+      "id": "Sreeshankar_K",
+      "name": "Sreeshankar K",
+      "github_username": "sreeshankark",
+      "devices": [
+        "avicii"
+      ]
+    },
+    {
+      "id": "Chethan",
+      "name": "Chethan",
+      "github_username": "NoCache-69",
+      "devices": [
+        "oscaro"
+      ]
+    },
+    {
+      "id": "Akshat",
+      "name": "Akshat",
+      "github_username": "Legendleo90",
+      "devices": [
+        "beryllium"
+      ]
+    },
+    {
+      "id": "Yaseakun",
+      "name": "Yaseakun",
+      "github_username": "skenakun",
+      "devices": [
+        "alioth"
+      ]
+    },
+    {
+      "id": "SENX|センクス",
+      "name": "SENX|センクス",
+      "github_username": "SenseiiX",
+      "devices": [
+        "munch",
+        "rodin"
+      ]
+    },
+    {
+      "id": "PabloEscobar",
+      "name": "PabloEscobar",
+      "github_username": "pabloescobar-reborn",
+      "devices": [
+        "marble"
+      ]
+    },
+    {
+      "id": "Keosh",
+      "name": "Keosh",
+      "github_username": "keosh1",
+      "devices": [
+        "mondrian"
+      ]
+    },
+    {
+      "id": "zenin1504",
+      "name": "zenin1504",
+      "github_username": "zenin1504",
+      "devices": [
+        "peridot"
+      ]
+    },
+    {
+      "id": "Zarathos_Ghost_Rider",
+      "name": "Zarathos_Ghost_Rider",
+      "github_username": "Zarathos30",
+      "devices": [
+        "onyx"
+      ]
+    },
+    {
+      "id": "RiteshSahany",
+      "name": "RiteshSahany",
+      "github_username": "RiteshSahany",
+      "devices": [
+        "miatoll"
+      ]
+    },
+    {
+      "id": "Debayan_Kar",
+      "name": "Debayan Kar",
+      "github_username": "kardebayan",
+      "devices": [
+        "surya"
+      ]
+    },
+    {
+      "id": "Mayur_U",
+      "name": "Mayur_U",
+      "github_username": "Mayur-U",
+      "devices": [
+        "redwood"
+      ]
+    },
+    {
+      "id": "Sai_Krishna",
+      "name": "Saikrishna",
+      "github_username": "Saikrishna1504",
+      "devices": [
+        "duchamp",
+        "begonia"
+      ]
+    },
+    {
+      "id": "Amrito_Karmokar",
+      "name": "Amritorock",
+      "github_username": "Amritorock",
+      "devices": [
+        "r5x",
+        "lavender"
+      ]
+    },
+    {
+      "id": "𝙴𝙻𝙾𝙷𝙸𝙼",
+      "name": "𝙴𝙻𝙾𝙷𝙸𝙼",
+      "github_username": "elohim-etz",
+      "devices": [
+        "RM6785"
+      ]
+    },
+    {
+      "id": "Bijoy",
+      "name": "Bijoy",
+      "github_username": "bijoyv9",
+      "devices": [
+        "bitra",
+        "spartan"
+      ]
+    },
+    {
+      "id": "Rve",
+      "name": "Rve",
+      "github_username": "Rve27",
+      "devices": [
+        "Mi8937_4_19"
+      ]
+    },
+    {
+      "id": "fukiame",
+      "name": "fukiame",
+      "github_username": "fukiame",
+      "devices": [
+        "blossom"
+      ]
+    },
+    {
+      "id": "doissM",
+      "name": "doissM",
+      "github_username": "mk7x7",
+      "devices": [
+        "lancelot",
+        "merlinx"
+      ]
+    },
+    {
+      "id": "Joker-V2",
+      "name": "Joker-V2",
+      "github_username": "Joker-V2",
+      "devices": [
+        "violet"
+      ]
+    },
+    {
+      "id": "therealmharc",
+      "name": "therealmharc",
+      "github_username": "therealmharc",
+      "devices": [
+        "sweet"
+      ]
+    },
+    {
+      "id": "Casanova.",
+      "name": "Casanova.",
+      "github_username": "rajdeep-3305",
+      "devices": [
+        "rubyx"
+      ]
+    },
+    {
+      "id": "swiitchOFF",
+      "name": "swiitchOFF",
+      "github_username": "swiitchOFF",
+      "devices": [
+        "vili"
+      ]
+    },
+    {
+      "id": "Muhammad_Al-Arabi",
+      "name": "Muhammad Al-Arabi",
+      "github_username": "MohammadAlArabi",
+      "devices": [
+        "raphael"
+      ]
+    },
+    {
+      "id": "Lucifer",
+      "name": "Lucifer",
+      "github_username": "Never-Alive",
+      "devices": [
+        "haydn"
+      ]
+    },
+    {
+      "id": "°⊥⋊ɹ∀°",
+      "name": "°⊥⋊ɹ∀°",
+      "github_username": "ArKT-7",
+      "devices": [
+        "nabu"
+      ]
+    },
+    {
+      "id": "Null_Pointer",
+      "name": "Null_Pointer",
+      "github_username": "nullpointer1101",
+      "devices": [
+        "pipa"
+      ]
+    },
+    {
+      "id": "Shirayuki39",
+      "name": "Shirayuki39",
+      "github_username": "Shirayuki39",
+      "devices": [
+        "LG8n",
+        "LH7n"
+      ]
+    },
+    {
+      "id": "KimelaZPrjkt.",
+      "name": "KimelaZPrjkt.",
+      "github_username": "KimelaZX",
+      "devices": [
+        "S666LN"
+      ]
+    }
+  ]
+}
