@@ -1,3 +1,9 @@
+AxionOS v2.7_BETA
+Build Date : 06/06/2026
+- Fixed EngineerMode
+- Memory reclaim kernel tweaks
+- Small Misc changes
+
 AxionOS v2.6
 Build Date : 21/05/2026
 - Initial QPR2 Build

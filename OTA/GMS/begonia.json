@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779359544,
-            "filename": "axion-2.6-QUASIS-20260521-OFFICIAL-PICO-begonia.zip",
-            "id": "76cdc810b6705dd7e53b935f6d1591de",
+            "datetime": 1780746171,
+            "filename": "axion-2.7-PROXIMA_BETA-20260606-OFFICIAL-PICO-begonia.zip",
+            "id": "6a08bb029697f4da1516d62b6896f222",
             "romtype": "OFFICIAL",
-            "size": 2180274730,
-            "url": "https://cdn.axionos.org/begonia/axion-2.6-QUASIS-20260521-OFFICIAL-PICO-begonia.zip",
-            "version": "2.6"
+            "size": 2186741604,
+            "url": "https://cdn.axionos.org/begonia/axion-2.7-PROXIMA_BETA-20260606-OFFICIAL-PICO-begonia.zip",
+            "version": "2.7"
         }
     ]
 }

@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1779357133,
-            "filename": "axion-2.6-QUASIS-20260521-OFFICIAL-VANILLA-begonia.zip",
-            "id": "ad67ae1fcf9728796856cc358ec9c7b0",
+            "datetime": 1780745046,
+            "filename": "axion-2.7-PROXIMA_BETA-20260606-OFFICIAL-VANILLA-begonia.zip",
+            "id": "a4b2a41209d7754c4786bacc5edc793d",
             "romtype": "OFFICIAL",
-            "size": 2039787695,
-            "url": "https://cdn.axionos.org/begonia/axion-2.6-QUASIS-20260521-OFFICIAL-VANILLA-begonia.zip",
-            "version": "2.6"
+            "size": 2043340968,
+            "url": "https://cdn.axionos.org/begonia/axion-2.7-PROXIMA_BETA-20260606-OFFICIAL-VANILLA-begonia.zip",
+            "version": "2.7"
         }
     ]
 }
