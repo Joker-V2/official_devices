@@ -404,7 +404,7 @@
       "codename": "mumba",
       "name": "Motorola G57 Power",
       "brand": "motorola",
-      "status": "active",
+      "status": "inactive",
       "maintainer_ids": [
         "Viaan"
       ],

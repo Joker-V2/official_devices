@@ -20,7 +20,6 @@
 | **Google Pixel 10 Pro XL** | `mustang` |
 | **Google Pixel Fold** | `felix` |
 | **Motorola G34/45 5G** | `fogos` |
-| **Motorola G57 Power** | `mumba` |
 | **Motorola G84 5G** | `bangkk` |
 | **Nothing Phone (2)** | `Pong` |
 | **Nothing Phone 2a** | `Pacman` |
@@ -106,7 +105,6 @@
 - **[Zediss](https://github.com/zedisspp)** (Motorola G84 5G (`bangkk`))
 - **[Jefino](https://github.com/Jefino9488)** (POCO X4 GT / Redmi Note 11T Pro (+) / K50i (`xaga`))
 - **[Kill3rEz](https://github.com/Kill3rEz)** (Oneplus 13 (`dodge`))
-- **[Viaan](https://github.com/n0escape-exe)** (Motorola G57 Power (`mumba`))
 - **[M.Nabeel](https://github.com/neural0x)** (Xiaomi 13 (`fuxi`))
 - **[Flying Squirrel](https://github.com/ZetyaWyn)** (Redmi Note 13 Pro 5G / Poco X6 5G (`garnet`))
 
